@@ -503,6 +503,1250 @@
         "name": "Framed Pixel Red Fill Bar.png2",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Default-panel-border (11).png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Default-panel-border (11).png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Default-panel-border (11).png",
+        "smoothed": true,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Fantasy UI Borders/Default Size/Borders/5c6e4491e65a5a9a48fe4e65c78579b145ac718aea4c6e33fddd04fbb7a8acd4_Default-panel-border (11).png",
+          "name": "Default-panel-border (11).png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Default-panel-border (11).png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/Default-panel-border (11).png2.png\"}",
+        "name": "Default-panel-border (11).png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Potion.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Red Potion.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art RPG Items/Collectable items/0c1a0424fba91f7ee2c119e7da0745c24eb06f381fbc365c1fe7f613dbec9b45_Red Potion.png",
+          "name": "Red Potion.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Iron Sword 15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Iron Sword 15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 RPG Weapons/Iron Weapon/Sword/799972a991c8b60e6b86a86831f0abc8a324876026ea7d940189b7bfcf26c114_Iron Sword 15.png",
+          "name": "Iron Sword 15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Numeral 4_Drop-shadowed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Numeral 4_Drop-shadowed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Mini UI/Numbers/89a34bf25181cea619c50bfbdf6f5e5032219c3f14310bfa1f4f245e6a58440e_Numeral 4_Drop-shadowed.png",
+          "name": "Numeral 4_Drop-shadowed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Numeral 4_Outlined.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Numeral 4_Outlined.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Mini FX, Items & UI/Mini UI/Numbers/a618e382c3f1a46068272d1b095fee485730ad5487714954e9b9663f9fd536c6_Numeral 4_Outlined.png",
+          "name": "Numeral 4_Outlined.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Empty2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Inventory Slot Empty2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/f305fdf036385c51430f108916e26673103cf13a716df6d34e7aabafe2d77b36_Inventory Slot Empty2.png",
+          "name": "Inventory Slot Empty2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/18e0a4f615f708004f5c448dd2bacc0f44cd154f55eb9e267585a3c9f019c5e8_Farmer_Idle Down_1.png",
+          "name": "Farmer_Idle Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/18e0a4f615f708004f5c448dd2bacc0f44cd154f55eb9e267585a3c9f019c5e8_Farmer_Idle Down_2.png",
+          "name": "Farmer_Idle Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d32ae0b640cfa3f2c0c02d5f5229bcbb9d6d6ca587b15c9f662ef4d0ff070da3_Farmer_Idle Down_3.png",
+          "name": "Farmer_Idle Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/d32ae0b640cfa3f2c0c02d5f5229bcbb9d6d6ca587b15c9f662ef4d0ff070da3_Farmer_Idle Down_4.png",
+          "name": "Farmer_Idle Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/05d0c5fd54cb5b21bc57979322bb40a820a2897b9813df91dd4ba6ea10e2734b_Farmer_Idle Left_1.png",
+          "name": "Farmer_Idle Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/05d0c5fd54cb5b21bc57979322bb40a820a2897b9813df91dd4ba6ea10e2734b_Farmer_Idle Left_2.png",
+          "name": "Farmer_Idle Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/642bb985064ca0ea66dc27e8a15642af3a4ad7f0bf844c71fd877821c8992cdf_Farmer_Idle Left_3.png",
+          "name": "Farmer_Idle Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/642bb985064ca0ea66dc27e8a15642af3a4ad7f0bf844c71fd877821c8992cdf_Farmer_Idle Left_4.png",
+          "name": "Farmer_Idle Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5cf73f875f88dd22116ab26d89ec480ddb2086f4cf2042724e8ed7417b47ea81_Farmer_Idle Right_1.png",
+          "name": "Farmer_Idle Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5cf73f875f88dd22116ab26d89ec480ddb2086f4cf2042724e8ed7417b47ea81_Farmer_Idle Right_2.png",
+          "name": "Farmer_Idle Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/4063a0dd0bb0af9ae4bc6879a36f17e0dc901dcf1f299fa858a9be1432d16e0b_Farmer_Idle Right_3.png",
+          "name": "Farmer_Idle Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/4063a0dd0bb0af9ae4bc6879a36f17e0dc901dcf1f299fa858a9be1432d16e0b_Farmer_Idle Right_4.png",
+          "name": "Farmer_Idle Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/515da1cc1f9fb12ba87f7f25e76d3c6fa355028de0f42424e2ebd96dc2530109_Farmer_Idle Up_1.png",
+          "name": "Farmer_Idle Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/515da1cc1f9fb12ba87f7f25e76d3c6fa355028de0f42424e2ebd96dc2530109_Farmer_Idle Up_2.png",
+          "name": "Farmer_Idle Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5a70638ae5989df2bdfb4319c47c6d8f25d120faa1057113c1a2557eb7487d5a_Farmer_Idle Up_3.png",
+          "name": "Farmer_Idle Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Idle Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Idle Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/5a70638ae5989df2bdfb4319c47c6d8f25d120faa1057113c1a2557eb7487d5a_Farmer_Idle Up_4.png",
+          "name": "Farmer_Idle Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Down_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Down_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/20f0f230c50f81c451b2dd3d6b33d25087feef0e169c22fa0b1da04c731bb1bf_Farmer_Walk Down_1.png",
+          "name": "Farmer_Walk Down_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Down_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Down_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f5715182cb5cc7a78f18afffa2409b0d84dbfcda9d362d2eb2c9437293c7f20f_Farmer_Walk Down_2.png",
+          "name": "Farmer_Walk Down_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Down_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Down_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/2d85b7c116d1362036f12e0524980a0490a66483665f04ec6d22205af30c0f80_Farmer_Walk Down_3.png",
+          "name": "Farmer_Walk Down_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Down_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Down_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f5715182cb5cc7a78f18afffa2409b0d84dbfcda9d362d2eb2c9437293c7f20f_Farmer_Walk Down_4.png",
+          "name": "Farmer_Walk Down_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Left_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Left_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/80e9067756fd27df67d8947344191cc44cc233bfb946f1f2a6ee6b82026df19a_Farmer_Walk Left_1.png",
+          "name": "Farmer_Walk Left_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Left_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Left_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/642bb985064ca0ea66dc27e8a15642af3a4ad7f0bf844c71fd877821c8992cdf_Farmer_Walk Left_2.png",
+          "name": "Farmer_Walk Left_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Left_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Left_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/449d7e83d56968f800ef686d03842e96f107e23597b1d258f24c082c08bb7592_Farmer_Walk Left_3.png",
+          "name": "Farmer_Walk Left_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Left_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Left_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/642bb985064ca0ea66dc27e8a15642af3a4ad7f0bf844c71fd877821c8992cdf_Farmer_Walk Left_4.png",
+          "name": "Farmer_Walk Left_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Right_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Right_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0367493439af9560ee98411f3cd05a98342260d8cd5a082d3a11d5c79c2aa60e_Farmer_Walk Right_1.png",
+          "name": "Farmer_Walk Right_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Right_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Right_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/4063a0dd0bb0af9ae4bc6879a36f17e0dc901dcf1f299fa858a9be1432d16e0b_Farmer_Walk Right_2.png",
+          "name": "Farmer_Walk Right_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Right_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Right_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/f68b574c68ceed62434c07e53959042574dc3941b48d7945c424a0ee792f60b2_Farmer_Walk Right_3.png",
+          "name": "Farmer_Walk Right_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Right_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Right_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/4063a0dd0bb0af9ae4bc6879a36f17e0dc901dcf1f299fa858a9be1432d16e0b_Farmer_Walk Right_4.png",
+          "name": "Farmer_Walk Right_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/ba142b921a537f5cb7a056c65699bd2a163b591a6918a0329fa6063c8d6e3301_Farmer_Walk Up_1.png",
+          "name": "Farmer_Walk Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0c929531d3a723fc5eb153ae42640ad76514ebc2f97681e1fb7f853c73d0dc40_Farmer_Walk Up_2.png",
+          "name": "Farmer_Walk Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Up_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Up_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/dc03063fcb40eab33adb9902e2b87e73b246f98ced2d9596eaaec47b35c9a7ba_Farmer_Walk Up_3.png",
+          "name": "Farmer_Walk Up_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Farmer_Walk Up_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Farmer_Walk Up_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Fantasy RPG character/character/0c929531d3a723fc5eb153ae42640ad76514ebc2f97681e1fb7f853c73d0dc40_Farmer_Walk Up_4.png",
+          "name": "Farmer_Walk Up_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory_Example_03.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Inventory_Example_03.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Inventory_Example_03.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/UI/66715896f1a3630035a93d0d271085740e291ce1949e2c118e7899beedf6180c_Inventory_Example_03.png",
+          "name": "Inventory_Example_03.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Sword3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Inventory Slot Sword3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/3580c8e797b50052047a885baa3ea60d17220e3686e13fab6e47a5ce077b70ae_Inventory Slot Sword3.png",
+          "name": "Inventory Slot Sword3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Sword4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Inventory Slot Sword3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Weapon.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Inventory Slot Weapon",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Weapon2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Inventory Slot Weapon2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Weapon3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Inventory Slot Weapon3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory_9Slices.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Inventory_9Slices.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/UI/9d76e6e4af68637d689d7b0904b46fdd3b3eed4363d7140e757b8b14cfdcd7cd_Inventory_9Slices.png",
+          "name": "Inventory_9Slices.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory_9Slices.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Inventory_9Slices.png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory_9Slices.png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Inventory_9Slices.png3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite.png\"}",
+        "name": "NewTiledSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory_Background.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Inventory_Background",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Helmet5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Inventory Slot Helmet5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/40db6dbc20302c6ff8d2d1e0d291deff6c642611b1229cc94bf1128b5129081e_Inventory Slot Helmet5.png",
+          "name": "Inventory Slot Helmet5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Boot9.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"assets/Inventory Slot Boot9.png\",\"extension\":\".png\"}",
+        "name": "Inventory Slot Boot9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/e5b233b3ceca373dbe86bd0c46015cf41a157ad65f69ffe541a03e1f5088410e_Inventory Slot Boot9.png",
+          "name": "Inventory Slot Boot9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Chest6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Inventory Slot Chest6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/baf2534055ec22e1f72c93089b418f5e99fbd8829873402b6510aa40c89c7365_Inventory Slot Chest6.png",
+          "name": "Inventory Slot Chest6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Helmet6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Inventory Slot Helmet5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Chest7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Inventory Slot Chest6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Boot10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Inventory Slot Boot9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Ring7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Inventory Slot Ring7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/693c119026ad98b24e0d7071c853713c12a4a56c4e7c1270345b412e4e176137_Inventory Slot Ring7.png",
+          "name": "Inventory Slot Ring7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Ring8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Inventory Slot Ring7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory_9Slices.png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Inventory_9Slices.png4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Default-panel-border (11).png3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Default-panel-border (11).png3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Default-panel-border (11).png4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/Default-panel-border (11).png4.png\"}",
+        "name": "Default-panel-border (11).png4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Default-panel-border (11).png5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Default-panel-border (11).png5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Default-panel-border (11).png6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Default-panel-border (11).png6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Default-panel-border (11).png7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Default-panel-border (11).png7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Default-panel-border (11).png8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "Default-panel-border (11).png8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Sheild4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Inventory Slot Sheild4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Retro Pixelart UI/Pixel art/4d48015d510fe3e1eabe0d0dc81d897fb63d8e90a211ef91abd65c782d45f2dd_Inventory Slot Sheild4.png",
+          "name": "Inventory Slot Sheild4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Sheild5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Inventory Slot Sheild4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Inventory Slot Empty3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Inventory Slot Empty2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Kenney Pixel.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Kenney Font Pack/490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sword.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art RPG Items/Weapons/50a738319958d5049ce592a865b5684649ea0a967e152b323d1579559b224bfd_Sword.png",
+          "name": "Sword.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sword",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sword2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sword3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sword4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sword5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sword6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Iron Helmet.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Iron Helmet.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art RPG Items/Armor/49052831823a9aef15c983506e4212e7bff4f5d00d439df65f5a48c7bf986d10_Iron Helmet.png",
+          "name": "Iron Helmet.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Iron Helmet2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Iron Helmet",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Iron Helmet3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Iron Helmet2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Iron Helmet4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Iron Helmet3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Potion2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Red Potion",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Red Potion3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Red Potion2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Iron Helmet5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Iron Helmet4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Silver Key.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Silver Key.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art RPG Items/Collectable items/8ab0d2becaa6fd92b249306eb2366ddf54eec25a0ae26ad4be1d9c56605ef040_Silver Key.png",
+          "name": "Silver Key.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin Sack.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Coin Sack.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art RPG Items/Collectable items/fa0373e7f22d935b33668c394f224b1980f1f47eb517914a9c1e40603c993713_Coin Sack.png",
+          "name": "Coin Sack.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sapphire Ring.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Sapphire Ring.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art RPG Items/Collectable items/f68c8b3529f7f9f8247c72c37cb9eddfa6a37fb9483e649c25b90b1da33ac36c_Sapphire Ring.png",
+          "name": "Sapphire Ring.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Coin Sack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Coin Sack",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sword7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Iron Helmet6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Iron Helmet5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sword8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Sword10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Sword9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Treasure Chest_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Treasure Chest_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/7f362b8cb571527bfc063b4a140464df6850fdac2c0ac1b95819ccbe0772cae6_Treasure Chest_No Shadow.png",
+          "name": "Treasure Chest_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Treasure Chest_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Treasure Chest_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/29c5fdc5fe498d49e530a9aaf66a0089ff165b78322ab192e2fd32c3429d023e_Treasure Chest_Shadow.png",
+          "name": "Treasure Chest_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Shadow.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Shadow",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knapsack_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Knapsack_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/0550f203aae390524a29e57ebb81a255e3035a9f334a9b3b50d97f1d6aa085ae_Knapsack_No Shadow.png",
+          "name": "Knapsack_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Knapsack_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Knapsack_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/General Items/1d814d667574d0f06770dc0ad2d03074db61a76669c7c94132ff76a5a37d2a07_Knapsack_Shadow.png",
+          "name": "Knapsack_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Shadow2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Shadow2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Longsword_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Longsword_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Weapons/cb1b2ea23c7313ebc495936a2bb10f6c2b37d6cb46768ef4af40c3b0adcf5caf_Longsword_No Shadow.png",
+          "name": "Longsword_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Longsword_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Longsword_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Weapons/f5504c0db53e357dd8cde52495e10e73eb0eea07dee05103cb97063216d46c29_Longsword_Shadow.png",
+          "name": "Longsword_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Buckler Shield_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Buckler Shield_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Weapons/8134e2b8e8f33460fcef751f849003e58058c6ad907841f22a4933a58c1bc815_Buckler Shield_No Shadow.png",
+          "name": "Buckler Shield_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Buckler Shield_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Buckler Shield_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Weapons/a8fa40e24948c0252e314bffda53b3d96263fb9730b4ac4bb7354a7f9d4f167f_Buckler Shield_Shadow.png",
+          "name": "Buckler Shield_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Normal Potion Red_No Shadow2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Normal Potion Red_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Healing Items/6a4fb6409e061a24b6915544e16ea3ff73bf0c16803a0356cfa1e7630b781f5b_Normal Potion Red_No Shadow.png",
+          "name": "Normal Potion Red_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Normal Potion Red_Shadow2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Normal Potion Red_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Healing Items/a503c4a8b7a061a651da8548e637dd76f06c609c7a97cbd6112356e82011608a_Normal Potion Red_Shadow.png",
+          "name": "Normal Potion Red_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ring_No Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ring_No Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Clothing & Armor/c09f20c879c193ff4f5c8cc784bfdc0f21fc95c5fa7c3b54d8e0886c6bb24b46_Ring_No Shadow.png",
+          "name": "Ring_No Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Ring_Shadow.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Ring_Shadow.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/32x32 Fantasy Icons Pack v2/Icons/Clothing & Armor/c9b6ce35ef66453e3f761605c6ecaf6030cfcae32e1b60e8d3a44e08606c4cc4_Ring_Shadow.png",
+          "name": "Ring_Shadow.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Shadow3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Shadow3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Shadow4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Shadow4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/No Shadow.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "No Shadow",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Shadow5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Shadow5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Shadow6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Shadow6",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -593,45 +1837,98 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-        "zoomFactor": 1.370932079422755,
+        "zoomFactor": 0.637252284109107,
         "windowMask": false
       },
       "objectsGroups": [
         {
-          "name": "PhysicalObject",
+          "name": "UI",
           "objects": [
             {
-              "name": "Tree1"
+              "name": "StaminaBar"
             },
             {
-              "name": "Bush1"
+              "name": "Items"
             },
             {
-              "name": "Tree2"
-            },
-            {
-              "name": "House1"
-            },
-            {
-              "name": "House2"
-            },
-            {
-              "name": "NPC"
-            },
-            {
-              "name": "Tilemap_Ground"
-            },
-            {
-              "name": "Tilemap_Water"
+              "name": "HealthBar"
             }
           ]
         },
         {
-          "name": "TouchControls",
+          "name": "Inventory",
+          "objects": [
+            {
+              "name": "InventoryBackground"
+            },
+            {
+              "name": "InventoryBackground2"
+            },
+            {
+              "name": "InventoryBorders"
+            },
+            {
+              "name": "InventoryBorderSelected"
+            },
+            {
+              "name": "InventoryText"
+            },
+            {
+              "name": "RegularText"
+            },
+            {
+              "name": "WeaponSlot"
+            },
+            {
+              "name": "BootSlot"
+            },
+            {
+              "name": "HelmetSlot"
+            },
+            {
+              "name": "ChestplateSlot"
+            },
+            {
+              "name": "AugmentSlot"
+            },
+            {
+              "name": "ConsumableSlot"
+            },
+            {
+              "name": "EquipmentSlot"
+            },
+            {
+              "name": "KeyItems"
+            },
+            {
+              "name": "Equipment"
+            },
+            {
+              "name": "Weapons"
+            },
+            {
+              "name": "Armor"
+            },
+            {
+              "name": "Consumable"
+            },
+            {
+              "name": "Augment"
+            }
+          ]
+        },
+        {
+          "name": "Item",
           "objects": []
         }
       ],
-      "variables": [],
+      "variables": [
+        {
+          "name": "Inventory",
+          "type": "boolean",
+          "value": true
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -1848,6 +3145,597 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 147,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "Items",
+          "persistentUuid": "1356eb72-cfa9-4e97-957a-15cf78d96b31",
+          "width": 92,
+          "x": 32,
+          "y": 541,
+          "zOrder": 514,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 147,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "Items",
+          "persistentUuid": "200bdcfb-2aba-4e7c-b861-9407ccd1d7aa",
+          "width": 92,
+          "x": 136,
+          "y": 541,
+          "zOrder": 514,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Farmer",
+          "persistentUuid": "7b377ca9-c0ba-4fe8-b28d-c60ec80b8380",
+          "width": 0,
+          "x": 672,
+          "y": 184,
+          "zOrder": 518,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "WeaponSlot",
+          "persistentUuid": "2f756550-55cf-4a22-aba0-a73c1331271b",
+          "width": 0,
+          "x": 88,
+          "y": 191,
+          "zOrder": 520,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "HelmetSlot",
+          "persistentUuid": "dd2b77cc-d1bf-4173-b670-e57b5fe8046f",
+          "width": 0,
+          "x": 88,
+          "y": 303,
+          "zOrder": 521,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "ChestplateSlot",
+          "persistentUuid": "518511d0-3133-4433-9db7-3f1fff838ca1",
+          "width": 0,
+          "x": 208,
+          "y": 303,
+          "zOrder": 522,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "BootSlot",
+          "persistentUuid": "332dfce1-8ddc-4947-bf5f-1411c8ec8efb",
+          "width": 0,
+          "x": 328,
+          "y": 303,
+          "zOrder": 523,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "AugmentSlot",
+          "persistentUuid": "6f78ded3-459f-4753-8da9-10e5e69a5786",
+          "width": 0,
+          "x": 88,
+          "y": 415,
+          "zOrder": 524,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "AugmentSlot",
+          "persistentUuid": "c94054fa-cd65-4423-b88c-b25650502950",
+          "width": 0,
+          "x": 208,
+          "y": 415,
+          "zOrder": 524,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "AugmentSlot",
+          "persistentUuid": "2a8f77bd-0a57-4f92-855d-39a4a55c1e3d",
+          "width": 0,
+          "x": 328,
+          "y": 415,
+          "zOrder": 524,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "AugmentSlot",
+          "persistentUuid": "2b378300-c407-4237-8748-5b1be18df4fb",
+          "width": 0,
+          "x": 448,
+          "y": 415,
+          "zOrder": 524,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 720,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryBackground",
+          "persistentUuid": "3e07bb1c-eb9f-4bcd-9b80-8fdf9a57c071",
+          "width": 1280,
+          "x": 0,
+          "y": 0,
+          "zOrder": 517,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 720,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryBackground2",
+          "persistentUuid": "5b0985fc-511a-49a7-928e-b6300401bcfe",
+          "width": 552,
+          "x": 56,
+          "y": 0,
+          "zOrder": 518,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "HealSlot",
+          "persistentUuid": "c0ad611f-86eb-487f-8439-7cb17428403a",
+          "width": 0,
+          "x": 88,
+          "y": 527,
+          "zOrder": 525,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "EquipmentSlot",
+          "persistentUuid": "8d0d74c6-ae3f-4a27-97d4-4aeb672523c0",
+          "width": 0,
+          "x": 208,
+          "y": 191,
+          "zOrder": 526,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "EquipmentSlot",
+          "persistentUuid": "894dafba-212d-452c-934d-e50feb7255fe",
+          "width": 0,
+          "x": 208,
+          "y": 527,
+          "zOrder": 526,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "EquipmentSlot",
+          "persistentUuid": "11bc5cf2-b961-4812-a1b6-e7b2d307e046",
+          "width": 0,
+          "x": 328,
+          "y": 527,
+          "zOrder": 526,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "EquipmentSlot",
+          "persistentUuid": "95435005-8c10-41ed-ac0c-d9ebcfd55b26",
+          "width": 0,
+          "x": 448,
+          "y": 527,
+          "zOrder": 526,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 81,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryBorders",
+          "persistentUuid": "df60048d-a267-4bb0-9165-cfd1d9ef7750",
+          "width": 456,
+          "x": 112,
+          "y": 103,
+          "zOrder": 527,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 44,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryText",
+          "persistentUuid": "5384e928-3e5c-4fd2-b81e-d04c3928bf81",
+          "width": 174,
+          "x": 106,
+          "y": 17,
+          "zOrder": 528,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "RegularText",
+          "persistentUuid": "0f0b7b28-d2b3-4902-8fe1-f31fc859b956",
+          "width": 0,
+          "x": 112,
+          "y": 76,
+          "zOrder": 529,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "TreasureItems",
+          "persistentUuid": "9ce719ac-65c8-4f66-a64e-5f9927dfc977",
+          "width": 0,
+          "x": 488,
+          "y": 112,
+          "zOrder": 530,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 56,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "Equipment",
+          "persistentUuid": "1c0a9ca4-4b23-4937-9d28-98536a19700d",
+          "width": 56,
+          "x": 133,
+          "y": 116,
+          "zOrder": 531,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryBorders2",
+          "persistentUuid": "d3a56583-aa56-4594-8a7d-9519e7c20ffe",
+          "width": 64,
+          "x": 128,
+          "y": 112,
+          "zOrder": 532,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryBorders2",
+          "persistentUuid": "f10afe94-8d85-43c8-b398-d41c60e8c87d",
+          "width": 64,
+          "x": 200,
+          "y": 112,
+          "zOrder": 532,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryBorders2",
+          "persistentUuid": "a68287ff-5f23-49ad-8282-be83e0ba7c21",
+          "width": 64,
+          "x": 272,
+          "y": 112,
+          "zOrder": 532,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryBorders2",
+          "persistentUuid": "4de946ab-7ec6-4eca-91c2-458f7cfe627c",
+          "width": 64,
+          "x": 344,
+          "y": 112,
+          "zOrder": 532,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryBorders2",
+          "persistentUuid": "ac604e8f-3c5b-4650-a93f-0cf9d0f9a1ed",
+          "width": 64,
+          "x": 416,
+          "y": 112,
+          "zOrder": 532,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryBorders2",
+          "persistentUuid": "5ecdd144-1c9c-4464-979b-a760d41034da",
+          "width": 64,
+          "x": 488,
+          "y": 112,
+          "zOrder": 532,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "EquipmentSlot",
+          "persistentUuid": "88bf0c15-5d7f-473b-a331-4cb3847ea088",
+          "width": 0,
+          "x": 88,
+          "y": 528,
+          "zOrder": 526,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "KeyItems",
+          "persistentUuid": "8169dd26-08fb-4e10-9f91-babc03fa5219",
+          "width": 0,
+          "x": 488,
+          "y": 112,
+          "zOrder": 533,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 56,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "Weapons",
+          "persistentUuid": "7ca3868c-9db8-40fa-9e9e-121524b41c7d",
+          "width": 56,
+          "x": 206,
+          "y": 115,
+          "zOrder": 534,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "Armor",
+          "persistentUuid": "c0c822d3-117e-45f0-b6e9-b033fba9c183",
+          "width": 0,
+          "x": 272,
+          "y": 112,
+          "zOrder": 535,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "Consumable",
+          "persistentUuid": "b1714c2c-83ab-4182-9492-05e296335b78",
+          "width": 0,
+          "x": 344,
+          "y": 112,
+          "zOrder": 536,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "Augment",
+          "persistentUuid": "0c3f213e-2580-403f-8ae5-5d46727727c3",
+          "width": 0,
+          "x": 416,
+          "y": 112,
+          "zOrder": 537,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "InventoryBorderSelected",
+          "persistentUuid": "713e4442-8d26-4e27-abf7-c15b7b537df6",
+          "width": 64,
+          "x": 128,
+          "y": 112,
+          "zOrder": 538,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -2525,47 +4413,6 @@
         {
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
-          "name": "NPC",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "Down",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.20000000298023224,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": false,
-                      "image": "ACharDown1.png",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 7.927276611328125,
-                        "y": 15.236364364624023
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": false,
-          "assetStoreId": "",
           "name": "Tree1",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -3066,11 +4913,1241 @@
               }
             }
           }
+        },
+        {
+          "assetStoreId": "d3bfd958c300f4a11b5f12ef986cda66f0d7738603a2800a410b4f166bcd8e07",
+          "bottomMargin": 12,
+          "height": 48,
+          "leftMargin": 12,
+          "name": "Items",
+          "rightMargin": 12,
+          "texture": "Default-panel-border (11).png2",
+          "tiled": false,
+          "topMargin": 12,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
+          "assetStoreId": "3d8d1550267bd6cf0a06038f3113bbcca18c8be62f8a74e8151c482bccf16c88",
+          "name": "Farmer",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Farmer_Idle Down_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 4
+                          },
+                          {
+                            "x": 14,
+                            "y": 4
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Farmer_Idle Down_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 4
+                          },
+                          {
+                            "x": 14,
+                            "y": 4
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Farmer_Idle Down_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 4
+                          },
+                          {
+                            "x": 14,
+                            "y": 4
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Farmer_Idle Down_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 4
+                          },
+                          {
+                            "x": 14,
+                            "y": 4
+                          },
+                          {
+                            "x": 14,
+                            "y": 24
+                          },
+                          {
+                            "x": 1,
+                            "y": 24
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "19d226039edc1f4e1dc536b89d11bc519c7e127db6d5952f547cec92973d4dd4",
+          "name": "WeaponSlot",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            },
+            {
+              "name": "weaponHeld",
+              "type": "string",
+              "value": ""
+            },
+            {
+              "name": "full",
+              "type": "boolean",
+              "value": false
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Inventory Slot Weapon",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Inventory Slot Weapon3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 108
+                          },
+                          {
+                            "x": 20,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "InventoryBackground",
+          "texture": "Inventory_Background",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "f7ddd292071b0d24ab3dfd1082703a6d775c63a5d42fde5e1d275ec8a5b0c259",
+          "name": "HelmetSlot",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Inventory Slot Helmet5",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Inventory Slot Helmet5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 108
+                          },
+                          {
+                            "x": 20,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "858005f36a24d14b5867e1e2bb964d71a2d0ab2e858fe2d4ddfd7e7403795b97",
+          "name": "BootSlot",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Inventory Slot Boot9",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Inventory Slot Boot9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 108
+                          },
+                          {
+                            "x": 20,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "bbf46f29ddcb7ad903633338c00814130ceaf805bcc0a5fc97c205f14c0fd39d",
+          "name": "ChestplateSlot",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Inventory Slot Chest6",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Inventory Slot Chest6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 108
+                          },
+                          {
+                            "x": 20,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "ede84ce6b10b6c91e0d54325aeb8fde6c01178d4f3033df518c82755aaac7a9c",
+          "name": "AugmentSlot",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Inventory Slot Ring7",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Inventory Slot Ring7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 108
+                          },
+                          {
+                            "x": 20,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "InventoryBackground2",
+          "texture": "Inventory_Background",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "2edc83bc43d0c138874979a18b9bb7540e65cb3ae76c540170dd0478073c20e4",
+          "name": "EquipmentSlot",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Inventory Slot Empty2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Inventory Slot Empty2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 108
+                          },
+                          {
+                            "x": 20,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "80a08624cea12237814df86df584919024e7eab5a6e1f979be20e6d1304380d8",
+          "name": "ConsumableSlot",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Inventory Slot Sheild4",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Inventory Slot Sheild4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 20
+                          },
+                          {
+                            "x": 108,
+                            "y": 108
+                          },
+                          {
+                            "x": 20,
+                            "y": 108
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "d3bfd958c300f4a11b5f12ef986cda66f0d7738603a2800a410b4f166bcd8e07",
+          "bottomMargin": 12,
+          "height": 48,
+          "leftMargin": 12,
+          "name": "InventoryBorders",
+          "rightMargin": 12,
+          "texture": "Default-panel-border (11).png",
+          "tiled": false,
+          "topMargin": 12,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "name": "InventoryText",
+          "type": "BBText::BBText",
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "text": "Inventory",
+            "opacity": 255,
+            "fontSize": 50,
+            "visible": true,
+            "color": "254;191;76",
+            "fontFamily": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+            "align": "left",
+            "wordWrap": true
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "RegularText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "string": "Equipment",
+          "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 76,
+            "g": 191,
+            "r": 254
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Equipment",
+            "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "color": "254;191;76"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "e9ec69d1730a7410227e209f013beba630f37678575e17a436e0c613b1fdf1e6",
+          "name": "KeyItems",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Shadow",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 8
+                          },
+                          {
+                            "x": 60,
+                            "y": 8
+                          },
+                          {
+                            "x": 60,
+                            "y": 62
+                          },
+                          {
+                            "x": 6,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "886bbce0d99797d29c20b7fa486ff50528c03c786937be3fb04de8b7453e3430",
+          "name": "Equipment",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Shadow2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 56,
+                            "y": 6
+                          },
+                          {
+                            "x": 56,
+                            "y": 62
+                          },
+                          {
+                            "x": 8,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "d3bfd958c300f4a11b5f12ef986cda66f0d7738603a2800a410b4f166bcd8e07",
+          "bottomMargin": 12,
+          "height": 48,
+          "leftMargin": 12,
+          "name": "InventoryBorderSelected",
+          "rightMargin": 12,
+          "texture": "Default-panel-border (11).png",
+          "tiled": false,
+          "topMargin": 12,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [
+            {
+              "name": "Hidden",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "5731c2a27a26e524dbe6e376c919d5a12fbc5eaa84843e0d036f1b2b79a7921f",
+          "name": "Weapons",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "persistentUuid": "426e13d1-a36f-41fa-beb0-33c0c1305561",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Shadow3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 8
+                          },
+                          {
+                            "x": 58,
+                            "y": 8
+                          },
+                          {
+                            "x": 58,
+                            "y": 62
+                          },
+                          {
+                            "x": 6,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "6e8f3b6e0a7e96ea4897580924649dae26b80d79123783bde1a68233a6f07354",
+          "name": "Armor",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "persistentUuid": "426e13d1-a36f-41fa-beb0-33c0c1305561",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Shadow4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 8
+                          },
+                          {
+                            "x": 60,
+                            "y": 8
+                          },
+                          {
+                            "x": 60,
+                            "y": 60
+                          },
+                          {
+                            "x": 6,
+                            "y": 60
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "11f1a1cb1925b3d1b1c98d01b0a36202cb941724b363652288aa18e6d7918678",
+          "name": "Consumable",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "persistentUuid": "426e13d1-a36f-41fa-beb0-33c0c1305561",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Shadow6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 6
+                          },
+                          {
+                            "x": 56,
+                            "y": 6
+                          },
+                          {
+                            "x": 56,
+                            "y": 62
+                          },
+                          {
+                            "x": 10,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "caf1ef31a765677b79eae5e6418367abf665a6d14c90e3e3f21be6c12f594359",
+          "name": "Augment",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "persistentUuid": "426e13d1-a36f-41fa-beb0-33c0c1305561",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Shadow5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 16
+                          },
+                          {
+                            "x": 58,
+                            "y": 16
+                          },
+                          {
+                            "x": 58,
+                            "y": 52
+                          },
+                          {
+                            "x": 8,
+                            "y": 52
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
+          {
+            "objectName": "Player"
+          },
+          {
+            "folderName": "NPCs",
+            "children": [
+              {
+                "objectName": "Farmer"
+              }
+            ]
+          },
           {
             "folderName": "Background",
             "children": [
@@ -3106,6 +6183,9 @@
             "folderName": "UI",
             "children": [
               {
+                "objectName": "Items"
+              },
+              {
                 "objectName": "HealthBar"
               },
               {
@@ -3114,10 +6194,74 @@
             ]
           },
           {
-            "objectName": "Player"
+            "folderName": "Weapons",
+            "children": [
+              {
+                "folderName": "Iron Sword"
+              }
+            ]
           },
           {
-            "objectName": "NPC"
+            "folderName": "Inventory",
+            "children": [
+              {
+                "objectName": "InventoryText"
+              },
+              {
+                "objectName": "RegularText"
+              },
+              {
+                "objectName": "InventoryBorders"
+              },
+              {
+                "objectName": "InventoryBorderSelected"
+              },
+              {
+                "objectName": "Equipment"
+              },
+              {
+                "objectName": "Weapons"
+              },
+              {
+                "objectName": "Armor"
+              },
+              {
+                "objectName": "Consumable"
+              },
+              {
+                "objectName": "Augment"
+              },
+              {
+                "objectName": "KeyItems"
+              },
+              {
+                "objectName": "InventoryBackground2"
+              },
+              {
+                "objectName": "InventoryBackground"
+              },
+              {
+                "objectName": "WeaponSlot"
+              },
+              {
+                "objectName": "HelmetSlot"
+              },
+              {
+                "objectName": "ChestplateSlot"
+              },
+              {
+                "objectName": "BootSlot"
+              },
+              {
+                "objectName": "AugmentSlot"
+              },
+              {
+                "objectName": "ConsumableSlot"
+              },
+              {
+                "objectName": "EquipmentSlot"
+              }
+            ]
           }
         ]
       },
@@ -3159,42 +6303,183 @@
           ]
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
+          "colorB": 35,
+          "colorG": 166,
+          "colorR": 245,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Inventory",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Player",
-                "PhysicalObject",
-                ""
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InventoryBackground",
+                    "Opacity",
+                    "=",
+                    "220"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "OpacityCapability::OpacityBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "InventoryBackground2",
+                    "Opacity",
+                    "=",
+                    "100"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Inventory"
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "ChangePlan"
-              },
-              "parameters": [
-                "Player",
-                "=",
-                "Player.Y()"
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "Escape"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Inventory",
+                        "Hidden",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "Inventory"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "UI",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Inventory",
+                        "Hidden",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "Inventory",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "UI"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Inventory",
+                        "Hidden",
+                        "Toggle",
+                        ""
+                      ]
+                    }
+                  ]
+                }
               ]
             },
             {
-              "type": {
-                "value": "CentreCamera"
-              },
-              "parameters": [
-                "",
-                "Player",
-                "",
-                "",
-                ""
-              ]
+              "colorB": 35,
+              "colorG": 166,
+              "colorR": 245,
+              "creationTime": 0,
+              "name": "Item Collect",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [],
+              "parameters": []
             }
-          ]
+          ],
+          "parameters": []
         },
         {
           "colorB": 228,
@@ -3205,6 +6490,44 @@
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Player",
+                    "PhysicalObject",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ChangePlan"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "Player.Y()"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CentreCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -3237,6 +6560,7 @@
               "colorG": 2,
               "colorR": 208,
               "creationTime": 0,
+              "folded": true,
               "name": "Dodge",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -3361,6 +6685,7 @@
               "colorG": 2,
               "colorR": 208,
               "creationTime": 0,
+              "folded": true,
               "name": "Sprint",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -3454,10 +6779,29 @@
               "parameters": []
             },
             {
+              "colorB": 27,
+              "colorG": 2,
+              "colorR": 208,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Attack",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": []
+                }
+              ],
+              "parameters": []
+            },
+            {
               "colorB": 5,
               "colorG": 117,
               "colorR": 65,
               "creationTime": 0,
+              "folded": true,
               "name": "Stamina",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -3604,6 +6948,11 @@
                 }
               ],
               "parameters": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             }
           ],
           "parameters": []
@@ -3673,6 +7022,39 @@
           "effects": []
         },
         {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "perspective",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Main Inventory UI",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
           "ambientLightColorB": 8799112,
           "ambientLightColorG": 6050880,
           "ambientLightColorR": 12506048,
@@ -3720,6 +7102,10 @@
           "type": "ScalableCapability::ScalableBehavior"
         },
         {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        },
+        {
           "name": "TopDownMovement",
           "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         },
@@ -3734,6 +7120,624 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "D8H",
+      "category": "Movement",
+      "extensionNamespace": "",
+      "fullName": "Stick objects to others",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLXN0aWNrZXItb3V0bGluZSIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik01LjUgMkMzLjYgMiAyIDMuNiAyIDUuNVYxOC41QzIgMjAuNCAzLjYgMjIgNS41IDIySDE2TDIyIDE2VjUuNUMyMiAzLjYgMjAuNCAyIDE4LjUgMkg1LjVNNS44IDRIMTguM0MxOS4zIDQgMjAuMSA0LjggMjAuMSA1LjhWMTVIMTguNkMxNi43IDE1IDE1LjEgMTYuNiAxNS4xIDE4LjVWMjBINS44QzQuOCAyMCA0IDE5LjIgNCAxOC4yVjUuOEM0IDQuOCA0LjggNCA1LjggNCIgLz48L3N2Zz4=",
+      "name": "Sticker",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/sticker-outline.svg",
+      "shortDescription": "Make objects follow the position and rotation of the object they are stuck to.",
+      "version": "0.5.1",
+      "description": [
+        "This extension can be useful to:",
+        "* Stick accessories to moving objects",
+        "* Animate a skeleton",
+        "* Delete an object with another one",
+        "",
+        "An example allows to check it out ([open the project online](https://editor.gdevelop.io/?project=example://stick-objects))."
+      ],
+      "origin": {
+        "identifier": "Sticker",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "sticker",
+        "stick",
+        "follow",
+        "skeleton",
+        "joint",
+        "pin",
+        "bind",
+        "glue",
+        "tie",
+        "attach",
+        "hold",
+        "paste",
+        "wear"
+      ],
+      "authorIds": [
+        "IWykYNRvhCZBN3vEgKEbBPOR3Oc2"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [
+        {
+          "description": "Define helper classes JavaScript code.",
+          "fullName": "Define helper classes",
+          "functionType": "Action",
+          "name": "DefineHelperClasses",
+          "private": true,
+          "sentence": "Define helper classes JavaScript code",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "if (gdjs._stickerExtension) {",
+                "    return;",
+                "}",
+                "",
+                "// Unstick from deleted objects.",
+                "gdjs.registerObjectDeletedFromSceneCallback(function (runtimeScene, deletedObject) {",
+                "    const extension = runtimeScene._stickerExtension;",
+                "    if (!extension) {",
+                "        return;",
+                "    }",
+                "    const allStickers = runtimeScene._stickerExtension.allStickers;",
+                "    for (const behavior of allStickers) {",
+                "        const sticker = behavior._sticker;",
+                "        if (sticker.isStuckTo(deletedObject)) {",
+                "            if (behavior._getIsDestroyedWithParent()) {",
+                "                behavior.owner.deleteFromScene(runtimeScene);",
+                "            }",
+                "            sticker.unstick();",
+                "        }",
+                "    }",
+                "});",
+                "",
+                "class Sticker {",
+                "    /** @type {gdjs.RuntimeBehavior} */",
+                "    behavior;",
+                "    /** @type {gdjs.RuntimeObject | null} */",
+                "    basisObject;",
+                "    followingDoneThisFrame = false;",
+                "    relativeX = 0;",
+                "    relativeY = 0;",
+                "    relativeAngle = 0;",
+                "    relativeRotatedX = 0;",
+                "    relativeRotatedY = 0;",
+                "    basisOldX = 0;",
+                "    basisOldY = 0;",
+                "    basisOldAngle = 0;",
+                "    basisOldWidth = 0;",
+                "    basisOldHeight = 0;",
+                "    basisOldCenterXInScene = 0;",
+                "    basisOldCenterYInScene = 0;",
+                "",
+                "    /**",
+                "     * @param {gdjs.RuntimeBehavior} behavior",
+                "     */",
+                "    constructor(behavior) {",
+                "        this.behavior = behavior;",
+                "    }",
+                "",
+                "    /**",
+                "     * @param {gdjs.RuntimeObject} basisObject",
+                "     */",
+                "    isStuckTo(basisObject) {",
+                "        return this.basisObject === basisObject;",
+                "    }",
+                "",
+                "    /**",
+                "     * @param {gdjs.RuntimeObject} basisObject",
+                "     */",
+                "    stickTo(basisObject) {",
+                "        this.basisObject = basisObject;",
+                "        this.updateOldCoordinates();",
+                "        this.updateRelativeCoordinates();",
+                "    }",
+                "",
+                "    unstick() {",
+                "        this.basisObject = null;",
+                "    }",
+                "",
+                "    onStepPreEvents() {",
+                "        this.followingDoneThisFrame = false;",
+                "    }",
+                "",
+                "    /**",
+                "     * Update the coordinates in the basisObject basis.",
+                "     * ",
+                "     * It uses the basisObject coordinates from the previous frame.",
+                "     * This way, the sticker can move relatively to it and still",
+                "     * follow basisObject.",
+                "     * ",
+                "     * @param {gdjs.RuntimeObject} basisObject",
+                "     */",
+                "    updateRelativeCoordinates() {",
+                "        const object = this.behavior.owner;",
+                "",
+                "        // Update relative coordinates",
+                "        this.relativeX = object.getX() - this.basisOldX;",
+                "        this.relativeY = object.getY() - this.basisOldY;",
+                "        if (!this.behavior._getOnlyFollowPosition()) {",
+                "            this.relativeAngle = object.getAngle() - this.basisOldAngle;",
+                "            this.relativeWidth = object.getWidth() / this.basisOldWidth;",
+                "            this.relativeHeight = object.getHeight() / this.basisOldHeight;",
+                "            const deltaX = object.getCenterXInScene() - this.basisOldCenterXInScene;",
+                "            const deltaY = object.getCenterYInScene() - this.basisOldCenterYInScene;",
+                "            const angle = this.basisOldAngle * Math.PI / 180;",
+                "            this.relativeRotatedX = (deltaX * Math.cos(angle) + deltaY * Math.sin(angle)) / this.basisOldWidth;",
+                "            this.relativeRotatedY = (-deltaX * Math.sin(angle) + deltaY * Math.cos(angle)) / this.basisOldHeight;",
+                "",
+                "            // Save initial values to avoid calculus and rounding errors",
+                "            this.basisOriginalWidth = this.basisObject.getWidth();",
+                "            this.basisOriginalHeight = this.basisObject.getHeight();",
+                "            this.basisOriginalAngle = this.basisObject.getAngle();",
+                "        }",
+                "    }",
+                "",
+                "    /**",
+                "     * Copy the coordinates to use it the next frame.",
+                "     */",
+                "    updateOldCoordinates() {",
+                "        const object = this.behavior.owner;",
+                "",
+                "        this.ownerOldX = object.getX();",
+                "        this.ownerOldY = object.getY();",
+                "",
+                "        this.basisOldX = this.basisObject.getX();",
+                "        this.basisOldY = this.basisObject.getY();",
+                "",
+                "        if (!this.behavior._getOnlyFollowPosition()) {",
+                "            this.ownerOldAngle = object.getAngle();",
+                "            this.ownerOldWidth = object.getWidth();",
+                "            this.ownerOldHeight = object.getHeight();",
+                "",
+                "            this.basisOldAngle = this.basisObject.getAngle();",
+                "            this.basisOldWidth = this.basisObject.getWidth();",
+                "            this.basisOldHeight = this.basisObject.getHeight();",
+                "            this.basisOldCenterXInScene = this.basisObject.getCenterXInScene();",
+                "            this.basisOldCenterYInScene = this.basisObject.getCenterYInScene();",
+                "        }",
+                "    }",
+                "",
+                "    /**",
+                "     * Follow the basisObject (called in doStepPostEvents).",
+                "     * ",
+                "     * This method is also called by children to ensure",
+                "     * parents are updated first.",
+                "     */",
+                "    followBasisObject() {",
+                "        if (this.followingDoneThisFrame) {",
+                "            return;",
+                "        }",
+                "        this.followingDoneThisFrame = true;",
+                "        const basisObject = this.basisObject;",
+                "        if (basisObject) {",
+                "            // If the behavior on the basis object has a different name,",
+                "            // the objects will still follow their basis objects",
+                "            // but frame delays could happen.",
+                "            const behaviorName = this.behavior.getName();",
+                "            if (basisObject.hasBehavior(behaviorName)) {",
+                "                const basisBehavior = basisObject.getBehavior(behaviorName);",
+                "                if (basisBehavior.type === this.behavior.type) {",
+                "                    // Follow parents 1st to avoid frame delays",
+                "                    basisBehavior._sticker.followBasisObject();",
+                "                }",
+                "            }",
+                "",
+                "            const object = this.behavior.owner;",
+                "",
+                "            if (this.behavior._getOnlyFollowPosition()) {",
+                "                if (object.getX() !== this.ownerOldX",
+                "                    || object.getY() !== this.ownerOldY) {",
+                "                    this.updateRelativeCoordinates();",
+                "                }",
+                "",
+                "                if (this.basisOldX !== basisObject.getX() ||",
+                "                    this.basisOldY !== basisObject.getY()) {",
+                "                    object.setPosition(",
+                "                        basisObject.getX() + this.relativeX,",
+                "                        basisObject.getY() + this.relativeY);",
+                "                }",
+                "            } else {",
+                "                if (object.getX() !== this.ownerOldX",
+                "                    || object.getY() !== this.ownerOldY",
+                "                    || object.getAngle() !== this.ownerOldAngle",
+                "                    || object.getWidth() !== this.ownerOldWidth",
+                "                    || object.getHeight() !== this.ownerOldHeight) {",
+                "                    this.updateRelativeCoordinates();",
+                "                }",
+                "",
+                "                // Follow basisObject",
+                "                if (basisObject.getAngle() === this.basisOriginalAngle && this.basisOriginalAngle === 0) {",
+                "                    if (basisObject.getWidth() === this.basisOriginalWidth ||",
+                "                        basisObject.getHeight() === this.basisOriginalHeight) {",
+                "                        if (this.basisOldX !== basisObject.getX() ||",
+                "                            this.basisOldY !== basisObject.getY()) {",
+                "                            object.setPosition(",
+                "                                basisObject.getX() + this.relativeX,",
+                "                                basisObject.getY() + this.relativeY);",
+                "                        }",
+                "                    } else {",
+                "                        object.setCenterPositionInScene(",
+                "                            basisObject.getCenterXInScene() + this.relativeRotatedX * basisObject.getWidth(),",
+                "                            basisObject.getCenterYInScene() + this.relativeRotatedY * basisObject.getHeight());",
+                "                    }",
+                "                } else {",
+                "                    object.setAngle(basisObject.getAngle() + this.relativeAngle);",
+                "",
+                "                    const deltaX = this.relativeRotatedX * basisObject.getWidth();",
+                "                    const deltaY = this.relativeRotatedY * basisObject.getHeight();",
+                "                    const angle = -basisObject.getAngle() * Math.PI / 180;",
+                "                    object.setX(basisObject.getCenterXInScene() + object.getX() - object.getCenterXInScene() + deltaX * Math.cos(angle) + deltaY * Math.sin(angle));",
+                "                    object.setY(basisObject.getCenterYInScene() + object.getY() - object.getCenterYInScene() - deltaX * Math.sin(angle) + deltaY * Math.cos(angle));",
+                "                }",
+                "                // Unproportional dimensions changes won't work as expected",
+                "                // if the object angle is not null but nothing more can be done",
+                "                // because there is no full affine transformation on objects.",
+                "                if (basisObject.getWidth() !== this.basisOriginalWidth) {",
+                "                    object.setWidth(this.relativeWidth * basisObject.getWidth());",
+                "                }",
+                "                if (basisObject.getHeight() !== this.basisOriginalHeight) {",
+                "                    object.setHeight(this.relativeHeight * basisObject.getHeight());",
+                "                }",
+                "            }",
+                "",
+                "            this.updateOldCoordinates();",
+                "        }",
+                "    }",
+                "}",
+                "",
+                "gdjs._stickerExtension = {",
+                "    Sticker",
+                "}"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        },
+        {
+          "description": "Check if the object is stuck to another object.",
+          "fullName": "Is stuck to another object",
+          "functionType": "Condition",
+          "name": "IsStuck",
+          "sentence": "_PARAM1_ is stuck to _PARAM3_",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "const stickerBehaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                "/** @type {Hashtable<gdjs.RuntimeObject[]>} */",
+                "const stickerObjectsLists = eventsFunctionContext.getObjectsLists(\"Object\");",
+                "/** @type {Hashtable<gdjs.RuntimeObject[]>} */",
+                "const basisObjectsLists = eventsFunctionContext.getObjectsLists(\"BasisObject\");",
+                "",
+                "eventsFunctionContext.returnValue = gdjs.evtTools.object.twoListsTest(",
+                "  (stickerObject, basisObject) => {",
+                "    const sticker = stickerObject.getBehavior(stickerBehaviorName)._sticker;",
+                "    return sticker.isStuckTo(basisObject);",
+                "  },",
+                "  stickerObjectsLists,",
+                "  basisObjectsLists,",
+                "  false",
+                ");"
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [
+            {
+              "description": "Sticker",
+              "name": "Object",
+              "type": "objectList"
+            },
+            {
+              "description": "Sticker behavior",
+              "name": "Behavior",
+              "supplementaryInformation": "Sticker::Sticker",
+              "type": "behavior"
+            },
+            {
+              "description": "Basis",
+              "name": "BasisObject",
+              "type": "objectList"
+            }
+          ],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Stick the object to another. Use the action to stick the object, or unstick it later.",
+          "fullName": "Sticker",
+          "name": "Sticker",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onCreated",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Sticker::DefineHelperClasses"
+                      },
+                      "parameters": [
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const Sticker = gdjs._stickerExtension.Sticker;",
+                    "",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const object = objects[0];",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "behavior._sticker = new Sticker(behavior);",
+                    "",
+                    "// Set up the scene sticker objects list - if not done already.",
+                    "runtimeScene._stickerExtension = runtimeScene._stickerExtension || {",
+                    "    allStickers: new Set(),",
+                    "};",
+                    "// Register this object as a sticker.",
+                    "runtimeScene._stickerExtension.allStickers.add(behavior);",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const object = objects[0];",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "behavior._sticker.onStepPreEvents();"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const object = objects[0];",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "behavior._sticker.followBasisObject();"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Stick on another object.",
+              "fullName": "Stick",
+              "functionType": "Action",
+              "name": "Stick",
+              "sentence": "Stick _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const basisObjects = eventsFunctionContext.getObjects(\"BasisObject\");",
+                    "",
+                    "if (basisObjects.length === 0) return;",
+                    "// An object can stick to only one object.",
+                    "const basisObject = basisObjects[0];",
+                    "object.getBehavior(behaviorName)._sticker.stickTo(basisObject);",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Object to stick to",
+                  "name": "BasisObject",
+                  "type": "objectList"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Unstick from the object it was stuck to.",
+              "fullName": "Unstick",
+              "functionType": "Action",
+              "name": "Unstick",
+              "sentence": "Unstick _PARAM0_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "object.getBehavior(behaviorName)._sticker.unstick();",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onDestroy",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const object = objects[0];",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "",
+                    "runtimeScene._stickerExtension.allStickers.delete(behavior._sticker);",
+                    ""
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "Sticker::Sticker",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "Boolean",
+              "label": "Only follow the position",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "OnlyFollowPosition"
+            },
+            {
+              "value": "",
+              "type": "Boolean",
+              "label": "Destroy when the object it's stuck on is destroyed",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "IsDestroyedWithParent"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
     {
       "author": "",
       "category": "Movement",
