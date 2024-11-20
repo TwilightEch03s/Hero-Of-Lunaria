@@ -2553,7 +2553,7 @@
         "alwaysLoaded": false,
         "file": "assets/Walk1.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk1.png\"}",
         "name": "Walk1",
         "smoothed": true,
         "userAdded": false
@@ -2562,7 +2562,7 @@
         "alwaysLoaded": false,
         "file": "assets/Walk2.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk2.png\"}",
         "name": "Walk2",
         "smoothed": true,
         "userAdded": false
@@ -2571,7 +2571,7 @@
         "alwaysLoaded": false,
         "file": "assets/Walk3.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk3.png\"}",
         "name": "Walk3",
         "smoothed": true,
         "userAdded": false
@@ -2580,7 +2580,7 @@
         "alwaysLoaded": false,
         "file": "assets/Walk4.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk4.png\"}",
         "name": "Walk4",
         "smoothed": true,
         "userAdded": false
@@ -2589,7 +2589,7 @@
         "alwaysLoaded": false,
         "file": "assets/Walk5.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk5.png\"}",
         "name": "Walk5",
         "smoothed": true,
         "userAdded": false
@@ -2598,7 +2598,7 @@
         "alwaysLoaded": false,
         "file": "assets/Walk6.png",
         "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk6.png\"}",
         "name": "Walk6",
         "smoothed": true,
         "userAdded": false
@@ -2764,6 +2764,1113 @@
         "name": "Walk18",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk19.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk19.png\"}",
+        "name": "Walk19",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk20.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk20.png\"}",
+        "name": "Walk20",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk21.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk21.png\"}",
+        "name": "Walk21",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk22.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk22.png\"}",
+        "name": "Walk22",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk23.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk23.png\"}",
+        "name": "Walk23",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk24.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk24.png\"}",
+        "name": "Walk24",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk07.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk07",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk08.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk08",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk09.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk09",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk010.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk010",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk011.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk011",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk012.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk012",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk25.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk25",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk26.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk26",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk27.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk27",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk28.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk28",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk29.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk29",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk30.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk30",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk31.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk31",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk32.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk32",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk33.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk33",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk34.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk34",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk35.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk35",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk36.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk36",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk37.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk37",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk38.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk38",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk39.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk39",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk40.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk40",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk41.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk41",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk42.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk42",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk43.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk43",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk44.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk44",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk45.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk45",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk46.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk46",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk47.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk47",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk48.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk48",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk49.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk49.png\"}",
+        "name": "Walk49",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk50.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk50.png\"}",
+        "name": "Walk50",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk51.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk51.png\"}",
+        "name": "Walk51",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk52.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk52.png\"}",
+        "name": "Walk52",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk53.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk53.png\"}",
+        "name": "Walk53",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk54.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Walk54.png\"}",
+        "name": "Walk54",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk55.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk55",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk56.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk56",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk57.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk57",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk58.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk58",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk59.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk59",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk60.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk60",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk61.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk61",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk62.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk62",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk013.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk013",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk014.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk014",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk015.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk015",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk016.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk016",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk017.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk017",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk018.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk018",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk019.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk019",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk020.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk020",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk63.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk63",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk64.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk64",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk65.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk65",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk66.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk66",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk67.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk67",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk68.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk68",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk69.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk69",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk70.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk70",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk71.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk71",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk72.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk72",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk73",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk74",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk75",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk76",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk77.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk77",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk78.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk78",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk79.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk79",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk80.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk80",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk81.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk81",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk82.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk82",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk83.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk83",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk84.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk84",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk85.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk85",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Walk86.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Walk86",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Orc.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Orc.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Orc",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Orc2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Orc3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Orc4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Orc4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Run.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Run.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_walk",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_walk2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_walk3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_walk4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_walk5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_walk5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_walk6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_walk6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_walk7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_walk7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_walk8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_walk8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite73.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite73",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite74.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite74",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite75.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite75",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite76.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite76",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom_Walk.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom_Walk",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom_Walk2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom_Walk2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom_Walk3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom_Walk3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom_Walk4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom_Walk4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom_Walk5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom_Walk5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom_Walk6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom_Walk6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom_Walk7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom_Walk7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom_Walk8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom_Walk8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Mushroom8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Mushroom8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_attack.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_attack",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_attack2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_attack2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_attack3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_attack3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_attack4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_attack4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_attack5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_attack5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_attack6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_attack6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/goblin_attack7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "goblin_attack7",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -2854,7 +3961,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-        "zoomFactor": 1.2787204482050976,
+        "zoomFactor": 1.2370081258882095,
         "windowMask": false
       },
       "objectsGroups": [
@@ -4757,16 +5864,51 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 32,
           "keepRatio": true,
           "layer": "",
           "name": "Player",
           "persistentUuid": "8f7527a4-24a3-4bbf-99f2-edafaa34df52",
-          "width": 0,
-          "x": 696,
-          "y": 288,
+          "width": 32,
+          "x": 708,
+          "y": 312,
           "zOrder": 540,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Goblin",
+          "persistentUuid": "08fa7d1f-d09d-407d-a150-cba46c9af102",
+          "width": 48,
+          "x": 736,
+          "y": 264,
+          "zOrder": 541,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 78,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Mushroom",
+          "persistentUuid": "cd764e2f-5a7e-4145-b1d3-12f42dd06971",
+          "width": 80,
+          "x": 616,
+          "y": 258,
+          "zOrder": 542,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4777,13 +5919,11 @@
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "Player",
-          "persistentUuid": "dc2f9cb3-b1e4-490e-8d43-57fab2b3b88d",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
             {
               "name": "Stamina",
-              "persistentUuid": "be1a7dac-282a-4ce4-a83d-3f80d7365769",
               "type": "number",
               "value": 1
             }
@@ -4831,7 +5971,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk1",
+                      "image": "Walk55",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4867,7 +6007,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk2",
+                      "image": "Walk56",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4903,7 +6043,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk3",
+                      "image": "Walk57",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4939,7 +6079,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk4",
+                      "image": "Walk58",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -4975,7 +6115,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk5",
+                      "image": "Walk59",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5011,7 +6151,79 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk6",
+                      "image": "Walk60",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 2,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk61",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 2,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk62",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5060,7 +6272,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk0",
+                      "image": "Walk013",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5096,7 +6308,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk02",
+                      "image": "Walk014",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5132,7 +6344,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk03",
+                      "image": "Walk015",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5168,7 +6380,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk04",
+                      "image": "Walk016",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5204,7 +6416,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk05",
+                      "image": "Walk017",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5240,7 +6452,79 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk06",
+                      "image": "Walk018",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 2,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk019",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 2,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk020",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5289,7 +6573,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk7",
+                      "image": "Walk71",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5325,7 +6609,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk8",
+                      "image": "Walk72",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5361,7 +6645,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk9",
+                      "image": "Walk73",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5397,7 +6681,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk10",
+                      "image": "Walk74",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5433,7 +6717,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk11",
+                      "image": "Walk75",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5469,7 +6753,79 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk12",
+                      "image": "Walk76",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 2,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk77",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 2,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk78",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5518,7 +6874,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk13",
+                      "image": "Walk79",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5554,7 +6910,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk14",
+                      "image": "Walk80",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5590,7 +6946,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk15",
+                      "image": "Walk81",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5626,7 +6982,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk16",
+                      "image": "Walk82",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5662,7 +7018,7 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk17",
+                      "image": "Walk83",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -5698,7 +7054,79 @@
                     },
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk18",
+                      "image": "Walk84",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 2,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk85",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 8,
+                        "y": 16
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 13
+                          },
+                          {
+                            "x": 14,
+                            "y": 16
+                          },
+                          {
+                            "x": 2,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Walk86",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -7460,6 +8888,1543 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Goblin",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "BoidsMovement",
+              "type": "BoidsMovement::BoidsMovement",
+              "MaxSpeed": 360,
+              "MaxAcceleration": 720,
+              "ShouldRotate": true,
+              "CohesionRadius": 64,
+              "AlignmentRadius": 48,
+              "SeparationRadius": 32,
+              "CohesionWeight": 1,
+              "AlignmentWeight": 1,
+              "SeparationWeight": 2,
+              "CollisionLayer": 0
+            },
+            {
+              "acceleration": 400,
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 180,
+              "cellHeight": 20,
+              "cellWidth": 20,
+              "extraBorder": 0,
+              "gridOffsetX": 0,
+              "gridOffsetY": 0,
+              "maxSpeed": 200,
+              "name": "Pathfinding",
+              "rotateObject": true,
+              "smoothingMaxCellGap": 1,
+              "type": "PathfindingBehavior::PathfindingBehavior"
+            }
+          ],
+          "animations": [
+            {
+              "name": "goblin_idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Orc",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Orc2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Orc3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Orc4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "goblin_walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_walk",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_walk2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_walk3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_walk4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_walk5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_walk6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_walk7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_walk8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "goblin_attack",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_attack",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_attack2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_attack3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_attack4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_attack5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_attack6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "goblin_attack7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 33,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 0
+                          },
+                          {
+                            "x": 66,
+                            "y": 36
+                          },
+                          {
+                            "x": 33,
+                            "y": 36
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Mushroom",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Mushroom_idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite73",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite74",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite75",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite76",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mushroom_Walk",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom_Walk",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom_Walk2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom_Walk3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom_Walk4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom_Walk5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom_Walk6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom_Walk7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom_Walk8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Mushroom",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Mushroom8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 52,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 56
+                          },
+                          {
+                            "x": 75,
+                            "y": 93
+                          },
+                          {
+                            "x": 52,
+                            "y": 93
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -7467,6 +10432,17 @@
         "children": [
           {
             "objectName": "Player"
+          },
+          {
+            "folderName": "Enemies",
+            "children": [
+              {
+                "objectName": "Goblin"
+              },
+              {
+                "objectName": "Mushroom"
+              }
+            ]
           },
           {
             "folderName": "NPCs",
@@ -7814,6 +10790,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Player",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8406,6 +11383,10 @@
           "type": "AnimatableCapability::AnimatableBehavior"
         },
         {
+          "name": "BoidsMovement",
+          "type": "BoidsMovement::BoidsMovement"
+        },
+        {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
         },
@@ -8420,6 +11401,10 @@
         {
           "name": "Opacity",
           "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Pathfinding",
+          "type": "PathfindingBehavior::PathfindingBehavior"
         },
         {
           "name": "Resizable",
@@ -8448,6 +11433,2238 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "",
+      "category": "Movement",
+      "extensionNamespace": "",
+      "fullName": "Boids movement",
+      "helpPath": "/extensions/boids-movement/details/",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjMsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDMyIDMyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8Zz4NCgk8cGF0aCBkPSJNMjkuMywxMC4xYy0wLjQtMC4xLTAuOCwwLTEuMSwwLjNsLTMuMiw0Yy0xLjctMi01LjktNi40LTExLTYuNGMtMC4yLDAtMC4zLDAtMC41LDBjMS40LDIuNCwyLjEsNS4xLDIuMSw4DQoJCWMwLDIuOC0wLjcsNS42LTIuMSw4YzAuMiwwLDAuMywwLDAuNSwwYzUuMSwwLDkuMy00LjMsMTEtNi40bDMuMiw0YzAuMiwwLjIsMC41LDAuNCwwLjgsMC40YzAuMSwwLDAuMiwwLDAuMy0wLjENCgkJYzAuNC0wLjEsMC43LTAuNSwwLjctMC45VjExQzMwLDEwLjYsMjkuNywxMC4yLDI5LjMsMTAuMXoiLz4NCgk8cGF0aCBkPSJNMTEuNCw4LjRjLTUuMiwxLjUtOSw2LjgtOS4yLDdjLTAuMiwwLjMtMC4yLDAuOCwwLDEuMmMwLjIsMC4zLDQsNS42LDkuMiw3YzEuNS0yLjMsMi4yLTQuOSwyLjItNy42DQoJCUMxMy42LDEzLjMsMTIuOCwxMC42LDExLjQsOC40eiBNMTAsMTZjMCwwLjYtMC40LDEtMSwxcy0xLTAuNC0xLTF2LTJjMC0wLjYsMC40LTEsMS0xczEsMC40LDEsMVYxNnoiLz4NCjwvZz4NCjwvc3ZnPg0K",
+      "name": "BoidsMovement",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/Glyphster Pack/Master/SVG/Restaurant/Restaurant_restaurant_seafood_animal_fish.svg",
+      "shortDescription": "Simulates flocks movement.",
+      "version": "0.3.1",
+      "description": [
+        "Simulates swarms or flocks movement following the separation, alignment, cohesion principles. The flock can be attracted to a location or avoid some obstacles.",
+        "",
+        "The [Fish School example](https://editor.gdevelop.io/?project=example://fish-school) shows how properties impact on the movement."
+      ],
+      "origin": {
+        "identifier": "BoidsMovement",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "flock",
+        "swarm",
+        "boids",
+        "crowd",
+        "horde"
+      ],
+      "authorIds": [
+        "rotBq28wITdtfsrE7McHQri4k2w2",
+        "IWykYNRvhCZBN3vEgKEbBPOR3Oc2"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [
+        {
+          "folded": true,
+          "name": "HasAlreadyRunThisFrame",
+          "type": "boolean",
+          "value": false
+        }
+      ],
+      "eventsFunctions": [
+        {
+          "description": "Define helper classes JavaScript code.",
+          "fullName": "Define helper classes",
+          "functionType": "Action",
+          "name": "DefineHelperClasses",
+          "private": true,
+          "sentence": "Define helper classes JavaScript code",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::JsCode",
+              "inlineCode": [
+                "if (gdjs.__boidsExtension) {",
+                "  return;",
+                "}",
+                "",
+                "/**",
+                " * A vector",
+                " */",
+                "class Vector {",
+                "  /** @type {number} */",
+                "  x;",
+                "  /** @type {number} */",
+                "  y;",
+                "",
+                "  /**",
+                "   * Create a vector.",
+                "   * @param {number} x",
+                "   * @param {number} y",
+                "   */",
+                "  constructor(x, y) {",
+                "    this.x = x;",
+                "    this.y = y;",
+                "  }",
+                "",
+                "  /**",
+                "   * @param {number} x",
+                "   * @param {number} y",
+                "   * @returns {Vector} this object",
+                "   */",
+                "  set(x, y) {",
+                "    this.x = x;",
+                "    this.y = y;",
+                "    return this;",
+                "  }",
+                "",
+                "  /**",
+                "   * Adds a velocity to this vector",
+                "   * @param {Vector} referenceVector gets the velocity to be added",
+                "   * @returns {Vector} this object",
+                "   */",
+                "  add(referenceVector) {",
+                "    this.x += referenceVector.x;",
+                "    this.y += referenceVector.y;",
+                "",
+                "    return this;",
+                "  }",
+                "",
+                "  /**",
+                "   * Normalize the vector",
+                "   * @returns {Vector}",
+                "   */",
+                "  normalize() {",
+                "    const len = this.magnitude();",
+                "    if (len !== 0) this.multiply(1 / len);",
+                "    return this;",
+                "  }",
+                "",
+                "  /**",
+                "   * Multiply vectors verticies",
+                "   * @param {float} amount",
+                "   * @returns {Vector}",
+                "   */",
+                "  multiply(amount) {",
+                "    this.x *= amount;",
+                "    this.y *= amount;",
+                "    return this;",
+                "  }",
+                "",
+                "  /**",
+                "   * Divide vectors verticies",
+                "   * @param {float} amount",
+                "   * @returns {Vector}",
+                "   */",
+                "  divide(amount) {",
+                "    this.x /= amount;",
+                "    this.y /= amount;",
+                "",
+                "    return this;",
+                "  }",
+                "",
+                "  /**",
+                "   * Subtracts vectors verticies from a reference vector",
+                "   * @param {Vector} referenceVector",
+                "   * @returns {Vector}",
+                "   */",
+                "  subtract(referenceVector) {",
+                "    this.x -= referenceVector.x;",
+                "    this.y -= referenceVector.y;",
+                "",
+                "    return this;",
+                "  }",
+                "",
+                "  /**",
+                "   * Limits Vectors speed",
+                "   * @param {number} max",
+                "   * @returns {Vector}",
+                "   */",
+                "  limit(max) {",
+                "    const mSq = this.magnitudeSquare();",
+                "    if (mSq > max * max) {",
+                "      this.divide(Math.sqrt(mSq)).multiply(max);",
+                "    }",
+                "    return this;",
+                "  }",
+                "",
+                "  /**",
+                "   * Calculate the vectors direction",
+                "   * @returns {float}",
+                "   */",
+                "  heading() {",
+                "    return Math.atan2(this.y, this.x);",
+                "  }",
+                "",
+                "  /**",
+                "   * Calculate the vectors magnitude squared",
+                "   * @returns {float}",
+                "   */",
+                "  magnitudeSquare() {",
+                "    const x = this.x;",
+                "    const y = this.y;",
+                "    return x * x + y * y;",
+                "  };",
+                "",
+                "  /**",
+                "   * Calculate the vectors magnitude",
+                "   * @returns {float}",
+                "   */",
+                "  magnitude() {",
+                "    return Math.sqrt(this.magnitudeSquare());",
+                "  }",
+                "}",
+                "",
+                "/**",
+                " * A boid agent",
+                " * Methods for Separation, Cohesion, Alignment added",
+                " * Inspired from The Nature of Code - Daniel Shiffman",
+                " * http://natureofcode.com",
+                " * ",
+                " * Original source code:",
+                " * https://github.com/nature-of-code/noc-examples-processing/blob/master/chp06_agents/NOC_6_09_Flocking/Boid.pde",
+                " */",
+                "class Boid {",
+                "  /** @type {gdjs.BehaviorRBushAABB} */",
+                "  currentRBushAABB = null;",
+                "  acceleration = new Vector(0, 0);",
+                "  velocity = new Vector(gdjs.randomFloatInRange(-1, 1), gdjs.randomFloatInRange(-1, 1));",
+                "  separationDirection = new Vector(0, 0);",
+                "  alignmentDirection = new Vector(0, 0);",
+                "  cohesionDirection = new Vector(0, 0);",
+                "  customIntentsDirectionSum = new Vector(0, 0);",
+                "  separateWorkingVector = new Vector(0, 0);",
+                "",
+                "  /**",
+                "   * Create a boid agent.",
+                "   * @param {gdjs.RuntimeBehavior} behavior",
+                "   */",
+                "  constructor(behavior) {",
+                "    /** @type {gdjs.RuntimeBehavior} */",
+                "    this.behavior = behavior;",
+                "  }",
+                "",
+                "  /**",
+                "   * Add a custom intent.",
+                "   * @param {Boid} boid",
+                "   * @param {number} directionX",
+                "   * @param {number} directionY",
+                "   * @param {number} weight",
+                "   */",
+                "  addIntent(directionX, directionY, weight) {",
+                "",
+                "    if (directionX === 0 && directionY === 0) {",
+                "      return;",
+                "    }",
+                "",
+                "    const length = Math.hypot(directionX, directionY);",
+                "    const unitX = directionX / length;",
+                "    const unitY = directionY / length;",
+                "",
+                "    this.customIntentsDirectionSum.x += unitX * weight;",
+                "    this.customIntentsDirectionSum.y += unitY * weight;",
+                "  }",
+                "",
+                "  /**",
+                "   * Vector between 2 boids.",
+                "   * @param {Boid} boid",
+                "   * @param {Vector} vector the vector to return the result",
+                "   * @returns {Vector} vector",
+                "   */",
+                "  getVectorTo(boid, vector) {",
+                "    const object = this.behavior.owner;",
+                "    const otherObject = boid.behavior.owner;",
+                "    let x = otherObject.x - object.x;",
+                "    let y = otherObject.y - object.y;",
+                "    vector.set(x, y);",
+                "    return vector;",
+                "  }",
+                "",
+                "  /**",
+                "   * Applys the three rules of boids",
+                "   */",
+                "  flock() {",
+                "    const separationDirection = this.separate();",
+                "    const alignmentDirection = this.align();",
+                "    const cohesionDirection = this.cohesion();",
+                "",
+                "    separationDirection.multiply(this.behavior.SeparationWeight());",
+                "    alignmentDirection.multiply(this.behavior.AlignmentWeight());",
+                "    cohesionDirection.multiply(this.behavior.CohesionWeight());",
+                "",
+                "    const direction = separationDirection.add(alignmentDirection).add(cohesionDirection).add(this.customIntentsDirectionSum);",
+                "    this.acceleration.add(this.steer(direction));",
+                "",
+                "    this.customIntentsDirectionSum.set(0, 0);",
+                "  }",
+                "",
+                "  /**",
+                "   * Apply the acceleration from the steer force.",
+                "   */",
+                "  move() {",
+                "    const object = this.behavior.owner;",
+                "    const timeDelta = object.getElapsedTime(object.getInstanceContainer()) / 1000;",
+                "    this.acceleration.multiply(timeDelta);",
+                "",
+                "    const previousVelocityX = this.velocity.x;",
+                "    const previousVelocityY = this.velocity.y;",
+                "",
+                "    this.velocity.add(this.acceleration);",
+                "    this.velocity.limit(this.behavior.MaxSpeed());",
+                "    this.acceleration.set(0, 0);",
+                "",
+                "    if (this.behavior.ShouldRotate()) {",
+                "      let theta = this.velocity.heading() * 180 / Math.PI;",
+                "      object.setAngle(theta);",
+                "    }",
+                "    // Verlet integration",
+                "    object.setX(object.x + (previousVelocityX + this.velocity.x) / 2 * timeDelta);",
+                "    object.setY(object.y + (previousVelocityY + this.velocity.y) / 2 * timeDelta);",
+                "  }",
+                "",
+                "  /**",
+                "   * Calculates and applies steering force towards a direction",
+                "   * @param {Vector} desiredDirection",
+                "   * @return {Vector} alignment force",
+                "   */",
+                "  steer(desiredDirection) {",
+                "    desiredDirection.normalize();",
+                "    desiredDirection.multiply(this.behavior.MaxSpeed());",
+                "    let steer = desiredDirection.subtract(this.velocity);",
+                "    steer.limit(this.behavior.MaxAcceleration());",
+                "    return steer;",
+                "  }",
+                "",
+                "  /**",
+                "   * Separation: checks for nearby boids.",
+                "   * @return {Vector} separation direction",
+                "   */",
+                "  separate() {",
+                "    const runtimeScene = this.behavior.owner.getInstanceContainer();",
+                "    /** @type {BoidsManager} */",
+                "    const manager = runtimeScene.__boidsExtension.boidsManager;",
+                "    const separationRadius = this.behavior.SeparationRadius();",
+                "    this.separationDirection.set(0, 0);",
+                "    let diff = this.separateWorkingVector;",
+                "    const object = this.behavior.owner;",
+                "",
+                "    const nearbyBoids = manager.getAllBoidsAround(this, separationRadius);",
+                "    for (let i = 0; i < nearbyBoids.length; i++) {",
+                "      const boid = nearbyBoids[i];",
+                "      const otherObject = boid.behavior.owner;",
+                "      const distance = object.getDistanceToObject(otherObject);",
+                "      if (distance > 0) {",
+                "        diff = boid.getVectorTo(this, diff);",
+                "        diff.normalize();",
+                "        diff.divide(distance);",
+                "        this.separationDirection.add(diff);",
+                "      }",
+                "    }",
+                "    if (this.separationDirection.magnitudeSquare() > 0) {",
+                "      this.separationDirection.normalize();",
+                "    }",
+                "    return this.separationDirection;",
+                "  }",
+                "",
+                "  /**",
+                "   * Alignment: calculate the average velocity for every nearby boid in the system",
+                "   * @return {Vector} alignment direction",
+                "   */",
+                "  align() {",
+                "    const runtimeScene = this.behavior.owner.getInstanceContainer();",
+                "    /** @type {BoidsManager} */",
+                "    const manager = runtimeScene.__boidsExtension.boidsManager;",
+                "    const alignmentRadius = this.behavior.AlignmentRadius();",
+                "    this.alignmentDirection.set(0, 0);",
+                "    let count = 0;",
+                "    const object = this.behavior.owner;",
+                "",
+                "    const nearbyBoids = manager.getAllBoidsAround(this, alignmentRadius);",
+                "    for (let i = 0; i < nearbyBoids.length; i++) {",
+                "      const boid = nearbyBoids[i];",
+                "      this.alignmentDirection.add(boid.velocity);",
+                "      count++;",
+                "    }",
+                "    if (count > 0) {",
+                "      this.alignmentDirection.normalize();",
+                "    }",
+                "    return this.alignmentDirection;",
+                "  }",
+                "",
+                "  /**",
+                "   * Cohesion: calculate direction vector towards the average location of all nearby boids",
+                "   * @return {Vector} cohesion direction",
+                "   */",
+                "  cohesion() {",
+                "    const runtimeScene = this.behavior.owner.getInstanceContainer();",
+                "    /** @type {BoidsManager} */",
+                "    const manager = runtimeScene.__boidsExtension.boidsManager;",
+                "    const cohesionRadius = this.behavior.CohesionRadius();",
+                "    let count = 0;",
+                "    let sumX = 0;",
+                "    let sumY = 0;",
+                "    const object = this.behavior.owner;",
+                "",
+                "    const nearbyBoids = manager.getAllBoidsAround(this, cohesionRadius);",
+                "    for (let i = 0; i < nearbyBoids.length; i++) {",
+                "      const boid = nearbyBoids[i];",
+                "      const otherObject = boid.behavior.owner;",
+                "      sumX += otherObject.getCenterXInScene();",
+                "      sumY += otherObject.getCenterYInScene();",
+                "      count++;",
+                "    }",
+                "    if (count > 0) {",
+                "      sumX /= count;",
+                "      sumY /= count;",
+                "",
+                "      // A vector pointing from the position to the target",
+                "      this.cohesionDirection.set(",
+                "        sumX - object.getCenterXInScene(),",
+                "        sumY - object.getCenterYInScene()",
+                "      )",
+                "    }",
+                "    return this.cohesionDirection.normalize();",
+                "  }",
+                "}",
+                "",
+                "/**",
+                " * A boids manager",
+                " */",
+                "class BoidsManager {",
+                "  static searchArea = {minX: 0, minY: 0, maxX: 0, maxY: 0};",
+                "  /**",
+                "   * @type {Array<Boids>}",
+                "   */",
+                "  static foundBoids = [];",
+                "",
+                "  /**",
+                "   * Create a manager.",
+                "   */",
+                "  constructor() {",
+                "    /**",
+                "     * @type {Set<Boid>}",
+                "     */",
+                "    this.boids = new Set();",
+                "    this.boidsRBush = new rbush();",
+                "  }",
+                "",
+                "  /**",
+                "   * Create and register a boid.",
+                "   * @param {gdjs.RuntimeBehavior} behavior",
+                "   * @returns {Boid} the created Boid",
+                "   */",
+                "  add(behavior) {",
+                "    if (!behavior.__boidsExtension) {",
+                "      behavior.__boidsExtension = {",
+                "        boid: new Boid(behavior)",
+                "      };",
+                "    }",
+                "    const boid = behavior.__boidsExtension.boid;",
+                "    this.boids.add(boid);",
+                "    this.addToRBush(boid);",
+                "    return boid;",
+                "  }",
+                "",
+                "  /**",
+                "   * Add a boid to the R-Tree.",
+                "   * @param {Boid} boid",
+                "   */",
+                "  addToRBush(boid) {",
+                "    if (boid.currentRBushAABB) {",
+                "      boid.currentRBushAABB.updateAABBFromOwner();",
+                "    }",
+                "    else {",
+                "      boid.currentRBushAABB = new gdjs.BehaviorRBushAABB(",
+                "        boid.behavior",
+                "      );",
+                "    }",
+                "    this.boidsRBush.insert(boid.currentRBushAABB);",
+                "  }",
+                "",
+                "  /**",
+                "   * Unregister the boid.",
+                "   * @param {gdjs.RuntimeBehavior} behavior",
+                "   */",
+                "  remove(behavior) {",
+                "    const boid = behavior.__boidsExtension.boid;",
+                "    this.boids.delete(boid);",
+                "",
+                "    this.removeFromRBush(boid);",
+                "  }",
+                "",
+                "  /**",
+                "   * Remove a boid from the R-Tree.",
+                "   * @param {Boid} boid",
+                "   */",
+                "  removeFromRBush(boid) {",
+                "    this.boidsRBush.remove(boid.currentRBushAABB);",
+                "  }",
+                "",
+                "  /**",
+                "   * Move all instances.",
+                "   */",
+                "  moveAll() {",
+                "    for (const boid of this.boids) {",
+                "      boid.flock();",
+                "    }",
+                "    for (const boid of this.boids) {",
+                "      boid.move();",
+                "      this.removeFromRBush(boid);",
+                "      this.addToRBush(boid);",
+                "    }",
+                "  }",
+                "",
+                "  /**",
+                "   * Returns all the boids around the specified boid.",
+                "   * @param {Boid} boid",
+                "   * @param {number} radius",
+                "   * @return {Boid[]} An array with all boids near the object.",
+                "   */",
+                "  getAllBoidsAround(boid, radius) {",
+                "    const object = boid.behavior.owner;",
+                "",
+                "    const x = object.getCenterXInScene();",
+                "    const y = object.getCenterYInScene();",
+                "    const searchArea = BoidsManager.searchArea;",
+                "    searchArea.minX = x - radius;",
+                "    searchArea.minY = y - radius;",
+                "    searchArea.maxX = x + radius;",
+                "    searchArea.maxY = y + radius;",
+                "    // TODO The R-Tree should not allocate an array.",
+                "    /** @type {Array<Boid>} */",
+                "    const nearbys = this.boidsRBush.search(searchArea);",
+                "",
+                "    const radiusSq = radius * radius;",
+                "    const foundBoids = BoidsManager.foundBoids;",
+                "    foundBoids.length = 0;",
+                "    // Cap the number of boids between 20 and 40.",
+                "    const step = Math.ceil(nearbys.length / 40);",
+                "    for (let i = 0; i < nearbys.length; i += step) {",
+                "      const behavior = nearbys[i].behavior;",
+                "      const otherObject = behavior.owner;",
+                "      if (object === otherObject) {",
+                "        continue;",
+                "      }",
+                "      if (behavior._getCollisionLayer() !== behavior._getCollisionLayer()) {",
+                "        continue;",
+                "      }",
+                "      const distanceSq = object.getSqDistanceToObject(otherObject);",
+                "      if (distanceSq < radiusSq) {",
+                "        foundBoids.push(behavior.__boidsExtension.boid);",
+                "      }",
+                "    }",
+                "    return foundBoids;",
+                "  }",
+                "}",
+                "",
+                "gdjs.__boidsExtension = {",
+                "  BoidsManager,",
+                "};",
+                ""
+              ],
+              "parameterObjects": "",
+              "useStrict": true,
+              "eventsSheetExpanded": true
+            }
+          ],
+          "parameters": [],
+          "objectGroups": []
+        }
+      ],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Move as part of a flock.",
+          "fullName": "Boids Movement",
+          "name": "BoidsMovement",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onCreated",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Initiate and attach properties as objects variables"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::DefineHelperClasses"
+                      },
+                      "parameters": [
+                        "",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "\r",
+                    "runtimeScene.__boidsExtension = runtimeScene.__boidsExtension || {\r",
+                    "    boidsManager: new gdjs.__boidsExtension.BoidsManager(),\r",
+                    "};\r",
+                    "\r",
+                    "const object = objects[0];\r",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");\r",
+                    "const behavior = object.getBehavior(behaviorName);\r",
+                    "runtimeScene.__boidsExtension.boidsManager.add(behavior);"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Update boids position every frame"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "HasAlreadyRunThisFrame",
+                        "=",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "HasAlreadyRunThisFrame",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::JsCode",
+                      "inlineCode": [
+                        "runtimeScene.__boidsExtension.boidsManager.moveAll();\r",
+                        ""
+                      ],
+                      "parameterObjects": "Object",
+                      "useStrict": true,
+                      "eventsSheetExpanded": false
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPostEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "HasAlreadyRunThisFrame",
+                        "False",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onActivate",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "runtimeScene.__boidsExtension.boidsManager.add(behavior);"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onDeActivate",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "runtimeScene.__boidsExtension.boidsManager.remove(behavior);"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "onDestroy",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "\r",
+                    "const object = objects[0];\r",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");\r",
+                    "const behavior = object.getBehavior(behaviorName);\r",
+                    "runtimeScene.__boidsExtension.boidsManager.remove(behavior);"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Intend to move in a given direction.",
+              "fullName": "Move in a direction",
+              "functionType": "Action",
+              "name": "MoveInDirection",
+              "sentence": "_PARAM0_ intent to move in the direction _PARAM2_; _PARAM3_ (decision weight: _PARAM4_)",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "const directionX = eventsFunctionContext.getArgument(\"DirectionX\");",
+                    "const directionY = eventsFunctionContext.getArgument(\"DirectionY\");",
+                    "const decisionWeight = eventsFunctionContext.getArgument(\"DecisionWeight\");",
+                    "",
+                    "behavior.__boidsExtension.boid.addIntent(directionX, directionY, decisionWeight);"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": true
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Direction X",
+                  "name": "DirectionX",
+                  "type": "expression"
+                },
+                {
+                  "description": "Direction Y",
+                  "name": "DirectionY",
+                  "type": "expression"
+                },
+                {
+                  "description": "Decision weight",
+                  "name": "DecisionWeight",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Intend to move toward a position.",
+              "fullName": "Move toward a position",
+              "functionType": "Action",
+              "name": "MoveToPosition",
+              "sentence": "_PARAM0_ intend to move toward _PARAM2_; _PARAM3_ (decision weight: _PARAM4_)",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::MoveInDirection"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "TargetX - Object.CenterX()",
+                        "TargetY - Object.CenterY()",
+                        "DecisionWeight",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Target X",
+                  "name": "TargetX",
+                  "type": "expression"
+                },
+                {
+                  "description": "Target Y",
+                  "name": "TargetY",
+                  "type": "expression"
+                },
+                {
+                  "description": "Decision weight",
+                  "name": "DecisionWeight",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Intend to move toward an object.",
+              "fullName": "Move toward an object",
+              "functionType": "Action",
+              "name": "MoveToObject",
+              "sentence": "_PARAM0_ intend to move toward _PARAM2_ (decision weight: _PARAM3_)",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "TargetedObject",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::MoveToPosition"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "TargetedObject.CenterX()",
+                        "TargetedObject.CenterY()",
+                        "DecisionWeight"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Targeted object",
+                  "name": "TargetedObject",
+                  "type": "objectList"
+                },
+                {
+                  "description": "Decision weight",
+                  "name": "DecisionWeight",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Intend to avoid an area with a given center and radius.",
+              "fullName": "Avoid a position",
+              "functionType": "Action",
+              "name": "AvoidPosition",
+              "sentence": "_PARAM0_ intend to avoid a radius of _PARAM4_ around _PARAM2_; _PARAM3_ (decision weight: _PARAM5_)",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Evaluate at which distance the object will go past a location if it were to continue in its current direction.\n\nspeedUnitX = velocityX / speed\nspeedUnitY = velocityY / speed\n\ndeltaX = centerX - object.CenterX\ndeltaY = centerY - object.CenterY\n\nnormalX = -deltaY;\nnormalY = deltaX;\n\ntrajectoryDistance = speedUnitX * normalX + speedUnitY * normalY"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetNumberVariable"
+                      },
+                      "parameters": [
+                        "TrajectoryDistance",
+                        "=",
+                        "(Object.Behavior::VelocityX() * (Object.CenterY() - CenterY) + Object.Behavior::VelocityY() * (CenterX - Object.CenterX())) / Object.Behavior::Speed()"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Comment",
+                      "color": {
+                        "b": 109,
+                        "g": 230,
+                        "r": 255,
+                        "textB": 0,
+                        "textG": 0,
+                        "textR": 0
+                      },
+                      "comment": "If this distance is smaller than the specified radius, the Boid must try turn in the right direction to avoid the area."
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "TrajectoryDistance",
+                            ">",
+                            "- Radius"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "TrajectoryDistance",
+                            "<",
+                            "Radius"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 109,
+                            "g": 230,
+                            "r": 255,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "(normalX ; normalY)"
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "TrajectoryDistance",
+                                ">",
+                                "0"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "BoidsMovement::BoidsMovement::MoveInDirection"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "-(CenterY - Object.CenterY())",
+                                "CenterX - Object.CenterX()",
+                                "DecisionWeight",
+                                ""
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Comment",
+                          "color": {
+                            "b": 109,
+                            "g": 230,
+                            "r": 255,
+                            "textB": 0,
+                            "textG": 0,
+                            "textR": 0
+                          },
+                          "comment": "(-normalX ; -normalY)"
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "TrajectoryDistance",
+                                "<",
+                                "0"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "BoidsMovement::BoidsMovement::MoveInDirection"
+                              },
+                              "parameters": [
+                                "Object",
+                                "Behavior",
+                                "CenterY - Object.CenterY()",
+                                "-(CenterX - Object.CenterX())",
+                                "DecisionWeight",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "variables": [
+                    {
+                      "folded": true,
+                      "name": "TrajectoryDistance",
+                      "type": "number",
+                      "value": 0
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Center X",
+                  "name": "CenterX",
+                  "type": "expression"
+                },
+                {
+                  "description": "Center Y",
+                  "name": "CenterY",
+                  "type": "expression"
+                },
+                {
+                  "description": "Radius",
+                  "name": "Radius",
+                  "type": "expression"
+                },
+                {
+                  "description": "Decision weight",
+                  "name": "DecisionWeight",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Intend to avoid an area from an object center and a given radius.",
+              "fullName": "Avoid an object",
+              "functionType": "Action",
+              "name": "AvoidObject",
+              "sentence": "_PARAM0_ intend to avoid a radius of _PARAM3_ around _PARAM2_  (decision weight: _PARAM4_)",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::ForEach",
+                  "object": "AvoidedObject",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::AvoidPosition"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "AvoidedObject.CenterX()",
+                        "AvoidedObject.CenterY()",
+                        "Radius",
+                        "DecisionWeight",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Avoided object",
+                  "name": "AvoidedObject",
+                  "type": "objectList"
+                },
+                {
+                  "description": "Radius",
+                  "name": "Radius",
+                  "type": "expression"
+                },
+                {
+                  "description": "Decision weight",
+                  "name": "DecisionWeight",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the current speed.",
+              "fullName": "Speed",
+              "functionType": "Expression",
+              "name": "Speed",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "const directionX = eventsFunctionContext.getArgument(\"DirectionX\");",
+                    "const directionY = eventsFunctionContext.getArgument(\"DirectionY\");",
+                    "const decisionWeight = eventsFunctionContext.getArgument(\"DecisionWeight\");",
+                    "",
+                    "eventsFunctionContext.returnValue = behavior.__boidsExtension.boid.velocity.magnitude();"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the current horizontal speed.",
+              "fullName": "Velocity X",
+              "functionType": "Expression",
+              "name": "VelocityX",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "const directionX = eventsFunctionContext.getArgument(\"DirectionX\");",
+                    "const directionY = eventsFunctionContext.getArgument(\"DirectionY\");",
+                    "const decisionWeight = eventsFunctionContext.getArgument(\"DecisionWeight\");",
+                    "",
+                    "eventsFunctionContext.returnValue = behavior.__boidsExtension.boid.velocity.x;"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the current vertical  speed.",
+              "fullName": "Velocity Y",
+              "functionType": "Expression",
+              "name": "VelocityY",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::JsCode",
+                  "inlineCode": [
+                    "const object = objects[0];",
+                    "const behaviorName = eventsFunctionContext.getBehaviorName(\"Behavior\");",
+                    "const behavior = object.getBehavior(behaviorName);",
+                    "const directionX = eventsFunctionContext.getArgument(\"DirectionX\");",
+                    "const directionY = eventsFunctionContext.getArgument(\"DirectionY\");",
+                    "const decisionWeight = eventsFunctionContext.getArgument(\"DecisionWeight\");",
+                    "",
+                    "eventsFunctionContext.returnValue = behavior.__boidsExtension.boid.velocity.y;"
+                  ],
+                  "parameterObjects": "Object",
+                  "useStrict": true,
+                  "eventsSheetExpanded": false
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the maximum speed of the object.",
+              "fullName": "Maximum speed",
+              "functionType": "Action",
+              "group": "Boids movement configuration",
+              "name": "SetMaxSpeed",
+              "sentence": "Change the maximum speed of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::SetPropertyMaxSpeed"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "MaxSpeed"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Max Speed",
+                  "name": "MaxSpeed",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the maximum acceleration of the object.",
+              "fullName": "Maximum acceleration",
+              "functionType": "Action",
+              "group": "Boids movement configuration",
+              "name": "SetMaxAcceleration",
+              "sentence": "Change the maximum acceleration of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::SetPropertyMaxAcceleration"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "SteeringForce"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Steering Force",
+                  "name": "SteeringForce",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Check if the object is rotated while moving on its path.",
+              "fullName": "Object Rotated",
+              "functionType": "Condition",
+              "group": "Boids movement configuration",
+              "name": "ShouldRotate",
+              "sentence": "_PARAM0_ is rotated when moving",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::PropertyShouldRotate"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnBoolean"
+                      },
+                      "parameters": [
+                        "True"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the maximum speed.",
+              "fullName": "Maximum speed",
+              "functionType": "Expression",
+              "group": "Boids movement configuration",
+              "name": "MaxSpeed",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "MaxSpeed"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the maximum acceleration.",
+              "fullName": "Maximum acceleration",
+              "functionType": "Expression",
+              "group": "Boids movement configuration",
+              "name": "MaxAcceleration",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "MaxAcceleration"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the cohesion sight radius.",
+              "fullName": "Cohesion sight radius",
+              "functionType": "Expression",
+              "group": "Boids sight configuration",
+              "name": "CohesionRadius",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "CohesionRadius"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the cohesion sight radius.",
+              "fullName": "Cohesion sight radius",
+              "functionType": "Action",
+              "group": "Boids sight configuration",
+              "name": "SetCohesionRadius",
+              "sentence": "Change the cohesion sight radius of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::SetPropertyCohesionRadius"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the alignment sight radius.",
+              "fullName": "Alignment sight radius",
+              "functionType": "Expression",
+              "group": "Boids sight configuration",
+              "name": "AlignmentRadius",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "AlignmentRadius"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the alignment sight radius.",
+              "fullName": "Alignment sight radius",
+              "functionType": "Action",
+              "group": "Boids sight configuration",
+              "name": "SetAlignmentRadius",
+              "sentence": "Change the alignment sight radius of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::SetPropertyAlignmentRadius"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the separation sight radius.",
+              "fullName": "Separation sight radius",
+              "functionType": "Expression",
+              "group": "Boids sight configuration",
+              "name": "SeparationRadius",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "SeparationRadius"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return the separation sight radius.",
+              "fullName": "Separation sight radius",
+              "functionType": "Action",
+              "group": "Boids sight configuration",
+              "name": "SetSeparationRadius",
+              "sentence": "Change the separation sight radius of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::SetPropertySeparationRadius"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return which weight the cohesion takes in the chosen direction.",
+              "fullName": "Cohesion weight",
+              "functionType": "Expression",
+              "group": "Boids decision configuration",
+              "name": "CohesionWeight",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "CohesionWeight"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the weight the cohesion takes in the chosen direction.",
+              "fullName": "Cohesion weight",
+              "functionType": "Action",
+              "group": "Boids decision configuration",
+              "name": "SetCohesionWeight",
+              "sentence": "Change the cohesion weight of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::SetPropertyCohesionWeight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return which weight the alignment takes in the chosen direction.",
+              "fullName": "Alignment weight",
+              "functionType": "Expression",
+              "group": "Boids decision configuration",
+              "name": "AlignmentWeight",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "AlignmentWeight"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the weight the alignment takes in the chosen direction.",
+              "fullName": "Alignment weight",
+              "functionType": "Action",
+              "group": "Boids decision configuration",
+              "name": "SetAlignmentWeight",
+              "sentence": "Change the alignment weight of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::SetPropertyAlignmentWeight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Return which weight the separation takes in the chosen direction.",
+              "fullName": "Separation weight",
+              "functionType": "Expression",
+              "group": "Boids decision configuration",
+              "name": "SeparationWeight",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetReturnNumber"
+                      },
+                      "parameters": [
+                        "SeparationWeight"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "expressionType": {
+                "type": "expression"
+              },
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Change the weight the separation takes in the chosen direction.",
+              "fullName": "Separation weight",
+              "functionType": "Action",
+              "group": "Boids decision configuration",
+              "name": "SetSeparationWeight",
+              "sentence": "Change the separation weight of _PARAM0_ to _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BoidsMovement::BoidsMovement::SetPropertySeparationWeight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BoidsMovement::BoidsMovement",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Value",
+                  "name": "Value",
+                  "type": "expression"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "360",
+              "type": "Number",
+              "unit": "PixelSpeed",
+              "label": "Maximum speed",
+              "description": "",
+              "group": "Movement",
+              "extraInformation": [],
+              "name": "MaxSpeed"
+            },
+            {
+              "value": "720",
+              "type": "Number",
+              "unit": "PixelAcceleration",
+              "label": "Maximum acceleration",
+              "description": "",
+              "group": "Movement",
+              "extraInformation": [],
+              "name": "MaxAcceleration"
+            },
+            {
+              "value": "true",
+              "type": "Boolean",
+              "label": "Rotate object",
+              "description": "",
+              "group": "Movement",
+              "extraInformation": [],
+              "name": "ShouldRotate"
+            },
+            {
+              "value": "64",
+              "type": "Number",
+              "unit": "Pixel",
+              "label": "Cohesion sight radius",
+              "description": "",
+              "group": "Sight",
+              "extraInformation": [],
+              "name": "CohesionRadius"
+            },
+            {
+              "value": "48",
+              "type": "Number",
+              "unit": "Pixel",
+              "label": "Alignement sight radius",
+              "description": "",
+              "group": "Sight",
+              "extraInformation": [],
+              "name": "AlignmentRadius"
+            },
+            {
+              "value": "32",
+              "type": "Number",
+              "unit": "Pixel",
+              "label": "Separation sight radius",
+              "description": "",
+              "group": "Sight",
+              "extraInformation": [],
+              "name": "SeparationRadius"
+            },
+            {
+              "value": "1",
+              "type": "Number",
+              "unit": "Dimensionless",
+              "label": "Cohesion decision weight",
+              "description": "",
+              "group": "Decision",
+              "extraInformation": [],
+              "name": "CohesionWeight"
+            },
+            {
+              "value": "1",
+              "type": "Number",
+              "unit": "Dimensionless",
+              "label": "Alignment decision weight",
+              "description": "",
+              "group": "Decision",
+              "extraInformation": [],
+              "name": "AlignmentWeight"
+            },
+            {
+              "value": "2",
+              "type": "Number",
+              "unit": "Dimensionless",
+              "label": "Separation decision weight",
+              "description": "",
+              "group": "Decision",
+              "extraInformation": [],
+              "name": "SeparationWeight"
+            },
+            {
+              "value": "0",
+              "type": "Number",
+              "unit": "Dimensionless",
+              "label": "Collision layer",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "advanced": true,
+              "name": "CollisionLayer"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
     {
       "author": "D8H",
       "category": "Movement",
