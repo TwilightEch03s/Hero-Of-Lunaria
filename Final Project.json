@@ -4765,7 +4765,7 @@
           "persistentUuid": "8f7527a4-24a3-4bbf-99f2-edafaa34df52",
           "width": 0,
           "x": 696,
-          "y": 248,
+          "y": 288,
           "zOrder": 540,
           "numberProperties": [],
           "stringProperties": [],
@@ -4777,11 +4777,13 @@
           "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "Player",
+          "persistentUuid": "dc2f9cb3-b1e4-490e-8d43-57fab2b3b88d",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
             {
               "name": "Stamina",
+              "persistentUuid": "be1a7dac-282a-4ce4-a83d-3f80d7365769",
               "type": "number",
               "value": 1
             }
