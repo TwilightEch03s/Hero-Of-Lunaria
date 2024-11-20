@@ -1750,7 +1750,6 @@
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1823,690 +1822,15 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "char_a_p1_5hat_pfht_v04.png",
-        "kind": "image",
-        "metadata": "{\"localFilePath\":\"char_a_p1_5hat_pfht_v04.png\",\"extension\":\".png\"}",
-        "name": "char_a_p1_5hat_pfht_v04.png",
-=======
         "file": "Pixel Lands Village Demo/premade_buildings_demo.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Lands Village Demo/premade_buildings_demo.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/NewSprite.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite2",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-<<<<<<< Updated upstream
-=======
-        "file": "assets/NewSprite3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite3",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
->>>>>>> Stashed changes
-        "file": "assets/NewSprite4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite4",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite5.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite5",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite6.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite6",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite7.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite7",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite8.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite8",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite9.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite9",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite10.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite10",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite11.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite11",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite12.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite12",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite13.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite13",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite14.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite14",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite15.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite15",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite16.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite16",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite17.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite17",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite18.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite18",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite19.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite19",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite20.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite20",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite21.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite21",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite22.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite22",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite23.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite23",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite24.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite24",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite25.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite25",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite26.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite26",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite27.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite27",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite28.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite28",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite29.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite29",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite30.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite30",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite31.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite31",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite32.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite32",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite33.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite33",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite34.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite34",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite35.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite35",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite36.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite36",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite37.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite37",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite38.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite38",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite39.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite39",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite40.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite40",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite41.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite41",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite42.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite42",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite43.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite43",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite44.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite44",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite45.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite45",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite46.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite46",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite47.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite47",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite48.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite48",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite49.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite49",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite50.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite50",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite51.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite51",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite52.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite52",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite53.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite53",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite54.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite54",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite55.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite55",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite56.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite56",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite57.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite57",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite58.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite58",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite59.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite59",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite60.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite60",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite61.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite61",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite62.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite62",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite63.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite63",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite64.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite64",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite65.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite65",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite66.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite66",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite67.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite67",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite68.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite68",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-<<<<<<< Updated upstream
-=======
-        "file": "Pixel Lands Forest Demo/forest_demo_terrain.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "Pixel Lands Forest Demo/forest_demo_terrain.png",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
->>>>>>> Stashed changes
-        "file": "assets/NewSprite69.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite69",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite70.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite70",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite71.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite71",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-        "file": "assets/NewSprite72.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "NewSprite72",
-        "smoothed": true,
-        "userAdded": false
-      },
-      {
-        "alwaysLoaded": false,
-<<<<<<< Updated upstream
-        "file": "char_a_p1_0bas_humn_v06.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "char_a_p1_0bas_humn_v06.png",
-=======
         "file": "assets/NewSprite73.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3015,34 +2339,20 @@
         "kind": "image",
         "metadata": "",
         "name": "Pixel Lands Forest Demo/forest_demo_objects.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
-        "file": "char_a_p1_0bas_humn_v07.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "char_a_p1_0bas_humn_v07.png",
-=======
         "file": "Pixel Lands Village Demo/objects_demo.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Lands Village Demo/objects_demo.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
-        "file": "assets/char_a_p1_0bas_humn_v06.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "char_a_p1_0bas_humn_v06",
-=======
         "file": "assets/NewSprite129.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite129.png\"}",
@@ -3056,13 +2366,11 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite130",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/char_a_p1_0bas_humn_v07.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3108,75 +2416,42 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "char_a_p1_0bas_humn_v08.png",
-        "kind": "image",
-        "metadata": "",
-        "name": "char_a_p1_0bas_humn_v08.png",
-=======
         "file": "Trees+.png",
         "kind": "image",
         "metadata": "",
         "name": "Trees+.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
-        "file": "assets/Walk1.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walk1",
-=======
         "file": "assets/NewSprite131.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite131",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
-        "file": "assets/Walk2.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walk2",
-=======
         "file": "assets/NewSprite132.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite132",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
-        "file": "assets/Walk3.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walk3",
-=======
         "file": "assets/NewSprite133.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite133",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
-        "file": "assets/Walk4.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walk4",
-=======
         "file": "assets/Default-panel-border (17).png",
         "kind": "image",
         "metadata": "",
@@ -3194,13 +2469,11 @@
         "kind": "image",
         "metadata": "",
         "name": "Pixel Art Top Down - Basic v1.1.2/Texture/TX Tileset Wall.png",
->>>>>>> Stashed changes
         "smoothed": true,
         "userAdded": false
       },
       {
         "alwaysLoaded": false,
-<<<<<<< Updated upstream
         "file": "assets/Walk5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3372,16 +2645,37 @@
       },
       {
         "alwaysLoaded": false,
-        "file": "assets/Walk18.png",
-        "kind": "image",
-        "metadata": "{\"extension\":\".png\"}",
-        "name": "Walk18",
-=======
         "file": "Pixel Art Top Down - Basic v1.1.2/Texture/TX Props.png",
         "kind": "image",
         "metadata": "",
         "name": "Pixel Art Top Down - Basic v1.1.2/Texture/TX Props.png",
->>>>>>> Stashed changes
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Pixel Lands Forest Demo/forest_demo_terrain.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Pixel Lands Forest Demo/forest_demo_terrain.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/House.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "House",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Player.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Player",
         "smoothed": true,
         "userAdded": false
       }
@@ -3455,11 +2749,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-<<<<<<< Updated upstream
-        "zoomFactor": 1.2787204482050976,
-=======
-        "zoomFactor": 0.7854043609875592,
->>>>>>> Stashed changes
+        "zoomFactor": 0.5637190774505159,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3606,7 +2896,6 @@
         },
         {
           "angle": 0,
-<<<<<<< Updated upstream
           "customSize": false,
           "height": 0,
           "layer": "",
@@ -3847,13 +3136,9 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-=======
           "customSize": true,
           "depth": 1,
           "height": 72,
->>>>>>> Stashed changes
           "layer": "",
           "name": "House1",
           "persistentUuid": "1617e46b-73cf-4a15-83a5-6d73899c0a54",
@@ -4476,18 +3761,6 @@
         },
         {
           "angle": 0,
-<<<<<<< Updated upstream
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Main Inventory UI",
-          "name": "Player",
-          "persistentUuid": "1c789ce2-f14b-404c-b3a3-6cc9ab297295",
-          "width": 0,
-          "x": 728,
-          "y": 296,
-          "zOrder": 539,
-=======
           "customSize": true,
           "depth": 1,
           "height": 991.2000000000003,
@@ -4894,7 +4167,6 @@
           "x": 1280,
           "y": -24,
           "zOrder": 545,
->>>>>>> Stashed changes
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4905,14 +4177,6 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-<<<<<<< Updated upstream
-          "name": "Player",
-          "persistentUuid": "8f7527a4-24a3-4bbf-99f2-edafaa34df52",
-          "width": 0,
-          "x": 696,
-          "y": 248,
-          "zOrder": 540,
-=======
           "name": "GroundTileMapDecorations",
           "persistentUuid": "df378e82-ab8d-4342-9fbe-7adbc94cdf76",
           "width": 0,
@@ -13864,15 +13128,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 17,
           "keepRatio": true,
           "layer": "",
           "name": "Player",
           "persistentUuid": "4e72588e-4fb6-4fc0-b0f1-91df62688986",
-          "width": 0,
-          "x": 50,
-          "y": 687,
+          "width": 14,
+          "x": 42,
+          "y": 679,
           "zOrder": 565,
           "numberProperties": [],
           "stringProperties": [],
@@ -16764,7 +16029,6 @@
           "x": 1024,
           "y": 456,
           "zOrder": 545,
->>>>>>> Stashed changes
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -16772,7 +16036,7 @@
       ],
       "objects": [
         {
-          "adaptCollisionMaskAutomatically": false,
+          "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Player",
           "type": "Sprite",
@@ -16815,22 +16079,22 @@
           ],
           "animations": [
             {
-              "name": "Walk1",
+              "name": "Player",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": true,
+                  "looping": false,
                   "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.20000000298023224,
+                  "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Walk1",
+                      "image": "Player",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 8,
-                        "y": 16
+                        "x": 0,
+                        "y": 0
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -16841,887 +16105,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 2,
-                            "y": 13
+                            "x": 0,
+                            "y": 0
                           },
                           {
-                            "x": 14,
-                            "y": 13
+                            "x": 64,
+                            "y": 0
                           },
                           {
-                            "x": 14,
-                            "y": 16
+                            "x": 64,
+                            "y": 64
                           },
                           {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk2",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk3",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk4",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk5",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk6",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Walk0",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.20000000298023224,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk0",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk02",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk03",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk04",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk05",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk06",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Walk2",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.20000000298023224,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk7",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk8",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk9",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk10",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk11",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk12",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "Walk3",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": true,
-                  "metadata": "{\"pskl\":{}}",
-                  "timeBetweenFrames": 0.20000000298023224,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk13",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk14",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk15",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk16",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk17",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
-                          }
-                        ]
-                      ]
-                    },
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Walk18",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 8,
-                        "y": 16
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 2,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 13
-                          },
-                          {
-                            "x": 14,
-                            "y": 16
-                          },
-                          {
-                            "x": 2,
-                            "y": 16
+                            "x": 0,
+                            "y": 64
                           }
                         ]
                       ]
@@ -19161,7 +17558,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite5",
+                      "image": "House",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -20324,7 +18721,7 @@
           "isLocked": false,
           "name": "UI",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": []
         },
@@ -20342,8 +18739,6 @@
           "name": "Main Inventory UI",
           "renderingType": "",
           "visibility": false,
-<<<<<<< Updated upstream
-=======
           "cameras": [],
           "effects": [
             {
@@ -20377,7 +18772,6 @@
           "name": "Collision Boxes",
           "renderingType": "",
           "visibility": false,
->>>>>>> Stashed changes
           "cameras": [],
           "effects": [
             {
