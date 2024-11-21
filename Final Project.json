@@ -4262,6 +4262,123 @@
         "name": "Mushroom_hurt4",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt12",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/player_hurt13.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "player_hurt13",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4339,7 +4456,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-        "zoomFactor": 1.291633118577841,
+        "zoomFactor": 1.5760047339937042,
         "windowMask": false
       },
       "objectsGroups": [
@@ -17635,25 +17752,8 @@
           "name": "Goblin",
           "persistentUuid": "94dc8227-e224-47c4-945b-27e75f64a071",
           "width": 16,
-          "x": 1144,
-          "y": 408,
-          "zOrder": 566,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 20,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Goblin",
-          "persistentUuid": "500c2fe8-4163-444e-8e7d-7cb32051f310",
-          "width": 16,
-          "x": 1240,
-          "y": 408,
+          "x": 1136,
+          "y": 452,
           "zOrder": 566,
           "numberProperties": [],
           "stringProperties": [],
@@ -17703,8 +17803,8 @@
           "name": "Mushroom",
           "persistentUuid": "199cc245-3642-4162-9a1b-78486c0a62cf",
           "width": 16,
-          "x": 1224,
-          "y": 384,
+          "x": 1240,
+          "y": 448,
           "zOrder": 570,
           "numberProperties": [],
           "stringProperties": [],
@@ -23308,6 +23408,199 @@
                   ]
                 }
               ]
+            },
+            {
+              "name": "player_hurt",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "player_hurt7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 4
+                          },
+                          {
+                            "x": 22,
+                            "y": 4
+                          },
+                          {
+                            "x": 22,
+                            "y": 29
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "player_hurt8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 4
+                          },
+                          {
+                            "x": 22,
+                            "y": 4
+                          },
+                          {
+                            "x": 22,
+                            "y": 29
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "player_hurt9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 4
+                          },
+                          {
+                            "x": 22,
+                            "y": 4
+                          },
+                          {
+                            "x": 22,
+                            "y": 29
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "player_hurt10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 4
+                          },
+                          {
+                            "x": 22,
+                            "y": 4
+                          },
+                          {
+                            "x": 22,
+                            "y": 29
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "player_hurt11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 4
+                          },
+                          {
+                            "x": 22,
+                            "y": 4
+                          },
+                          {
+                            "x": 22,
+                            "y": 29
+                          },
+                          {
+                            "x": 0.5,
+                            "y": 29
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -24717,11 +25010,11 @@
                         [
                           {
                             "x": 0,
-                            "y": 14
+                            "y": 7
                           },
                           {
                             "x": 64,
-                            "y": 14
+                            "y": 7.5
                           },
                           {
                             "x": 64,
@@ -24753,11 +25046,11 @@
                         [
                           {
                             "x": 0,
-                            "y": 14
+                            "y": 7
                           },
                           {
                             "x": 64,
-                            "y": 14
+                            "y": 7.5
                           },
                           {
                             "x": 64,
@@ -24789,11 +25082,11 @@
                         [
                           {
                             "x": 0,
-                            "y": 14
+                            "y": 7
                           },
                           {
                             "x": 64,
-                            "y": 14
+                            "y": 7.5
                           },
                           {
                             "x": 64,
@@ -24825,11 +25118,11 @@
                         [
                           {
                             "x": 0,
-                            "y": 14
+                            "y": 7
                           },
                           {
                             "x": 64,
-                            "y": 14
+                            "y": 7.5
                           },
                           {
                             "x": 64,
@@ -24861,11 +25154,11 @@
                         [
                           {
                             "x": 0,
-                            "y": 14
+                            "y": 7
                           },
                           {
                             "x": 64,
-                            "y": 14
+                            "y": 7.5
                           },
                           {
                             "x": 64,
@@ -24897,11 +25190,11 @@
                         [
                           {
                             "x": 0,
-                            "y": 14
+                            "y": 7
                           },
                           {
                             "x": 64,
-                            "y": 14
+                            "y": 7.5
                           },
                           {
                             "x": 64,
@@ -24933,11 +25226,11 @@
                         [
                           {
                             "x": 0,
-                            "y": 14
+                            "y": 7
                           },
                           {
                             "x": 64,
-                            "y": 14
+                            "y": 7.5
                           },
                           {
                             "x": 64,
@@ -24969,11 +25262,11 @@
                         [
                           {
                             "x": 0,
-                            "y": 14
+                            "y": 7
                           },
                           {
                             "x": 64,
-                            "y": 14
+                            "y": 7.5
                           },
                           {
                             "x": 64,
@@ -26270,6 +26563,35 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Mushroom",
+                    "65",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceVers"
+                  },
+                  "parameters": [
+                    "Mushroom",
+                    "Player",
+                    "-10",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
                     "value": "CollisionNP"
                   },
                   "parameters": [
@@ -26365,6 +26687,17 @@
                     "10",
                     "0"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Mushroom",
+                    "Animation",
+                    "=",
+                    "\"Mushroom_walk\""
+                  ]
                 }
               ]
             },
@@ -26380,17 +26713,6 @@
                     "Player",
                     "90",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::Name"
-                  },
-                  "parameters": [
-                    "Mushroom",
-                    "Animation",
-                    "=",
-                    "\"Mushroom_idle\""
                   ]
                 }
               ],
@@ -26523,6 +26845,11 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
@@ -26568,13 +26895,42 @@
                 },
                 {
                   "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "Player",
+                    "mushroombullet.AngleToObject(Player)",
+                    "8",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
-                    "mushroombullet",
+                    "Player",
                     "Animation",
                     "=",
-                    "\"Green Effect and Bullet 16x16\""
+                    "\"player_hurt\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5\n"
                   ]
                 },
                 {
@@ -26582,8 +26938,26 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "mushroombullet",
+                    "goblinslash",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Player"
                   ]
                 }
               ]
@@ -26629,7 +27003,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "0.7"
+                    "0.5"
                   ]
                 },
                 {
@@ -26799,7 +27173,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "0.7"
+                    "0.5"
                   ]
                 },
                 {
@@ -26852,17 +27226,6 @@
                 },
                 {
                   "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation",
-                    "=",
-                    "\"goblin_idle\""
-                  ]
-                },
-                {
-                  "type": {
                     "value": "RotateTowardPosition"
                   },
                   "parameters": [
@@ -26878,7 +27241,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "0.7\n"
+                    "0.5\n"
                   ]
                 },
                 {
@@ -26888,6 +27251,17 @@
                   "parameters": [
                     "goblinslash",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation",
+                    "=",
+                    "\"goblin_idle\""
                   ]
                 }
               ]
@@ -27049,10 +27423,42 @@
                 },
                 {
                   "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "Player",
+                    "goblinslash.AngleToObject(Player)",
+                    "8",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"player_hurt\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "0.7\n"
+                    "0.5\n"
                   ]
                 },
                 {
@@ -27062,6 +27468,24 @@
                   "parameters": [
                     "goblinslash",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Player"
                   ]
                 }
               ]
@@ -27434,7 +27858,6 @@
           "colorG": 166,
           "colorR": 245,
           "creationTime": 0,
-          "folded": true,
           "name": "Attack slash",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -27521,7 +27944,7 @@
                     "slash",
                     "Scale",
                     "=",
-                    "0.75\n"
+                    "0.55\n"
                   ]
                 },
                 {
@@ -27548,10 +27971,20 @@
                 },
                 {
                   "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "0.7"
+                    "0.5"
                   ]
                 },
                 {
@@ -27561,6 +27994,16 @@
                   "parameters": [
                     "slash",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "yes"
                   ]
                 }
               ]
@@ -27637,7 +28080,7 @@
                     "slash",
                     "Scale",
                     "=",
-                    "0.75\n"
+                    "0.55\n"
                   ]
                 },
                 {
@@ -27664,10 +28107,20 @@
                 },
                 {
                   "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "0.7"
+                    "0.5"
                   ]
                 },
                 {
@@ -27677,6 +28130,16 @@
                   "parameters": [
                     "slash",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "yes"
                   ]
                 }
               ]
@@ -27742,7 +28205,7 @@
                     "slash",
                     "Scale",
                     "=",
-                    "0.75\n"
+                    "0.55\n"
                   ]
                 },
                 {
@@ -27769,10 +28232,20 @@
                 },
                 {
                   "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "0.7"
+                    "0.5"
                   ]
                 },
                 {
@@ -27782,6 +28255,16 @@
                   "parameters": [
                     "slash",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "yes"
                   ]
                 }
               ]
@@ -27858,7 +28341,7 @@
                     "slash",
                     "Scale",
                     "=",
-                    "0.75\n"
+                    "0.55\n"
                   ]
                 },
                 {
@@ -27885,10 +28368,20 @@
                 },
                 {
                   "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "no"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "0.7"
+                    "0.5"
                   ]
                 },
                 {
@@ -27898,6 +28391,16 @@
                   "parameters": [
                     "slash",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "yes"
                   ]
                 }
               ]
