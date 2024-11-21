@@ -4379,6 +4379,136 @@
         "name": "player_hurt13",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "sounds/Medieval Music Instrumental - Timber Town.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/Medieval Music Instrumental - Timber Town.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/Peaceful Grassland - RPG Ambience [ ezmp3.cc ].mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/Peaceful Grassland - RPG Ambience [ ezmp3.cc ].mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/FreeSteps/Dirt/Steps_dirt-001.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/FreeSteps/Dirt/Steps_dirt-001.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/FreeSteps/Dirt/Steps_dirt-002.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/FreeSteps/Dirt/Steps_dirt-002.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/FreeSteps/Dirt/Steps_dirt-003.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/FreeSteps/Dirt/Steps_dirt-003.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/FreeSteps/Dirt/Steps_dirt-004.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/FreeSteps/Dirt/Steps_dirt-004.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/FreeSteps/Dirt/Steps_dirt-005.ogg",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/FreeSteps/Dirt/Steps_dirt-005.ogg",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/healpop-46004.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/healpop-46004.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/woosh-230554.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/woosh-230554.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/hit-flesh-02-266309.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/hit-flesh-02-266309.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/goblin-scream-87564.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/goblin-scream-87564.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/sword-swing-whoosh-sound-effect-1-241824.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/sword-swing-whoosh-sound-effect-1-241824.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "sounds/Elden Ring  New Item [Sound Effect].mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "sounds/Elden Ring  New Item [Sound Effect].mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4456,7 +4586,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-        "zoomFactor": 1.5760047339937042,
+        "zoomFactor": 1.0240419998413528,
         "windowMask": false
       },
       "objectsGroups": [
@@ -4485,6 +4615,9 @@
             },
             {
               "name": "HealthBar"
+            },
+            {
+              "name": "Consumable2"
             }
           ]
         },
@@ -4496,12 +4629,6 @@
             },
             {
               "name": "InventoryBackground2"
-            },
-            {
-              "name": "InventoryBorders"
-            },
-            {
-              "name": "InventoryBorderSelected"
             },
             {
               "name": "InventoryText"
@@ -4587,6 +4714,11 @@
           "name": "Facing",
           "type": "string",
           "value": "0"
+        },
+        {
+          "name": "Footsteps",
+          "type": "number",
+          "value": 0
         }
       ],
       "instances": [
@@ -5190,23 +5322,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 81,
-          "keepRatio": true,
-          "layer": "Main Inventory UI",
-          "name": "InventoryBorders",
-          "persistentUuid": "df60048d-a267-4bb0-9165-cfd1d9ef7750",
-          "width": 456,
-          "x": 112,
-          "y": 103,
-          "zOrder": 527,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 44,
           "keepRatio": true,
           "layer": "Main Inventory UI",
@@ -5464,23 +5579,6 @@
           "x": 416,
           "y": 112,
           "zOrder": 537,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "Main Inventory UI",
-          "name": "InventoryBorderSelected",
-          "persistentUuid": "713e4442-8d26-4e27-abf7-c15b7b537df6",
-          "width": 64,
-          "x": 128,
-          "y": 112,
-          "zOrder": 538,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -15978,13 +16076,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 48,
+          "height": 40,
           "keepRatio": true,
           "layer": "Collision Boxes",
           "name": "CollsionDetection",
           "persistentUuid": "b96b9a11-d8da-479e-b6f6-d54307276d2d",
-          "width": 16,
-          "x": 552,
+          "width": 8,
+          "x": 560,
           "y": 192,
           "zOrder": 545,
           "numberProperties": [],
@@ -16114,7 +16212,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 16,
+          "height": 8,
           "keepRatio": true,
           "layer": "Collision Boxes",
           "name": "CollsionDetection",
@@ -16131,7 +16229,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 24,
+          "height": 16,
           "keepRatio": true,
           "layer": "Collision Boxes",
           "name": "CollsionDetection",
@@ -16139,23 +16237,6 @@
           "width": 72,
           "x": 560,
           "y": 232,
-          "zOrder": 545,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 16,
-          "keepRatio": true,
-          "layer": "Collision Boxes",
-          "name": "CollsionDetection",
-          "persistentUuid": "d5475dcf-125c-4012-85c9-9aa0b7ddc910",
-          "width": 16,
-          "x": 536,
-          "y": 216,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -17752,8 +17833,8 @@
           "name": "Goblin",
           "persistentUuid": "94dc8227-e224-47c4-945b-27e75f64a071",
           "width": 16,
-          "x": 1136,
-          "y": 452,
+          "x": 1216,
+          "y": 636,
           "zOrder": 566,
           "numberProperties": [],
           "stringProperties": [],
@@ -17769,8 +17850,8 @@
           "name": "Player",
           "persistentUuid": "3db59ca4-52d1-41da-bca3-b651c14dd0a5",
           "width": 16,
-          "x": 1192,
-          "y": 504,
+          "x": 48,
+          "y": 680,
           "zOrder": 568,
           "numberProperties": [],
           "stringProperties": [],
@@ -17786,8 +17867,8 @@
           "name": "LegendarySword",
           "persistentUuid": "a46c7de1-24ed-4625-8a85-917065defe1e",
           "width": 16,
-          "x": 1192,
-          "y": 448,
+          "x": 792,
+          "y": 560,
           "zOrder": 569,
           "numberProperties": [],
           "stringProperties": [],
@@ -17797,15 +17878,134 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 24,
+          "height": 20,
           "keepRatio": true,
           "layer": "",
-          "name": "Mushroom",
-          "persistentUuid": "199cc245-3642-4162-9a1b-78486c0a62cf",
+          "name": "Goblin",
+          "persistentUuid": "8da6a936-d2e2-437b-be82-9f7d564cbccc",
           "width": 16,
-          "x": 1240,
-          "y": 448,
+          "x": 1216,
+          "y": 588,
+          "zOrder": 566,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Goblin",
+          "persistentUuid": "8dea4d71-8aa4-44a6-b92b-ed8825fa5d06",
+          "width": 16,
+          "x": 1192,
+          "y": 568,
+          "zOrder": 566,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Goblin",
+          "persistentUuid": "9c8e7beb-4d90-4ba0-b491-2d57a6cd1d43",
+          "width": 16,
+          "x": 440,
+          "y": 180,
+          "zOrder": 566,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Goblin",
+          "persistentUuid": "97ef0326-53d2-4783-8767-8138fc1d814b",
+          "width": 16,
+          "x": 368,
+          "y": 164,
+          "zOrder": 566,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Goblin",
+          "persistentUuid": "c8988460-a425-44f5-b413-322cc9a169b1",
+          "width": 16,
+          "x": 1040,
+          "y": 216,
+          "zOrder": 566,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 20,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Goblin",
+          "persistentUuid": "6f953326-a9f4-4805-9b16-2e5f465a67e4",
+          "width": 16,
+          "x": 1024,
+          "y": 240,
+          "zOrder": 566,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "LegendarySword3",
+          "persistentUuid": "45f91795-3d98-455f-a563-f5ada85a97f5",
+          "width": 88,
+          "x": 35,
+          "y": 566,
           "zOrder": 570,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "Consumable2",
+          "persistentUuid": "50148aec-6ddf-443c-b1fc-667cde4284a2",
+          "width": 104,
+          "x": 131,
+          "y": 562,
+          "zOrder": 571,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -18699,28 +18899,6 @@
           ]
         },
         {
-          "assetStoreId": "d3bfd958c300f4a11b5f12ef986cda66f0d7738603a2800a410b4f166bcd8e07",
-          "bottomMargin": 12,
-          "height": 48,
-          "leftMargin": 12,
-          "name": "InventoryBorders",
-          "rightMargin": 12,
-          "texture": "Default-panel-border (11).png",
-          "tiled": false,
-          "topMargin": 12,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 48,
-          "variables": [
-            {
-              "name": "Hidden",
-              "type": "boolean",
-              "value": true
-            }
-          ],
-          "effects": [],
-          "behaviors": []
-        },
-        {
           "assetStoreId": "",
           "name": "InventoryText",
           "type": "BBText::BBText",
@@ -18925,28 +19103,6 @@
               ]
             }
           ]
-        },
-        {
-          "assetStoreId": "d3bfd958c300f4a11b5f12ef986cda66f0d7738603a2800a410b4f166bcd8e07",
-          "bottomMargin": 12,
-          "height": 48,
-          "leftMargin": 12,
-          "name": "InventoryBorderSelected",
-          "rightMargin": 12,
-          "texture": "Default-panel-border (11).png",
-          "tiled": false,
-          "topMargin": 12,
-          "type": "PanelSpriteObject::PanelSprite",
-          "width": 48,
-          "variables": [
-            {
-              "name": "Hidden",
-              "type": "boolean",
-              "value": true
-            }
-          ],
-          "effects": [],
-          "behaviors": []
         },
         {
           "adaptCollisionMaskAutomatically": true,
@@ -19519,7 +19675,7 @@
             {
               "name": "Health",
               "type": "number",
-              "value": 100
+              "value": 20
             }
           ],
           "effects": [],
@@ -19527,7 +19683,7 @@
             {
               "name": "FireBullet",
               "type": "FireBullet::FireBullet",
-              "FireCooldown": 0.1,
+              "FireCooldown": 1,
               "HasJustFired": false,
               "RotateBullet": true,
               "FiringArc": 45,
@@ -25608,6 +25764,392 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "LegendarySword3",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "ShakeObject_PositionAngle",
+              "type": "ShakeObject::ShakeObject_PositionAngle"
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite69",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite70",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite71",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite72",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite134",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite135",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite136",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite137",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 1
+                          },
+                          {
+                            "x": 31,
+                            "y": 31
+                          },
+                          {
+                            "x": 1,
+                            "y": 31
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "11f1a1cb1925b3d1b1c98d01b0a36202cb941724b363652288aa18e6d7918678",
+          "name": "Consumable2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "Hidden",
+              "persistentUuid": "426e13d1-a36f-41fa-beb0-33c0c1305561",
+              "type": "boolean",
+              "value": true
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Shadow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Shadow6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 10,
+                            "y": 6
+                          },
+                          {
+                            "x": 56,
+                            "y": 6
+                          },
+                          {
+                            "x": 56,
+                            "y": 62
+                          },
+                          {
+                            "x": 10,
+                            "y": 62
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -25643,6 +26185,12 @@
                 "objectName": "Items"
               },
               {
+                "objectName": "LegendarySword3"
+              },
+              {
+                "objectName": "Consumable2"
+              },
+              {
                 "objectName": "HealthBar"
               },
               {
@@ -25658,12 +26206,6 @@
               },
               {
                 "objectName": "RegularText"
-              },
-              {
-                "objectName": "InventoryBorders"
-              },
-              {
-                "objectName": "InventoryBorderSelected"
               },
               {
                 "objectName": "Equipment"
@@ -25825,6 +26367,38 @@
                 "=",
                 "0.5"
               ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "LegendarySword3"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sounds/Medieval Music Instrumental - Timber Town.mp3",
+                "yes",
+                "60",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "sounds/Peaceful Grassland - RPG Ambience [ ezmp3.cc ].mp3",
+                "yes",
+                "100",
+                ""
+              ]
             }
           ]
         },
@@ -25833,7 +26407,6 @@
           "colorG": 166,
           "colorR": 245,
           "creationTime": 0,
-          "folded": true,
           "name": "Inventory",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -25937,6 +26510,35 @@
                         ""
                       ]
                     }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "LegendarySword",
+                            "Equipped",
+                            "True",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Montre"
+                          },
+                          "parameters": [
+                            "LegendarySword3",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
                   ]
                 },
                 {
@@ -25970,6 +26572,34 @@
                       },
                       "parameters": [
                         "UI"
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BooleanObjectVariable"
+                          },
+                          "parameters": [
+                            "LegendarySword",
+                            "Equipped",
+                            "True",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Cache"
+                          },
+                          "parameters": [
+                            "LegendarySword3"
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -26012,7 +26642,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Player",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -26102,6 +26731,33 @@
               ]
             },
             {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::Value"
+                  },
+                  "parameters": [
+                    "HealthBar",
+                    "=",
+                    "0",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Player",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
               "colorB": 27,
               "colorG": 2,
               "colorR": 208,
@@ -26160,6 +26816,18 @@
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sounds/woosh-230554.mp3",
+                        "",
+                        "100",
+                        ""
+                      ]
+                    },
                     {
                       "type": {
                         "value": "TopDownMovementBehavior::MaxSpeed"
@@ -26327,7 +26995,6 @@
               "colorG": 2,
               "colorR": 208,
               "creationTime": 0,
-              "folded": true,
               "name": "Attack",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -26336,6 +27003,99 @@
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [],
                   "actions": []
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 27,
+              "colorG": 2,
+              "colorR": 208,
+              "creationTime": 0,
+              "name": "Heal",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "r"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                      },
+                      "parameters": [
+                        "HealthBar",
+                        "+",
+                        "8",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sounds/healpop-46004.mp3",
+                        "",
+                        "100",
+                        ""
+                      ]
+                    }
+                  ]
                 }
               ],
               "parameters": []
@@ -26563,35 +27323,6 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "Distance"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Mushroom",
-                    "65",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AddForceVers"
-                  },
-                  "parameters": [
-                    "Mushroom",
-                    "Player",
-                    "-10",
-                    "0"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
                     "value": "CollisionNP"
                   },
                   "parameters": [
@@ -26711,7 +27442,7 @@
                   "parameters": [
                     "Mushroom",
                     "Player",
-                    "90",
+                    "200",
                     ""
                   ]
                 }
@@ -26777,7 +27508,7 @@
                     "Mushroom.Y()",
                     "mushroombullet",
                     "Player",
-                    "90",
+                    "30",
                     ""
                   ]
                 },
@@ -26789,7 +27520,7 @@
                     "mushroombullet",
                     "Scale",
                     "=",
-                    ".75"
+                    ".70"
                   ]
                 },
                 {
@@ -26847,6 +27578,34 @@
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [],
               "actions": []
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "mushroombullet",
+                    "PhysicalObject",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "mushroombullet",
+                    ""
+                  ]
+                }
+              ]
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -27037,285 +27796,10 @@
                     "value": "Distance"
                   },
                   "parameters": [
-                    "Goblin",
                     "Player",
-                    "20",
+                    "Goblin",
+                    "200",
                     ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation",
-                    "=",
-                    "\"goblin_attack\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "slash",
-                    "Goblin",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AddForceAL"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Player.AngleToObject(Goblin)",
-                    "5",
-                    "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation",
-                    "=",
-                    "\"goblin_hurt\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberObjectVariable"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Health",
-                    "-",
-                    "10"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Arreter"
-                  },
-                  "parameters": [
-                    "Goblin"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "NumberObjectVariable"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Health",
-                    "<=",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation",
-                    "=",
-                    "\"goblin_death\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.5"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::Name"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation",
-                    "=",
-                    "\"goblin_attack\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "goblinslash",
-                    "Goblin.X()",
-                    "Goblin.Y()",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "RotateTowardPosition"
-                  },
-                  "parameters": [
-                    "goblinslash",
-                    "Player.X()",
-                    "Player.Y()",
-                    "0",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.5\n"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "goblinslash",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation",
-                    "=",
-                    "\"goblin_idle\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::Name"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation",
-                    "=",
-                    "\"goblin_hurt\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation",
-                    "=",
-                    "\"goblin_idle\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::Name"
-                  },
-                  "parameters": [
-                    "Goblin",
-                    "Animation",
-                    "=",
-                    "\"goblin_idle\""
                   ]
                 }
               ],
@@ -27325,167 +27809,574 @@
                     "value": "AddForceVers"
                   },
                   "parameters": [
-                    "Goblin",
+                    "Mushroom",
                     "Player",
-                    "10",
+                    "-10",
                     "0"
                   ]
                 }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PosX"
-                  },
-                  "parameters": [
-                    "Enemies",
-                    ">",
-                    "Player.X()"
-                  ]
-                }
               ],
-              "actions": [
+              "events": [
                 {
-                  "type": {
-                    "value": "FlippableCapability::FlippableBehavior::FlipX"
-                  },
-                  "parameters": [
-                    "Enemies",
-                    "Flippable",
-                    "yes"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "PosX"
-                  },
-                  "parameters": [
-                    "Enemies",
-                    "<",
-                    "Player.X()"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "FlippableCapability::FlippableBehavior::FlipX"
-                  },
-                  "parameters": [
-                    "Enemies",
-                    "Flippable",
-                    "no"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "goblinslash",
-                    "Player",
-                    "",
-                    "",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Player",
+                        "20",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation",
+                        "=",
+                        "\"goblin_attack\""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "BuiltinCommonInstructions::Once"
-                  },
-                  "parameters": []
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "HealthBar",
-                    "-",
-                    "3",
-                    "10"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "slash",
+                        "Goblin",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceAL"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Player.AngleToObject(Goblin)",
+                        "5",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation",
+                        "=",
+                        "\"goblin_hurt\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sounds/hit-flesh-02-266309.mp3",
+                        "",
+                        "100",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetNumberObjectVariable"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Health",
+                        "-",
+                        "10"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Arreter"
+                      },
+                      "parameters": [
+                        "Goblin"
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "AddForceAL"
-                  },
-                  "parameters": [
-                    "Player",
-                    "goblinslash.AngleToObject(Player)",
-                    "8",
-                    "1"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberObjectVariable"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Health",
+                        "<=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation",
+                        "=",
+                        "\"goblin_death\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "Player",
-                    "TopDownMovement",
-                    "no"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberObjectVariable"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Health",
+                        "<=",
+                        "0"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.5"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sounds/goblin-scream-87564.mp3",
+                        "",
+                        "100",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Animation",
-                    "=",
-                    "\"player_hurt\""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation",
+                        "=",
+                        "\"goblin_attack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "goblinslash",
+                        "Goblin.X()",
+                        "Goblin.Y()",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "RotateTowardPosition"
+                      },
+                      "parameters": [
+                        "goblinslash",
+                        "Player.X()",
+                        "Player.Y()",
+                        "0",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.5\n"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "goblinslash",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation",
+                        "=",
+                        "\"goblin_idle\""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.5\n"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation",
+                        "=",
+                        "\"goblin_attack\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "sounds/sword-swing-whoosh-sound-effect-1-241824.mp3",
+                        "",
+                        "100",
+                        ""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "goblinslash",
-                    ""
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation",
+                        "=",
+                        "\"goblin_hurt\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation",
+                        "=",
+                        "\"goblin_idle\""
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "Player",
-                    "TopDownMovement",
-                    "yes"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::Name"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Animation",
+                        "=",
+                        "\"goblin_idle\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceVers"
+                      },
+                      "parameters": [
+                        "Goblin",
+                        "Player",
+                        "30",
+                        "0"
+                      ]
+                    }
                   ]
                 },
                 {
-                  "type": {
-                    "value": "Arreter"
-                  },
-                  "parameters": [
-                    "Player"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PosX"
+                      },
+                      "parameters": [
+                        "Enemies",
+                        ">",
+                        "Player.X()"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Enemies",
+                        "Flippable",
+                        "yes"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "PosX"
+                      },
+                      "parameters": [
+                        "Enemies",
+                        "<",
+                        "Player.X()"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Enemies",
+                        "Flippable",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "goblinslash",
+                        "Player",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                      },
+                      "parameters": [
+                        "HealthBar",
+                        "-",
+                        "3",
+                        "10"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AddForceAL"
+                      },
+                      "parameters": [
+                        "Player",
+                        "goblinslash.AngleToObject(Player)",
+                        "8",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement",
+                        "no"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Animation",
+                        "=",
+                        "\"player_hurt\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Wait"
+                      },
+                      "parameters": [
+                        "0.5\n"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "goblinslash",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "ActivateBehavior"
+                      },
+                      "parameters": [
+                        "Player",
+                        "TopDownMovement",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Arreter"
+                      },
+                      "parameters": [
+                        "Player"
+                      ]
+                    }
                   ]
                 }
               ]
@@ -27735,7 +28626,6 @@
           "colorG": 166,
           "colorR": 245,
           "creationTime": 0,
-          "folded": true,
           "name": "Item Animation Idle",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -27818,6 +28708,18 @@
               "actions": [
                 {
                   "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/Elden Ring  New Item [Sound Effect].mp3",
+                    "",
+                    "100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetBooleanObjectVariable"
                   },
                   "parameters": [
@@ -27847,6 +28749,15 @@
                     "LegendarySword",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "LegendarySword3",
+                    ""
+                  ]
                 }
               ]
             }
@@ -27867,11 +28778,11 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyPressed"
+                    "value": "MouseButtonPressed"
                   },
                   "parameters": [
                     "",
-                    "LControl"
+                    "Left"
                   ]
                 },
                 {
@@ -27903,6 +28814,18 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/sword-swing-whoosh-sound-effect-1-241824.mp3",
+                    "",
+                    "100",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "Create"
@@ -28013,11 +28936,11 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyPressed"
+                    "value": "MouseButtonPressed"
                   },
                   "parameters": [
                     "",
-                    "LControl"
+                    "Left"
                   ]
                 },
                 {
@@ -28049,6 +28972,18 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/sword-swing-whoosh-sound-effect-1-241824.mp3",
+                    "",
+                    "100",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "Create"
@@ -28149,11 +29084,11 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyPressed"
+                    "value": "MouseButtonPressed"
                   },
                   "parameters": [
                     "",
-                    "LControl"
+                    "Left"
                   ]
                 },
                 {
@@ -28185,6 +29120,18 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/sword-swing-whoosh-sound-effect-1-241824.mp3",
+                    "",
+                    "100",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "Create"
@@ -28274,11 +29221,11 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyPressed"
+                    "value": "MouseButtonPressed"
                   },
                   "parameters": [
                     "",
-                    "LControl"
+                    "Left"
                   ]
                 },
                 {
@@ -28310,6 +29257,18 @@
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/sword-swing-whoosh-sound-effect-1-241824.mp3",
+                    "",
+                    "100",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "Create"
@@ -28409,9 +29368,290 @@
           "parameters": []
         },
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Footsteps",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Sprite"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Footsteps",
+                    "=",
+                    "RandomInRange(1,5)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Sprite"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Footsteps",
+                    "=",
+                    "RandomInRange(1,5)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Sprite"
+                  },
+                  "parameters": [
+                    "Player",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Footsteps",
+                    "=",
+                    "RandomInRange(1,5)"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Footsteps",
+                    "=",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/FreeSteps/Dirt/Steps_dirt-001.ogg",
+                    "",
+                    "100",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Footsteps",
+                    "=",
+                    "2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/FreeSteps/Dirt/Steps_dirt-002.ogg",
+                    "",
+                    "100",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Footsteps",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/FreeSteps/Dirt/Steps_dirt-003.ogg",
+                    "",
+                    "100",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Footsteps",
+                    "=",
+                    "4"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/FreeSteps/Dirt/Steps_dirt-004.ogg",
+                    "",
+                    "100",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Footsteps",
+                    "=",
+                    "5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/FreeSteps/Dirt/Steps_dirt-005.ogg",
+                    "",
+                    "100",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -28473,7 +29713,7 @@
           "isLocked": false,
           "name": "Main Inventory UI",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
