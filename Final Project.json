@@ -4909,7 +4909,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-        "zoomFactor": 1.1311675600928441,
+        "zoomFactor": 0.46200256528680234,
         "windowMask": false
       },
       "objectsGroups": [
@@ -5084,6 +5084,21 @@
           "name": "power",
           "type": "number",
           "value": 10
+        },
+        {
+          "name": "previouspositiony",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "previouspositionx",
+          "type": "number",
+          "value": 0
+        },
+        {
+          "name": "playerlevel",
+          "type": "number",
+          "value": 1
         }
       ],
       "instances": [
@@ -16397,7 +16412,7 @@
           "persistentUuid": "1ade9b72-5d93-46f9-b739-e3d9a69b03ed",
           "width": 16,
           "x": 536,
-          "y": 272,
+          "y": 288,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16431,7 +16446,7 @@
           "persistentUuid": "fde9aafd-36c9-49ac-9b57-5ce56ab1558d",
           "width": 32,
           "x": 488,
-          "y": 248,
+          "y": 288,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16499,7 +16514,7 @@
           "persistentUuid": "4ae5f192-3c59-4df4-961d-6f8fd4a4fbe7",
           "width": 16,
           "x": 576,
-          "y": 280,
+          "y": 288,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16533,7 +16548,7 @@
           "persistentUuid": "8df0898f-09f9-4284-a2f4-472d2062893c",
           "width": 16,
           "x": 600,
-          "y": 280,
+          "y": 296,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16566,8 +16581,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "68f0e17d-1521-49d0-adcd-3f09dec77a85",
           "width": 32,
-          "x": 616,
-          "y": 280,
+          "x": 568,
+          "y": 296,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16601,7 +16616,7 @@
           "persistentUuid": "1994e805-81f1-449c-b3ab-7d652e0bfec4",
           "width": 72,
           "x": 560,
-          "y": 232,
+          "y": 224,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16669,7 +16684,7 @@
           "persistentUuid": "841ed7b0-cfbf-400e-bfe7-07c26d3a9717",
           "width": 16,
           "x": 632,
-          "y": 232,
+          "y": 224,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -17178,8 +17193,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "f4fb189d-fc30-427b-981c-24da1feb687f",
           "width": 16,
-          "x": 816,
-          "y": 680,
+          "x": 968,
+          "y": 640,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -17229,8 +17244,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "ac340e7f-ae9e-467f-836f-415e5a9af217",
           "width": 32,
-          "x": 1104,
-          "y": 600,
+          "x": 1080,
+          "y": 608,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -17280,8 +17295,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "8d7765c1-0a45-473b-80e8-7943dd1167f2",
           "width": 16,
-          "x": 1120,
-          "y": 568,
+          "x": 1104,
+          "y": 592,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -17722,8 +17737,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "6e44a264-5437-4caa-8e31-ee3c3ea73d4d",
           "width": 32,
-          "x": 992,
-          "y": 384,
+          "x": 1016,
+          "y": 400,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -17791,7 +17806,7 @@
           "persistentUuid": "756572cd-f686-4d1a-bdad-93f6f559100d",
           "width": 32,
           "x": 880,
-          "y": 440,
+          "y": 448,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -17943,8 +17958,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "fce0c2dd-cf93-4d72-91f1-952b974cb9d7",
           "width": 32,
-          "x": 1024,
-          "y": 392,
+          "x": 1040,
+          "y": 408,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -17960,8 +17975,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "c5905dfc-3113-4a2e-8296-b47e7ff423da",
           "width": 32,
-          "x": 1056,
-          "y": 408,
+          "x": 1072,
+          "y": 424,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -18046,7 +18061,7 @@
           "persistentUuid": "07a868db-befd-4b67-8cf0-17d4a55176a8",
           "width": 32,
           "x": 1008,
-          "y": 648,
+          "y": 632,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -18131,7 +18146,7 @@
           "persistentUuid": "dfa5aa35-8028-4be8-aa1a-d00a62a7ec1d",
           "width": 32,
           "x": 904,
-          "y": 600,
+          "y": 632,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -18469,6 +18484,176 @@
           "width": 264,
           "x": 24,
           "y": 61,
+          "zOrder": 577,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 160,
+          "keepRatio": true,
+          "layer": "Collision Boxes",
+          "name": "CollsionDetection",
+          "persistentUuid": "574304b6-114b-4a33-a6dc-09459d649482",
+          "width": 24,
+          "x": 872,
+          "y": 464,
+          "zOrder": 545,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 160,
+          "keepRatio": true,
+          "layer": "Collision Boxes",
+          "name": "CollsionDetection",
+          "persistentUuid": "b0c6d352-0c7b-41d7-917d-e2e2c2e1177c",
+          "width": 24,
+          "x": 1104,
+          "y": 440,
+          "zOrder": 545,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "Collision Boxes",
+          "name": "CollsionDetection",
+          "persistentUuid": "22c3c7e2-c716-4a73-a25d-da53e9879335",
+          "width": 32,
+          "x": 896,
+          "y": 432,
+          "zOrder": 545,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "Collision Boxes",
+          "name": "CollsionDetection",
+          "persistentUuid": "87e2eaae-c55f-46c4-a987-b4bd85b86eeb",
+          "width": 32,
+          "x": 896,
+          "y": 432,
+          "zOrder": 545,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "Collision Boxes",
+          "name": "CollsionDetection",
+          "persistentUuid": "e6f7decf-5f41-4f5a-92c7-26ad7ccfd78b",
+          "width": 32,
+          "x": 912,
+          "y": 416,
+          "zOrder": 545,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 16,
+          "keepRatio": true,
+          "layer": "Collision Boxes",
+          "name": "CollsionDetection",
+          "persistentUuid": "736ea902-133e-499e-a564-894959e37dc1",
+          "width": 32,
+          "x": 992,
+          "y": 400,
+          "zOrder": 545,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 304,
+          "keepRatio": true,
+          "layer": "Upgrade",
+          "name": "Items",
+          "persistentUuid": "9afec8ea-e88b-44d3-a926-de3bc42cea27",
+          "width": 168,
+          "x": 280,
+          "y": 216,
+          "zOrder": 578,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 304,
+          "keepRatio": true,
+          "layer": "Upgrade",
+          "name": "Items",
+          "persistentUuid": "a8c2ba30-ee1d-449a-82b8-3f70d668d2cd",
+          "width": 168,
+          "x": 584,
+          "y": 216,
+          "zOrder": 578,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 304,
+          "keepRatio": true,
+          "layer": "Upgrade",
+          "name": "Items",
+          "persistentUuid": "1bafafe1-9f08-470a-8b8c-db0f0e55e20a",
+          "width": 168,
+          "x": 904,
+          "y": 208,
+          "zOrder": 578,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 720,
+          "keepRatio": true,
+          "layer": "Upgrade",
+          "name": "Items",
+          "persistentUuid": "83dc410d-af6a-4ca1-bc21-f836adf4ff62",
+          "width": 1280,
+          "x": 0,
+          "y": 0,
           "zOrder": 577,
           "numberProperties": [],
           "stringProperties": [],
@@ -27702,7 +27887,7 @@
           "string": "Text",
           "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
           "textAlignment": "center",
-          "characterSize": 9,
+          "characterSize": 20,
           "color": {
             "b": 196,
             "g": 245,
@@ -27726,7 +27911,7 @@
             "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
             "textAlignment": "center",
             "verticalTextAlignment": "top",
-            "characterSize": 9,
+            "characterSize": 20,
             "color": "27;245;196"
           }
         },
@@ -28806,6 +28991,28 @@
             "characterSize": 30,
             "color": "234;255;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
         }
       ],
       "objectsFolderStructure": {
@@ -28938,6 +29145,9 @@
               },
               {
                 "objectName": "GroundTileMapDecorations"
+              },
+              {
+                "objectName": "NewTiledSprite"
               }
             ]
           },
@@ -29012,6 +29222,9 @@
               },
               {
                 "objectName": "aug_swipesize"
+              },
+              {
+                "objectName": "NewSprite"
               }
             ]
           }
@@ -29127,6 +29340,17 @@
                 ">=",
                 "30"
               ]
+            },
+            {
+              "type": {
+                "value": "BooleanObjectVariable"
+              },
+              "parameters": [
+                "LegendarySword",
+                "Equipped",
+                "True",
+                ""
+              ]
             }
           ],
           "actions": [
@@ -29142,40 +29366,33 @@
             },
             {
               "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Mushroom",
+                "Health",
+                "=",
+                "60 * difficultyvar"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Goblin",
+                "Health",
+                "=",
+                "50 * difficultyvar"
+              ]
+            },
+            {
+              "type": {
                 "value": "ResetTimer"
               },
               "parameters": [
                 "",
                 "\"difficulty\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CompareTimer"
-              },
-              "parameters": [
-                "",
-                "\"difficulty\"",
-                "<=",
-                "30"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-              },
-              "parameters": [
-                "Experience",
-                "+",
-                "10",
-                ""
               ]
             }
           ]
@@ -29461,6 +29678,28 @@
                     "=",
                     "\"Level:\"+ Player.level +\"   \"+ToString(Experience.Value()) +\"/\"+ToString(Experience.MaxValue())"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "experience_orb",
+                    "Scale",
+                    "=",
+                    "0.25"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Augments",
+                    "Scale",
+                    "=",
+                    "5"
+                  ]
                 }
               ]
             },
@@ -29542,6 +29781,16 @@
                   },
                   "parameters": [
                     "Player",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Lunaris\"",
                     ""
                   ]
                 }
@@ -30055,6 +30304,7 @@
           "colorG": 166,
           "colorR": 245,
           "creationTime": 0,
+          "folded": true,
           "name": "Mushroom AI",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -30744,16 +30994,7 @@
                     "value": "Wait"
                   },
                   "parameters": [
-                    "0.5\n"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "goblinslash",
-                    ""
+                    "0.3\n"
                   ]
                 },
                 {
@@ -30964,6 +31205,12 @@
                     "Goblin",
                     "Animation"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -30989,14 +31236,6 @@
                     "Player.Y()",
                     "0",
                     ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "0.5\n"
                   ]
                 },
                 {
@@ -31214,6 +31453,29 @@
                 },
                 {
                   "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "EnemyDamageText",
+                    "Goblin.X()",
+                    "Goblin.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "EnemyDamageText",
+                    "Text",
+                    "=",
+                    "\"10\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -31230,18 +31492,6 @@
                 },
                 {
                   "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "EnemyDamageText",
-                    "Goblin.X()",
-                    "Goblin.Y()",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
                     "value": "AddForceXY"
                   },
                   "parameters": [
@@ -31249,17 +31499,6 @@
                     "0",
                     "-25",
                     "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "EnemyDamageText",
-                    "Text",
-                    "=",
-                    "\"10\""
                   ]
                 }
               ]
@@ -31327,7 +31566,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Walking Direction",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -31564,7 +31802,6 @@
           "colorG": 166,
           "colorR": 245,
           "creationTime": 0,
-          "folded": true,
           "name": "Item Animation Idle",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -32680,81 +32917,139 @@
                 "",
                 ""
               ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "experience_orb",
+                "Animation",
+                "=",
+                "\"experience_orb_1\""
+              ]
             }
           ],
-          "actions": [],
-          "events": [
+          "actions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::Name"
-                  },
-                  "parameters": [
-                    "experience_orb",
-                    "Animation",
-                    "=",
-                    "\"experience_orb_1\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "Experience",
-                    "+",
-                    "5",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "experience_orb",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "Experience",
+                "+",
+                "5",
+                ""
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::Name"
-                  },
-                  "parameters": [
-                    "experience_orb",
-                    "Animation",
-                    "=",
-                    "\"experience_orb_2\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                  },
-                  "parameters": [
-                    "Experience",
-                    "+",
-                    "10",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "experience_orb",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "experience_orb",
+                "",
+                "",
+                ""
               ]
             },
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "experience_orb",
+                "Animation",
+                "=",
+                "\"experience_orb_2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "Experience",
+                "+",
+                "25",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "experience_orb",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "experience_orb",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::Name"
+              },
+              "parameters": [
+                "experience_orb",
+                "Animation",
+                "=",
+                "\"experience_orb_2\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "Experience",
+                "+",
+                "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "experience_orb",
+                ""
+              ]
             }
           ]
         },
@@ -32768,7 +33063,7 @@
               "parameters": [
                 "Player",
                 "experience_orb",
-                "20",
+                "25",
                 ""
               ]
             }
@@ -32815,6 +33110,44 @@
             },
             {
               "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "previouspositionx",
+                "=",
+                "Player.X()"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "previouspositiony",
+                "=",
+                "Player.Y()"
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Delete"
+              },
+              "parameters": [
+                "Player",
+                ""
+              ]
+            },
+            {
+              "type": {
                 "value": "ShowLayer"
               },
               "parameters": [
@@ -32847,13 +33180,26 @@
             },
             {
               "type": {
-                "value": "SetNumberObjectVariable"
+                "value": "Create"
               },
               "parameters": [
-                "Player",
-                "level",
-                "+",
-                "1"
+                "",
+                "Augments",
+                "CameraCenterX(\"Upgrade\", 0) + 64",
+                "CameraCenterY(\"Upgrade\", 0)",
+                "\"Upgrade\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Augments",
+                "CameraCenterX(\"Upgrade\", 0) - 64",
+                "CameraCenterY(\"Upgrade\", 0)",
+                "\"Upgrade\""
               ]
             }
           ]
@@ -32862,6 +33208,52 @@
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [],
           "actions": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Player",
+                "previouspositionx",
+                "previouspositiony",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "playerlevel",
+                "+",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "HideLayer"
+              },
+              "parameters": [
+                "",
+                "\"Upgrade\""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -32878,7 +33270,7 @@
           "isLocked": false,
           "name": "",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [
             {
               "defaultSize": true,
@@ -32906,7 +33298,7 @@
           "isLocked": false,
           "name": "Upgrade",
           "renderingType": "",
-          "visibility": true,
+          "visibility": false,
           "cameras": [],
           "effects": [
             {
