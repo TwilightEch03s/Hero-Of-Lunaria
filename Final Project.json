@@ -4509,6 +4509,329 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Blue Border.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Blue Border.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/aa81b97c3211cf1e7cd040b96f5409851e3f1141c496b064157588294f09e662_Dot Bar Blue Border.png",
+          "name": "Dot Bar Blue Border.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Dot Bar Blue Fill Bar.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Dot Bar Blue Fill Bar.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Resource bars/pixel art/0f15d828199d38d229469b48c953574c22a34b8daeb8941f3eb40df01a8f7d22_Dot Bar Blue Fill Bar.png",
+          "name": "Dot Bar Blue Fill Bar.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb_1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb_1",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb_2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb_2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb_3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb_3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb_4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb_4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb_5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb_5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb_6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb_6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb_7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb_7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb_8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb_8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite194.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite138",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite194.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite139",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite194.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite140",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite194.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite141",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite195.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite142",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite196.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite143",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite197.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite144",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite198.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite145",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite199.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite146",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite200.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite147",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite201.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite148",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite202.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite149",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite203.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite150",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb8",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb9",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb10",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb11.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb11",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/experience_orb12.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "experience_orb12",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -4586,7 +4909,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-        "zoomFactor": 0.5827278708146766,
+        "zoomFactor": 1.1311675600928441,
         "windowMask": false
       },
       "objectsGroups": [
@@ -4702,6 +5025,38 @@
               "name": "Goblin"
             }
           ]
+        },
+        {
+          "name": "Augments",
+          "objects": [
+            {
+              "name": "aug_swipesize"
+            },
+            {
+              "name": "aug_speed"
+            },
+            {
+              "name": "aug_power"
+            },
+            {
+              "name": "aug_fireballs"
+            },
+            {
+              "name": "aug_staminaregen"
+            },
+            {
+              "name": "aug_lightningbolt"
+            },
+            {
+              "name": "aug_maxhealthup"
+            },
+            {
+              "name": "aug_knockback"
+            },
+            {
+              "name": "aug_dragonbreath"
+            }
+          ]
         }
       ],
       "variables": [
@@ -4719,6 +5074,16 @@
           "name": "Footsteps",
           "type": "number",
           "value": 0
+        },
+        {
+          "name": "difficultyvar",
+          "type": "number",
+          "value": 1
+        },
+        {
+          "name": "power",
+          "type": "number",
+          "value": 10
         }
       ],
       "instances": [
@@ -16032,7 +16397,7 @@
           "persistentUuid": "1ade9b72-5d93-46f9-b739-e3d9a69b03ed",
           "width": 16,
           "x": 536,
-          "y": 264,
+          "y": 272,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16048,8 +16413,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "698edd42-c6c3-4d8d-8dd0-44697df02e78",
           "width": 8,
-          "x": 536,
-          "y": 248,
+          "x": 568,
+          "y": 288,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16093,14 +16458,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 32,
+          "height": 24,
           "keepRatio": true,
           "layer": "Collision Boxes",
           "name": "CollsionDetection",
           "persistentUuid": "01fae523-d01e-4667-ab3d-0cdd3ff4c7f6",
           "width": 16,
           "x": 552,
-          "y": 264,
+          "y": 288,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16117,7 +16482,7 @@
           "persistentUuid": "1f6f7b7c-69fa-4703-8713-7fa991ce31d3",
           "width": 16,
           "x": 568,
-          "y": 264,
+          "y": 280,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16133,8 +16498,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "4ae5f192-3c59-4df4-961d-6f8fd4a4fbe7",
           "width": 16,
-          "x": 584,
-          "y": 264,
+          "x": 576,
+          "y": 280,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16151,7 +16516,7 @@
           "persistentUuid": "f922d855-b981-486d-a368-efe5e0c0d00d",
           "width": 16,
           "x": 592,
-          "y": 264,
+          "y": 280,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16219,7 +16584,7 @@
           "persistentUuid": "6f5dcb5d-3fe9-4331-88f7-d7c51040512f",
           "width": 16,
           "x": 632,
-          "y": 248,
+          "y": 232,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16660,8 +17025,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "1ebdc321-33c2-4a0f-9641-83bedd366925",
           "width": 16,
-          "x": 616,
-          "y": 344,
+          "x": 600,
+          "y": 376,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -16677,8 +17042,8 @@
           "name": "CollsionDetection",
           "persistentUuid": "13d8da21-f369-4eca-8334-a8ba6c82c43e",
           "width": 16,
-          "x": 648,
-          "y": 344,
+          "x": 600,
+          "y": 360,
           "zOrder": 545,
           "numberProperties": [],
           "stringProperties": [],
@@ -17850,8 +18215,8 @@
           "name": "Player",
           "persistentUuid": "3db59ca4-52d1-41da-bca3-b651c14dd0a5",
           "width": 16,
-          "x": 48,
-          "y": 680,
+          "x": 728,
+          "y": 584,
           "zOrder": 568,
           "numberProperties": [],
           "stringProperties": [],
@@ -18038,6 +18403,73 @@
           "x": 384,
           "y": 104,
           "zOrder": 573,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Main Inventory UI",
+          "name": "Mushroom",
+          "persistentUuid": "280a5789-d196-43ef-a722-3f2d8530ba70",
+          "width": 0,
+          "x": 1200,
+          "y": 528,
+          "zOrder": 574,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 21,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Mushroom",
+          "persistentUuid": "b1448b85-b186-459e-a756-1873805e7081",
+          "width": 16,
+          "x": 1224,
+          "y": 480,
+          "zOrder": 575,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 48,
+          "height": 18,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "Experience",
+          "persistentUuid": "90daca4d-0b60-4ca1-98af-286445189c69",
+          "width": 264,
+          "x": 24,
+          "y": 64,
+          "zOrder": 576,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 19,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "experience_info",
+          "persistentUuid": "735fcb22-008c-44a4-a6d9-ba61e4e328f4",
+          "width": 264,
+          "x": 24,
+          "y": 61,
+          "zOrder": 577,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -21156,6 +21588,11 @@
               "name": "Health",
               "type": "number",
               "value": 0
+            },
+            {
+              "name": "level",
+              "type": "number",
+              "value": 1
             }
           ],
           "effects": [],
@@ -26243,6 +26680,2132 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "98213fe7f1e2289ef501a2e0a96ed2292535e720bfa616da42cf780d99a3c6d0",
+          "name": "Experience",
+          "type": "PanelSpriteContinuousBar::PanelSpriteContinuousBar",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "BarTopPadding": 3,
+            "BarLeftPadding": 4,
+            "BarRightPadding": 4,
+            "BarBottomPadding": 4,
+            "EasingDuration": 0,
+            "PreviousHighValueDuration": 0,
+            "ShowLabel": false,
+            "InitialValue": 0,
+            "MaxValue": 50
+          },
+          "childrenContent": {
+            "Background": {
+              "bottomMargin": 4,
+              "height": 26,
+              "leftMargin": 2,
+              "rightMargin": 2,
+              "texture": "Dot Bar Blue Border.png",
+              "tiled": false,
+              "topMargin": 3,
+              "width": 118
+            },
+            "Buffer": {
+              "bottomMargin": 0,
+              "height": 19,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Dot Bar Blue Fill Bar.png",
+              "tiled": true,
+              "topMargin": 0,
+              "width": 21
+            },
+            "FillBar": {
+              "bottomMargin": 0,
+              "height": 19,
+              "leftMargin": 0,
+              "rightMargin": 0,
+              "texture": "Dot Bar Blue Fill Bar.png",
+              "tiled": true,
+              "topMargin": 0,
+              "width": 21
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "",
+              "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+              "textAlignment": "",
+              "characterSize": 20,
+              "color": {
+                "b": 0,
+                "g": 0,
+                "r": 0
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "",
+                "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+                "textAlignment": "",
+                "verticalTextAlignment": "top",
+                "characterSize": 20,
+                "color": "0;0;0"
+              }
+            }
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "experience_orb",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "experience_orb_1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb_1",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb_2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb_3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb_4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb_5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb_6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb_7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb_8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "experience_orb_2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite138",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite139",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite140",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite141",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "experience_orb_3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb11",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "experience_orb12",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": false,
+          "name": "EnemyDamageText",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Tween",
+              "type": "Tween::TweenBehavior"
+            }
+          ],
+          "string": "Text",
+          "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+          "textAlignment": "center",
+          "characterSize": 9,
+          "color": {
+            "b": 196,
+            "g": 245,
+            "r": 27
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 9,
+            "color": "27;245;196"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "aug_swipesize",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "powerlvl",
+              "persistentUuid": "cbb11179-3f94-4d4f-baf4-1247a6abc30e",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "knockbacklvl",
+              "persistentUuid": "5fad7f7a-ab22-4f17-9942-89c416f6289f",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "speed",
+              "persistentUuid": "b7bc52d7-0003-458b-a537-8521671b3d65",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "fireball",
+              "persistentUuid": "a6b48142-cd90-4246-9637-8f7228df5dd3",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "swipesize",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "healthregen",
+              "persistentUuid": "b1d9f0a9-6037-4a36-b420-d7aa079e6400",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "staminaregen",
+              "persistentUuid": "7cc532ef-3446-48aa-a34f-c99e4925e66c",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "dragonbreath",
+              "persistentUuid": "b6a49f10-126c-4dab-9fc6-cdcc2d73fdbf",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "lightningbolt",
+              "persistentUuid": "a3f1bcc9-74c2-4192-aaa4-0afc5c5dd59e",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite142",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "aug_speed",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "powerlvl",
+              "persistentUuid": "cbb11179-3f94-4d4f-baf4-1247a6abc30e",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "knockbacklvl",
+              "persistentUuid": "5fad7f7a-ab22-4f17-9942-89c416f6289f",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "speed",
+              "persistentUuid": "b7bc52d7-0003-458b-a537-8521671b3d65",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "fireball",
+              "persistentUuid": "a6b48142-cd90-4246-9637-8f7228df5dd3",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "swipesize",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "healthregen",
+              "persistentUuid": "b1d9f0a9-6037-4a36-b420-d7aa079e6400",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "staminaregen",
+              "persistentUuid": "7cc532ef-3446-48aa-a34f-c99e4925e66c",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "dragonbreath",
+              "persistentUuid": "b6a49f10-126c-4dab-9fc6-cdcc2d73fdbf",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "lightningbolt",
+              "persistentUuid": "a3f1bcc9-74c2-4192-aaa4-0afc5c5dd59e",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite143",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "aug_power",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "powerlvl",
+              "persistentUuid": "cbb11179-3f94-4d4f-baf4-1247a6abc30e",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "knockbacklvl",
+              "persistentUuid": "5fad7f7a-ab22-4f17-9942-89c416f6289f",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "speed",
+              "persistentUuid": "b7bc52d7-0003-458b-a537-8521671b3d65",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "fireball",
+              "persistentUuid": "a6b48142-cd90-4246-9637-8f7228df5dd3",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "swipesize",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "healthregen",
+              "persistentUuid": "b1d9f0a9-6037-4a36-b420-d7aa079e6400",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "staminaregen",
+              "persistentUuid": "7cc532ef-3446-48aa-a34f-c99e4925e66c",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "dragonbreath",
+              "persistentUuid": "b6a49f10-126c-4dab-9fc6-cdcc2d73fdbf",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "lightningbolt",
+              "persistentUuid": "a3f1bcc9-74c2-4192-aaa4-0afc5c5dd59e",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite144",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "aug_fireballs",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "powerlvl",
+              "persistentUuid": "cbb11179-3f94-4d4f-baf4-1247a6abc30e",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "knockbacklvl",
+              "persistentUuid": "5fad7f7a-ab22-4f17-9942-89c416f6289f",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "speed",
+              "persistentUuid": "b7bc52d7-0003-458b-a537-8521671b3d65",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "fireball",
+              "persistentUuid": "a6b48142-cd90-4246-9637-8f7228df5dd3",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "swipesize",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "healthregen",
+              "persistentUuid": "b1d9f0a9-6037-4a36-b420-d7aa079e6400",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "staminaregen",
+              "persistentUuid": "7cc532ef-3446-48aa-a34f-c99e4925e66c",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "dragonbreath",
+              "persistentUuid": "b6a49f10-126c-4dab-9fc6-cdcc2d73fdbf",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "lightningbolt",
+              "persistentUuid": "a3f1bcc9-74c2-4192-aaa4-0afc5c5dd59e",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite145",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "aug_staminaregen",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "powerlvl",
+              "persistentUuid": "cbb11179-3f94-4d4f-baf4-1247a6abc30e",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "knockbacklvl",
+              "persistentUuid": "5fad7f7a-ab22-4f17-9942-89c416f6289f",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "speed",
+              "persistentUuid": "b7bc52d7-0003-458b-a537-8521671b3d65",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "fireball",
+              "persistentUuid": "a6b48142-cd90-4246-9637-8f7228df5dd3",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "swipesize",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "healthregen",
+              "persistentUuid": "b1d9f0a9-6037-4a36-b420-d7aa079e6400",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "staminaregen",
+              "persistentUuid": "7cc532ef-3446-48aa-a34f-c99e4925e66c",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "dragonbreath",
+              "persistentUuid": "b6a49f10-126c-4dab-9fc6-cdcc2d73fdbf",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "lightningbolt",
+              "persistentUuid": "a3f1bcc9-74c2-4192-aaa4-0afc5c5dd59e",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite146",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "aug_lightningbolt",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "powerlvl",
+              "persistentUuid": "cbb11179-3f94-4d4f-baf4-1247a6abc30e",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "knockbacklvl",
+              "persistentUuid": "5fad7f7a-ab22-4f17-9942-89c416f6289f",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "speed",
+              "persistentUuid": "b7bc52d7-0003-458b-a537-8521671b3d65",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "fireball",
+              "persistentUuid": "a6b48142-cd90-4246-9637-8f7228df5dd3",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "swipesize",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "healthregen",
+              "persistentUuid": "b1d9f0a9-6037-4a36-b420-d7aa079e6400",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "staminaregen",
+              "persistentUuid": "7cc532ef-3446-48aa-a34f-c99e4925e66c",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "dragonbreath",
+              "persistentUuid": "b6a49f10-126c-4dab-9fc6-cdcc2d73fdbf",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "lightningbolt",
+              "persistentUuid": "a3f1bcc9-74c2-4192-aaa4-0afc5c5dd59e",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite147",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "aug_maxhealthup",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "powerlvl",
+              "persistentUuid": "cbb11179-3f94-4d4f-baf4-1247a6abc30e",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "knockbacklvl",
+              "persistentUuid": "5fad7f7a-ab22-4f17-9942-89c416f6289f",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "speed",
+              "persistentUuid": "b7bc52d7-0003-458b-a537-8521671b3d65",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "fireball",
+              "persistentUuid": "a6b48142-cd90-4246-9637-8f7228df5dd3",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "swipesize",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "healthregen",
+              "persistentUuid": "b1d9f0a9-6037-4a36-b420-d7aa079e6400",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "staminaregen",
+              "persistentUuid": "7cc532ef-3446-48aa-a34f-c99e4925e66c",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "dragonbreath",
+              "persistentUuid": "b6a49f10-126c-4dab-9fc6-cdcc2d73fdbf",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "lightningbolt",
+              "persistentUuid": "a3f1bcc9-74c2-4192-aaa4-0afc5c5dd59e",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite148",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "aug_knockback",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "powerlvl",
+              "persistentUuid": "cbb11179-3f94-4d4f-baf4-1247a6abc30e",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "knockbacklvl",
+              "persistentUuid": "5fad7f7a-ab22-4f17-9942-89c416f6289f",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "speed",
+              "persistentUuid": "b7bc52d7-0003-458b-a537-8521671b3d65",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "fireball",
+              "persistentUuid": "a6b48142-cd90-4246-9637-8f7228df5dd3",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "swipesize",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "healthregen",
+              "persistentUuid": "b1d9f0a9-6037-4a36-b420-d7aa079e6400",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "staminaregen",
+              "persistentUuid": "7cc532ef-3446-48aa-a34f-c99e4925e66c",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "dragonbreath",
+              "persistentUuid": "b6a49f10-126c-4dab-9fc6-cdcc2d73fdbf",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "lightningbolt",
+              "persistentUuid": "a3f1bcc9-74c2-4192-aaa4-0afc5c5dd59e",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite149",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "aug_dragonbreath",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [
+            {
+              "name": "powerlvl",
+              "persistentUuid": "cbb11179-3f94-4d4f-baf4-1247a6abc30e",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "knockbacklvl",
+              "persistentUuid": "5fad7f7a-ab22-4f17-9942-89c416f6289f",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "speed",
+              "persistentUuid": "b7bc52d7-0003-458b-a537-8521671b3d65",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "fireball",
+              "persistentUuid": "a6b48142-cd90-4246-9637-8f7228df5dd3",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "swipesize",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "healthregen",
+              "persistentUuid": "b1d9f0a9-6037-4a36-b420-d7aa079e6400",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "staminaregen",
+              "persistentUuid": "7cc532ef-3446-48aa-a34f-c99e4925e66c",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "dragonbreath",
+              "persistentUuid": "b6a49f10-126c-4dab-9fc6-cdcc2d73fdbf",
+              "type": "number",
+              "value": 1
+            },
+            {
+              "name": "lightningbolt",
+              "persistentUuid": "a3f1bcc9-74c2-4192-aaa4-0afc5c5dd59e",
+              "type": "number",
+              "value": 1
+            }
+          ],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite150",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 1
+                          },
+                          {
+                            "x": 15,
+                            "y": 15
+                          },
+                          {
+                            "x": 1,
+                            "y": 15
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "experience_info",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Text",
+          "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 255,
+            "r": 234
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": false,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Text",
+            "font": "490034af0b44b2d8e88911e4b30bf82a51e9fd67c1688a44a9c36e10ea360cd8_Kenney Pixel.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "color": "234;255;0"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -26250,6 +28813,9 @@
         "children": [
           {
             "objectName": "Player"
+          },
+          {
+            "objectName": "experience_orb"
           },
           {
             "folderName": "Enemies",
@@ -26274,6 +28840,15 @@
           {
             "folderName": "UI",
             "children": [
+              {
+                "objectName": "experience_info"
+              },
+              {
+                "objectName": "EnemyDamageText"
+              },
+              {
+                "objectName": "Experience"
+              },
               {
                 "objectName": "Items"
               },
@@ -26407,6 +28982,38 @@
                 "folderName": "Iron Sword"
               }
             ]
+          },
+          {
+            "folderName": "Augments",
+            "children": [
+              {
+                "objectName": "aug_dragonbreath"
+              },
+              {
+                "objectName": "aug_knockback"
+              },
+              {
+                "objectName": "aug_maxhealthup"
+              },
+              {
+                "objectName": "aug_lightningbolt"
+              },
+              {
+                "objectName": "aug_staminaregen"
+              },
+              {
+                "objectName": "aug_fireballs"
+              },
+              {
+                "objectName": "aug_power"
+              },
+              {
+                "objectName": "aug_speed"
+              },
+              {
+                "objectName": "aug_swipesize"
+              }
+            ]
           }
         ]
       },
@@ -26493,6 +29100,81 @@
                 "sounds/Peaceful Grassland - RPG Ambience [ ezmp3.cc ].mp3",
                 "yes",
                 "100",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"difficulty\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"difficulty\"",
+                ">=",
+                "30"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "difficultyvar",
+                "+",
+                "difficultyvar*0.1"
+              ]
+            },
+            {
+              "type": {
+                "value": "ResetTimer"
+              },
+              "parameters": [
+                "",
+                "\"difficulty\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"difficulty\"",
+                "<=",
+                "30"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "Experience",
+                "+",
+                "10",
                 ""
               ]
             }
@@ -26768,6 +29450,17 @@
                     "",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "experience_info",
+                    "Text",
+                    "=",
+                    "\"Level:\"+ Player.level +\"   \"+ToString(Experience.Value()) +\"/\"+ToString(Experience.MaxValue())"
+                  ]
                 }
               ]
             },
@@ -26859,6 +29552,7 @@
               "colorG": 2,
               "colorR": 208,
               "creationTime": 0,
+              "folded": true,
               "name": "Dodge",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -26995,6 +29689,7 @@
               "colorG": 2,
               "colorR": 208,
               "creationTime": 0,
+              "folded": true,
               "name": "Sprint",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -27092,6 +29787,7 @@
               "colorG": 2,
               "colorR": 208,
               "creationTime": 0,
+              "folded": true,
               "name": "Attack",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -27109,6 +29805,7 @@
               "colorG": 2,
               "colorR": 208,
               "creationTime": 0,
+              "folded": true,
               "name": "Heal",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -27202,6 +29899,7 @@
               "colorG": 117,
               "colorR": 65,
               "creationTime": 0,
+              "folded": true,
               "name": "Stamina",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -27357,7 +30055,6 @@
           "colorG": 166,
           "colorR": 245,
           "creationTime": 0,
-          "folded": true,
           "name": "Mushroom AI",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -27865,10 +30562,71 @@
                 },
                 {
                   "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "experience_orb",
+                    "Mushroom.X()",
+                    "Mushroom.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "experience_orb",
+                    "Mushroom.X()",
+                    "Mushroom.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "experience_orb",
+                    "Animation",
+                    "=",
+                    "\"experience_orb_1\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Delete"
                   },
                   "parameters": [
                     "Mushroom",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "CollsionDetection",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Mushroom",
+                    "CollsionDetection",
                     ""
                   ]
                 }
@@ -27882,7 +30640,6 @@
           "colorG": 166,
           "colorR": 245,
           "creationTime": 0,
-          "folded": true,
           "name": "Goblin AI",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -27914,568 +30671,650 @@
                     "0"
                   ]
                 }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "goblinslash",
+                    "Player",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
               ],
-              "events": [
+              "actions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "Distance"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Player",
-                        "20",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation",
-                        "=",
-                        "\"goblin_attack\""
-                      ]
-                    }
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "HealthBar",
+                    "-",
+                    "3",
+                    "10"
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "slash",
-                        "Goblin",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AddForceAL"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Player.AngleToObject(Goblin)",
-                        "5",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation",
-                        "=",
-                        "\"goblin_hurt\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "sounds/hit-flesh-02-266309.mp3",
-                        "",
-                        "100",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberObjectVariable"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Health",
-                        "-",
-                        "10"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.2"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Arreter"
-                      },
-                      "parameters": [
-                        "Goblin"
-                      ]
-                    }
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "Player",
+                    "goblinslash.AngleToObject(Player)",
+                    "8",
+                    "1"
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberObjectVariable"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Health",
-                        "<=",
-                        "0"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation",
-                        "=",
-                        "\"goblin_death\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        ""
-                      ]
-                    }
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "no"
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberObjectVariable"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Health",
-                        "<=",
-                        "0"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "sounds/goblin-scream-87564.mp3",
-                        "",
-                        "100",
-                        ""
-                      ]
-                    }
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"player_hurt\""
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation",
-                        "=",
-                        "\"goblin_attack\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "goblinslash",
-                        "Goblin.X()",
-                        "Goblin.Y()",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "RotateTowardPosition"
-                      },
-                      "parameters": [
-                        "goblinslash",
-                        "Player.X()",
-                        "Player.Y()",
-                        "0",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5\n"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "goblinslash",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation",
-                        "=",
-                        "\"goblin_idle\""
-                      ]
-                    }
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5\n"
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation",
-                        "=",
-                        "\"goblin_attack\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlaySound"
-                      },
-                      "parameters": [
-                        "",
-                        "sounds/sword-swing-whoosh-sound-effect-1-241824.mp3",
-                        "",
-                        "100",
-                        ""
-                      ]
-                    }
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "goblinslash",
+                    ""
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation",
-                        "=",
-                        "\"goblin_hurt\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation",
-                        "=",
-                        "\"goblin_idle\""
-                      ]
-                    }
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "yes"
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::Name"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Animation",
-                        "=",
-                        "\"goblin_idle\""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "AddForceVers"
-                      },
-                      "parameters": [
-                        "Goblin",
-                        "Player",
-                        "30",
-                        "0"
-                      ]
-                    }
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Player"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    ">",
+                    "Player.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "Flippable",
+                    "yes"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PosX"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "<",
+                    "Player.X()"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "Flippable",
+                    "no"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation",
+                    "=",
+                    "\"goblin_hurt\""
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PosX"
-                      },
-                      "parameters": [
-                        "Enemies",
-                        ">",
-                        "Player.X()"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Enemies",
-                        "Flippable",
-                        "yes"
-                      ]
-                    }
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation",
+                    "=",
+                    "\"goblin_idle\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation",
+                    "=",
+                    "\"goblin_idle\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceVers"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Player",
+                    "30",
+                    "0"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation",
+                    "=",
+                    "\"goblin_attack\""
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PosX"
-                      },
-                      "parameters": [
-                        "Enemies",
-                        "<",
-                        "Player.X()"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Enemies",
-                        "Flippable",
-                        "no"
-                      ]
-                    }
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation"
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "goblinslash",
-                        "Player",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                      },
-                      "parameters": [
-                        "HealthBar",
-                        "-",
-                        "3",
-                        "10"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AddForceAL"
-                      },
-                      "parameters": [
-                        "Player",
-                        "goblinslash.AngleToObject(Player)",
-                        "8",
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "Player",
-                        "TopDownMovement",
-                        "no"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Player",
-                        "Animation",
-                        "=",
-                        "\"player_hurt\""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5\n"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "goblinslash",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ActivateBehavior"
-                      },
-                      "parameters": [
-                        "Player",
-                        "TopDownMovement",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Arreter"
-                      },
-                      "parameters": [
-                        "Player"
-                      ]
-                    }
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/sword-swing-whoosh-sound-effect-1-241824.mp3",
+                    "",
+                    "100",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation",
+                    "=",
+                    "\"goblin_attack\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "goblinslash",
+                    "Goblin.X()",
+                    "Goblin.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "RotateTowardPosition"
+                  },
+                  "parameters": [
+                    "goblinslash",
+                    "Player.X()",
+                    "Player.Y()",
+                    "0",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5\n"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "goblinslash",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation",
+                    "=",
+                    "\"goblin_idle\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Health",
+                    "<=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/goblin-scream-87564.mp3",
+                    "",
+                    "100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "experience_orb",
+                    "Goblin.X()",
+                    "Goblin.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "experience_orb",
+                    "Goblin.X()",
+                    "Goblin.Y()",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Health",
+                    "<=",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation",
+                    "=",
+                    "\"goblin_death\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.5"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "slash",
+                    "Goblin",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AddForceAL"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Player.AngleToObject(Goblin)",
+                    "5",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation",
+                    "=",
+                    "\"goblin_hurt\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "sounds/hit-flesh-02-266309.mp3",
+                    "",
+                    "100",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberObjectVariable"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Health",
+                    "-",
+                    "10"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "0.2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Goblin"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "EnemyDamageText",
+                    "Goblin.X()",
+                    "Goblin.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AddForceXY"
+                  },
+                  "parameters": [
+                    "EnemyDamageText",
+                    "0",
+                    "-25",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "EnemyDamageText",
+                    "Text",
+                    "=",
+                    "\"10\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Distance"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Player",
+                    "20",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "Animation",
+                    "=",
+                    "\"goblin_attack\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Enemies",
+                    "CollsionDetection",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Goblin",
+                    "CollsionDetection",
+                    ""
                   ]
                 }
               ]
@@ -28869,6 +31708,7 @@
           "colorG": 166,
           "colorR": 245,
           "creationTime": 0,
+          "folded": true,
           "name": "Attack slash",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -29793,6 +32633,235 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "Tween::Exists"
+              },
+              "parameters": [
+                "EnemyDamageText",
+                "Tween",
+                "\"FadeOut\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Tween::TweenBehavior::AddObjectOpacityTween2"
+              },
+              "parameters": [
+                "EnemyDamageText",
+                "Tween",
+                "\"FadeOut\"",
+                "0",
+                "\"linear\"",
+                "1.7",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "experience_orb",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "experience_orb",
+                    "Animation",
+                    "=",
+                    "\"experience_orb_1\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "Experience",
+                    "+",
+                    "5",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "experience_orb",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                  },
+                  "parameters": [
+                    "experience_orb",
+                    "Animation",
+                    "=",
+                    "\"experience_orb_2\""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                  },
+                  "parameters": [
+                    "Experience",
+                    "+",
+                    "10",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Distance"
+              },
+              "parameters": [
+                "Player",
+                "experience_orb",
+                "20",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceVersPos"
+              },
+              "parameters": [
+                "experience_orb",
+                "Player.X()",
+                "Player.Y()",
+                "10",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::IsFull"
+              },
+              "parameters": [
+                "Experience",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetMaxValue"
+              },
+              "parameters": [
+                "Experience",
+                "*",
+                "1.5",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"Upgrade\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+              },
+              "parameters": [
+                "Experience",
+                "=",
+                "0",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Augments",
+                "CameraCenterX(\"Upgrade\", 0)",
+                "CameraCenterY(\"Upgrade\", 0)",
+                "\"Upgrade\""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberObjectVariable"
+              },
+              "parameters": [
+                "Player",
+                "level",
+                "+",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ],
       "layers": [
@@ -29823,6 +32892,39 @@
             }
           ],
           "effects": []
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Upgrade",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
         },
         {
           "ambientLightColorB": 15350824,
@@ -29975,6 +33077,10 @@
           "type": "TopDownMovementAnimator::TopDownMovementAnimator",
           "NewAnimationDirection": 0,
           "AnimationFrame": 0
+        },
+        {
+          "name": "Tween",
+          "type": "Tween::TweenBehavior"
         }
       ]
     },
