@@ -6045,6 +6045,294 @@
         "name": "NewSprite218",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite219.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite219",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite220.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite220",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite221.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite221",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite222.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite222",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite223.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite223",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite224.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite224",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite225.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite225",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite226.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite226",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite227.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite227",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite228.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite228",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite229.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite229",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite230.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite230",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite231.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite231",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite232.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite232",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite233.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite233",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite234.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite234",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite235.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite235",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite236.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite236",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite237.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite237",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite238.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite238",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite239.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite239",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite240.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite240",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite241.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite241",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite242.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite242",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite243.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite243",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite244.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite244",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite245.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite245",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite246.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite246",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite247.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite247",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite248.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite248",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite249.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite249",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite250.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite250",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -6082,7 +6370,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.2,
         "snap": true,
-        "zoomFactor": 0.5103328912418644,
+        "zoomFactor": 0.785404360987612,
         "windowMask": false
       },
       "objectsGroups": [
@@ -6157,31 +6445,31 @@
           "name": "Augments",
           "objects": [
             {
-              "name": "SlashAugment"
+              "name": "aug_1"
             },
             {
-              "name": "SpeedAugment"
+              "name": "aug_2"
             },
             {
-              "name": "StrengthAugment"
+              "name": "aug_3"
             },
             {
-              "name": "FireAuraAugment"
+              "name": "aug_4"
             },
             {
-              "name": "StaminaAugment"
+              "name": "aug_5"
             },
             {
-              "name": "LightningAuraAugment"
+              "name": "aug_6"
             },
             {
-              "name": "RegenerationAugment"
+              "name": "aug_7"
             },
             {
-              "name": "KnockbackAugment"
+              "name": "aug_8"
             },
             {
-              "name": "DragonBreathAugment"
+              "name": "aug_9"
             }
           ]
         }
@@ -15849,7 +16137,7 @@
           "height": 84,
           "keepRatio": true,
           "layer": "Starter",
-          "name": "StaminaAugment",
+          "name": "aug_5",
           "persistentUuid": "b560494e-1fc5-4660-899a-7e1a8feea469",
           "width": 84,
           "x": 945,
@@ -15866,7 +16154,7 @@
           "height": 88,
           "keepRatio": true,
           "layer": "Starter",
-          "name": "SlashAugment",
+          "name": "aug_1",
           "persistentUuid": "996d6ef2-f039-4975-85a6-572251b5cc01",
           "width": 88,
           "x": 856,
@@ -15883,7 +16171,7 @@
           "height": 88,
           "keepRatio": true,
           "layer": "Starter",
-          "name": "SpeedAugment",
+          "name": "aug_2",
           "persistentUuid": "c595824b-0c30-49e0-83f1-3094ef3a1d21",
           "width": 88,
           "x": 944,
@@ -15900,7 +16188,7 @@
           "height": 88,
           "keepRatio": true,
           "layer": "Starter",
-          "name": "StrengthAugment",
+          "name": "aug_3",
           "persistentUuid": "192d737e-aaeb-4794-9b29-1901cd17d9a2",
           "width": 88,
           "x": 1032,
@@ -15917,7 +16205,7 @@
           "height": 88,
           "keepRatio": true,
           "layer": "Starter",
-          "name": "FireAuraAugment",
+          "name": "aug_4",
           "persistentUuid": "a1d37bfc-7102-43e4-b349-9ead8c98a1da",
           "width": 88,
           "x": 856,
@@ -15934,7 +16222,7 @@
           "height": 88,
           "keepRatio": true,
           "layer": "Starter",
-          "name": "LightningAuraAugment",
+          "name": "aug_6",
           "persistentUuid": "933e437d-134f-46a4-9ec7-52034bcf1f7e",
           "width": 88,
           "x": 1031,
@@ -15951,7 +16239,7 @@
           "height": 88,
           "keepRatio": true,
           "layer": "Starter",
-          "name": "RegenerationAugment",
+          "name": "aug_7",
           "persistentUuid": "75da20e0-9a31-447b-94bc-678e50c6593d",
           "width": 88,
           "x": 855,
@@ -15968,7 +16256,7 @@
           "height": 88,
           "keepRatio": true,
           "layer": "Starter",
-          "name": "KnockbackAugment",
+          "name": "aug_8",
           "persistentUuid": "16dd5b29-4af8-4f11-ac78-7e587dace0e1",
           "width": 88,
           "x": 944,
@@ -15985,7 +16273,7 @@
           "height": 88,
           "keepRatio": true,
           "layer": "Starter",
-          "name": "DragonBreathAugment",
+          "name": "aug_9",
           "persistentUuid": "023f1a85-9c16-431b-93ce-d3fa94e86c94",
           "width": 88,
           "x": 1032,
@@ -16086,6 +16374,40 @@
               "value": "{\"tileWidth\":16,\"tileHeight\":16,\"dimX\":16,\"dimY\":8,\"layers\":[{\"id\":0,\"alpha\":1,\"tiles\":[[236,237,237,237,237,237,237,237,237,237,237,237,237,237,237,238],[236,237,237,237,237,237,237,237,237,237,237,237,237,237,237,238],[236,237,237,237,237,237,237,237,237,237,237,237,237,237,237,238],[265,266,266,266,266,266,266,266,266,266,266,266,266,266,266,267],[294,295,295,295,295,295,295,295,295,295,295,295,295,295,295,296],[294,295,295,295,295,295,295,295,295,295,295,295,295,295,295,296],[294,295,295,295,295,295,295,295,295,295,295,295,295,295,295,296],[352,353,353,353,353,353,353,353,353,353,353,353,353,353,353,354]]}]}"
             }
           ],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 21,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Mushroom",
+          "persistentUuid": "66135f9e-5b7b-4183-8495-7ee7565bd0c0",
+          "width": 13,
+          "x": 296,
+          "y": 1024,
+          "zOrder": 581,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 21,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Mushroom",
+          "persistentUuid": "93c414e8-3a13-4de5-91b3-f6d7c37309c9",
+          "width": 13,
+          "x": 323,
+          "y": 1043,
+          "zOrder": 581,
+          "numberProperties": [],
+          "stringProperties": [],
           "initialVariables": []
         }
       ],
@@ -18053,6 +18375,37 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "FireBullet",
+              "type": "FireBullet::FireBullet",
+              "FireCooldown": 0.1,
+              "HasJustFired": false,
+              "RotateBullet": true,
+              "FiringArc": 45,
+              "BulletQuantity": 1,
+              "AngleVariance": 0,
+              "BulletSpeedVariance": 0,
+              "AmmoQuantity": 0,
+              "ShotsPerReload": 0,
+              "ReloadDuration": 1,
+              "MaxAmmo": 0,
+              "ShotsBeforeNextReload": 0,
+              "TotalShotsFired": 0,
+              "TotalBulletsCreated": 0,
+              "StartingAmmo": 0,
+              "TotalReloadsCompleted": 0,
+              "UnlimitedAmmo": true,
+              "ReloadInProgress": false,
+              "HeatIncreasePerShot": 0,
+              "HeatLevel": 0,
+              "AutomaticReloading": true,
+              "OverheatDuration": 0,
+              "LinearCoolingRate": 0.1,
+              "ExponentialCoolingRate": 0.3,
+              "BulletLayer": "",
+              "RandomizedAngle": 0
+            },
+            {
+              "isFolded": true,
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "ignoreDefaultControls": true,
@@ -18068,6 +18421,7 @@
               "viewpoint": "TopDown"
             },
             {
+              "isFolded": true,
               "name": "TopDownMovementAnimator",
               "type": "TopDownMovementAnimator::TopDownMovementAnimator",
               "Animation": "Animation",
@@ -23494,7 +23848,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "SlashAugment",
+          "name": "aug_1",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -23617,7 +23971,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "SpeedAugment",
+          "name": "aug_2",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -23735,7 +24089,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "StrengthAugment",
+          "name": "aug_3",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -23853,7 +24207,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "FireAuraAugment",
+          "name": "aug_4",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -23971,7 +24325,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "StaminaAugment",
+          "name": "aug_5",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -24089,7 +24443,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "LightningAuraAugment",
+          "name": "aug_6",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -24207,7 +24561,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "RegenerationAugment",
+          "name": "aug_7",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -24325,7 +24679,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "KnockbackAugment",
+          "name": "aug_8",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -24443,7 +24797,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "DragonBreathAugment",
+          "name": "aug_9",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [
@@ -28233,6 +28587,1233 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "fireball",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite219",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite220",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite221",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite222",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite223",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite224",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite225",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite226",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite227",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite228",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite229",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite230",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite231",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 5,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 35
+                          },
+                          {
+                            "x": 28,
+                            "y": 40
+                          },
+                          {
+                            "x": 5,
+                            "y": 40
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "dragonbreath",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite232",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite233",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite234",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite235",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite236",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite237",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite238",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite239",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite240",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite241",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite242",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 21,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 7
+                          },
+                          {
+                            "x": 42,
+                            "y": 64
+                          },
+                          {
+                            "x": 21,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Lightning",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite243",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 26,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite244",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 26,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite245",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 26,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite246",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 26,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite247",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 26,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite248",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 26,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite249",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 26,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite250",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 26,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 4
+                          },
+                          {
+                            "x": 30,
+                            "y": 8
+                          },
+                          {
+                            "x": 26,
+                            "y": 8
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -28249,6 +29830,12 @@
           },
           {
             "objectName": "LegendarySword"
+          },
+          {
+            "objectName": "SpawnerPortal"
+          },
+          {
+            "objectName": "fireball"
           },
           {
             "folderName": "Enemies",
@@ -28362,31 +29949,31 @@
             "folderName": "Augments",
             "children": [
               {
-                "objectName": "SlashAugment"
+                "objectName": "aug_1"
               },
               {
-                "objectName": "SpeedAugment"
+                "objectName": "aug_2"
               },
               {
-                "objectName": "StrengthAugment"
+                "objectName": "aug_3"
               },
               {
-                "objectName": "FireAuraAugment"
+                "objectName": "aug_4"
               },
               {
-                "objectName": "StaminaAugment"
+                "objectName": "aug_5"
               },
               {
-                "objectName": "LightningAuraAugment"
+                "objectName": "aug_6"
               },
               {
-                "objectName": "RegenerationAugment"
+                "objectName": "aug_7"
               },
               {
-                "objectName": "KnockbackAugment"
+                "objectName": "aug_8"
               },
               {
-                "objectName": "DragonBreathAugment"
+                "objectName": "aug_9"
               },
               {
                 "objectName": "StartingAugments"
@@ -28420,7 +30007,10 @@
             ]
           },
           {
-            "objectName": "SpawnerPortal"
+            "objectName": "dragonbreath"
+          },
+          {
+            "objectName": "Lightning"
           }
         ]
       },
@@ -29143,7 +30733,7 @@
                     "PlayerSlash",
                     "Scale",
                     "=",
-                    "1 + (0.1 * SlashAugment.swipesize)"
+                    "1 + (0.1 * aug_1.swipesize)"
                   ]
                 },
                 {
@@ -29203,7 +30793,7 @@
                         "value": "ButtonStates::ButtonFSM::IsPressed"
                       },
                       "parameters": [
-                        "SlashAugment",
+                        "aug_1",
                         "ButtonFSM",
                         ""
                       ]
@@ -29230,7 +30820,7 @@
                         "value": "ButtonStates::ButtonFSM::IsPressed"
                       },
                       "parameters": [
-                        "SpeedAugment",
+                        "aug_2",
                         "ButtonFSM",
                         ""
                       ]
@@ -29257,7 +30847,7 @@
                         "value": "ButtonStates::ButtonFSM::IsPressed"
                       },
                       "parameters": [
-                        "StrengthAugment",
+                        "aug_3",
                         "ButtonFSM",
                         ""
                       ]
@@ -29284,7 +30874,7 @@
                         "value": "ButtonStates::ButtonFSM::IsPressed"
                       },
                       "parameters": [
-                        "FireAuraAugment",
+                        "aug_4",
                         "ButtonFSM",
                         ""
                       ]
@@ -29311,7 +30901,7 @@
                         "value": "ButtonStates::ButtonFSM::IsPressed"
                       },
                       "parameters": [
-                        "StaminaAugment",
+                        "aug_5",
                         "ButtonFSM",
                         ""
                       ]
@@ -29338,7 +30928,7 @@
                         "value": "ButtonStates::ButtonFSM::IsPressed"
                       },
                       "parameters": [
-                        "LightningAuraAugment",
+                        "aug_6",
                         "ButtonFSM",
                         ""
                       ]
@@ -29365,7 +30955,7 @@
                         "value": "ButtonStates::ButtonFSM::IsPressed"
                       },
                       "parameters": [
-                        "RegenerationAugment",
+                        "aug_7",
                         "ButtonFSM",
                         ""
                       ]
@@ -29392,7 +30982,7 @@
                         "value": "ButtonStates::ButtonFSM::IsPressed"
                       },
                       "parameters": [
-                        "KnockbackAugment",
+                        "aug_8",
                         "ButtonFSM",
                         ""
                       ]
@@ -29419,7 +31009,7 @@
                         "value": "ButtonStates::ButtonFSM::IsPressed"
                       },
                       "parameters": [
-                        "DragonBreathAugment",
+                        "aug_9",
                         "ButtonFSM",
                         ""
                       ]
@@ -29443,8 +31033,29 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "LevelUp",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ShowLayer"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Upgrade\""
+                  ]
+                }
+              ]
             },
             {
               "type": "BuiltinCommonInstructions::Comment",
@@ -29457,6 +31068,17 @@
                 "textR": 0
               },
               "comment": ""
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [],
+              "parameters": []
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -29526,7 +31148,7 @@
                     "Augments",
                     "Scale",
                     "=",
-                    "5000"
+                    "20"
                   ]
                 },
                 {
@@ -29546,6 +31168,16 @@
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "ButtonStates::ButtonFSM::IsPressed"
+                  },
+                  "parameters": [
+                    "Augments",
+                    "ButtonFSM",
+                    ""
+                  ]
+                },
                 {
                   "type": {
                     "value": "BooleanVariable"
@@ -30065,6 +31697,7 @@
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -31740,6 +33373,968 @@
                 }
               ],
               "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Augment abilities",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "colorB": 74,
+                  "colorG": 122,
+                  "colorR": 228,
+                  "creationTime": 0,
+                  "name": "Fireball",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberObjectVariable"
+                          },
+                          "parameters": [
+                            "aug_4",
+                            "fireball",
+                            ">",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"fireballtime\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberObjectVariable"
+                          },
+                          "parameters": [
+                            "aug_4",
+                            "fireball",
+                            ">",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"fireballtime\"",
+                            ">=",
+                            "4"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Mushroom",
+                            "120",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FireBullet::FireBullet::FireTowardObject"
+                          },
+                          "parameters": [
+                            "Player",
+                            "FireBullet",
+                            "Player.X()",
+                            "Player.Y()",
+                            "fireball",
+                            "Mushroom",
+                            "60",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"fireballtime\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberObjectVariable"
+                          },
+                          "parameters": [
+                            "aug_4",
+                            "fireball",
+                            ">",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"fireballtime\"",
+                            ">=",
+                            "4"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "Player",
+                            "BlueSlime",
+                            "120",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FireBullet::FireBullet::FireTowardObject"
+                          },
+                          "parameters": [
+                            "Player",
+                            "FireBullet",
+                            "Player.X()",
+                            "Player.Y()",
+                            "fireball",
+                            "BlueSlime",
+                            "60",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"fireballtime\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberObjectVariable"
+                          },
+                          "parameters": [
+                            "aug_4",
+                            "fireball",
+                            ">",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"fireballtime\"",
+                            ">=",
+                            "4"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Goblin",
+                            "120",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FireBullet::FireBullet::FireTowardObject"
+                          },
+                          "parameters": [
+                            "Player",
+                            "FireBullet",
+                            "Player.X()",
+                            "Player.Y()",
+                            "fireball",
+                            "Goblin",
+                            "60",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"fireballtime\""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 74,
+                  "colorG": 122,
+                  "colorR": 228,
+                  "creationTime": 0,
+                  "name": "Lightning",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberObjectVariable"
+                          },
+                          "parameters": [
+                            "aug_6",
+                            "lightningbolt",
+                            ">",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"lightning\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"lightning\"",
+                            ">=",
+                            "6"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Mushroom",
+                            "120",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"lightning\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "Lightning",
+                            "Mushroom.X()",
+                            "Mushroom.Y()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Lightning",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"lightning\"",
+                            ">=",
+                            "6"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "Player",
+                            "BlueSlime",
+                            "120",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"lightning\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "Lightning",
+                            "BlueSlime.X()",
+                            "BlueSlime.Y()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Lightning",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"lightning\"",
+                            ">=",
+                            "6"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Distance"
+                          },
+                          "parameters": [
+                            "Player",
+                            "Goblin",
+                            "120",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"lightning\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "Lightning",
+                            "Goblin.X()",
+                            "Goblin.Y()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Lightning",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 74,
+                  "colorG": 122,
+                  "colorR": 228,
+                  "creationTime": 0,
+                  "name": "Dragonbreath",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "NumberObjectVariable"
+                          },
+                          "parameters": [
+                            "aug_9",
+                            "dragonbreath",
+                            ">",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"dragonbreath\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "Facing",
+                            "=",
+                            "\"South\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"dragonbreath\"",
+                            ">=",
+                            "4"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "dragonbreath",
+                            "Player.X()",
+                            "Player.Y()+12",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "RotateTowardAngle"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            "120",
+                            "0",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            "Animation",
+                            "=",
+                            "\"NewSprite\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"dragonbreath\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "Facing",
+                            "=",
+                            "\"North\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"dragonbreath\"",
+                            ">=",
+                            "4"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "dragonbreath",
+                            "Player.X()",
+                            "Player.Y()-10",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "RotateTowardAngle"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            "310",
+                            "0",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            "Animation",
+                            "=",
+                            "\"NewSprite\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"dragonbreath\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "Facing",
+                            "=",
+                            "\"West\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"dragonbreath\"",
+                            ">=",
+                            "4"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "dragonbreath",
+                            "Player.X()-5",
+                            "Player.Y()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "RotateTowardAngle"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            "180",
+                            "0",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            "Animation",
+                            "=",
+                            "\"NewSprite\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"dragonbreath\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "StringVariable"
+                          },
+                          "parameters": [
+                            "Facing",
+                            "=",
+                            "\"East\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"dragonbreath\"",
+                            ">=",
+                            "4"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "dragonbreath",
+                            "Player.X()+10",
+                            "Player.Y()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "RotateTowardAngle"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            "180",
+                            "0",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            "Flippable",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            "Animation",
+                            "=",
+                            "\"NewSprite\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "0.5"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "dragonbreath",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetObjectTimer"
+                          },
+                          "parameters": [
+                            "Player",
+                            "\"dragonbreath\""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                }
+              ],
+              "parameters": []
             }
           ],
           "parameters": []
@@ -31749,7 +34344,6 @@
           "colorG": 2,
           "colorR": 208,
           "creationTime": 0,
-          "folded": true,
           "name": "Enemy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -31794,7 +34388,7 @@
                       "parameters": [
                         "Mushroom",
                         "Player.AngleToObject(Mushroom)",
-                        "KnockbackAugment.knockbacklvl",
+                        "aug_8.knockbacklvl",
                         "1"
                       ]
                     },
@@ -33955,121 +36549,7 @@
               "name": "WaveSpawning",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "wavespawntrigger",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "totalenemies",
-                        "=",
-                        "wavenum + 1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "defeatedenemies",
-                        "=",
-                        "0"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "wavespawntrigger",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "wavespawntrigger",
-                        "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetNumberVariable"
-                      },
-                      "parameters": [
-                        "wavenum",
-                        "+",
-                        "1"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "totalenemies",
-                        "=",
-                        "defeatedenemies"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "wavespawntrigger",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ]
-                }
-              ],
+              "events": [],
               "parameters": []
             }
           ],
@@ -34156,7 +36636,7 @@
                     "value": "ButtonStates::ButtonFSM::IsHovered"
                   },
                   "parameters": [
-                    "SlashAugment",
+                    "aug_1",
                     "ButtonFSM",
                     ""
                   ]
@@ -34184,7 +36664,7 @@
                     "value": "ButtonStates::ButtonFSM::IsHovered"
                   },
                   "parameters": [
-                    "SpeedAugment",
+                    "aug_2",
                     "ButtonFSM",
                     ""
                   ]
@@ -34212,7 +36692,7 @@
                     "value": "ButtonStates::ButtonFSM::IsHovered"
                   },
                   "parameters": [
-                    "StrengthAugment",
+                    "aug_3",
                     "ButtonFSM",
                     ""
                   ]
@@ -34240,7 +36720,7 @@
                     "value": "ButtonStates::ButtonFSM::IsHovered"
                   },
                   "parameters": [
-                    "FireAuraAugment",
+                    "aug_4",
                     "ButtonFSM",
                     ""
                   ]
@@ -34268,7 +36748,7 @@
                     "value": "ButtonStates::ButtonFSM::IsHovered"
                   },
                   "parameters": [
-                    "StaminaAugment",
+                    "aug_5",
                     "ButtonFSM",
                     ""
                   ]
@@ -34296,7 +36776,7 @@
                     "value": "ButtonStates::ButtonFSM::IsHovered"
                   },
                   "parameters": [
-                    "LightningAuraAugment",
+                    "aug_6",
                     "ButtonFSM",
                     ""
                   ]
@@ -34324,7 +36804,7 @@
                     "value": "ButtonStates::ButtonFSM::IsHovered"
                   },
                   "parameters": [
-                    "RegenerationAugment",
+                    "aug_7",
                     "ButtonFSM",
                     ""
                   ]
@@ -34352,7 +36832,7 @@
                     "value": "ButtonStates::ButtonFSM::IsHovered"
                   },
                   "parameters": [
-                    "KnockbackAugment",
+                    "aug_8",
                     "ButtonFSM",
                     ""
                   ]
@@ -34380,7 +36860,7 @@
                     "value": "ButtonStates::ButtonFSM::IsHovered"
                   },
                   "parameters": [
-                    "DragonBreathAugment",
+                    "aug_9",
                     "ButtonFSM",
                     ""
                   ]
@@ -34425,7 +36905,7 @@
                     "value": "ButtonStates::ButtonFSM::IsPressed"
                   },
                   "parameters": [
-                    "SlashAugment",
+                    "aug_1",
                     "ButtonFSM",
                     ""
                   ]
@@ -34437,7 +36917,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "SlashAugment",
+                    "aug_1",
                     ""
                   ]
                 },
@@ -34456,7 +36936,7 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "SlashAugment",
+                    "aug_1",
                     "swipesize",
                     "+",
                     "1"
@@ -34472,7 +36952,7 @@
                     "value": "ButtonStates::ButtonFSM::IsPressed"
                   },
                   "parameters": [
-                    "SpeedAugment",
+                    "aug_2",
                     "ButtonFSM",
                     ""
                   ]
@@ -34484,7 +36964,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "SpeedAugment",
+                    "aug_2",
                     ""
                   ]
                 },
@@ -34503,7 +36983,7 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "SpeedAugment",
+                    "aug_2",
                     "speed",
                     "+",
                     "1"
@@ -34519,7 +36999,7 @@
                     "value": "ButtonStates::ButtonFSM::IsPressed"
                   },
                   "parameters": [
-                    "StrengthAugment",
+                    "aug_3",
                     "ButtonFSM",
                     ""
                   ]
@@ -34531,7 +37011,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "StrengthAugment",
+                    "aug_3",
                     ""
                   ]
                 },
@@ -34550,7 +37030,7 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "StrengthAugment",
+                    "aug_3",
                     "powerlvl",
                     "+",
                     "1"
@@ -34566,7 +37046,7 @@
                     "value": "ButtonStates::ButtonFSM::IsPressed"
                   },
                   "parameters": [
-                    "FireAuraAugment",
+                    "aug_4",
                     "ButtonFSM",
                     ""
                   ]
@@ -34578,7 +37058,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "FireAuraAugment",
+                    "aug_4",
                     ""
                   ]
                 },
@@ -34597,7 +37077,7 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "FireAuraAugment",
+                    "aug_4",
                     "fireball",
                     "+",
                     "1"
@@ -34613,7 +37093,7 @@
                     "value": "ButtonStates::ButtonFSM::IsPressed"
                   },
                   "parameters": [
-                    "StaminaAugment",
+                    "aug_5",
                     "ButtonFSM",
                     ""
                   ]
@@ -34625,7 +37105,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "StaminaAugment",
+                    "aug_5",
                     ""
                   ]
                 },
@@ -34644,7 +37124,7 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "StaminaAugment",
+                    "aug_5",
                     "staminaregen",
                     "+",
                     "1"
@@ -34660,7 +37140,7 @@
                     "value": "ButtonStates::ButtonFSM::IsPressed"
                   },
                   "parameters": [
-                    "LightningAuraAugment",
+                    "aug_6",
                     "ButtonFSM",
                     ""
                   ]
@@ -34672,7 +37152,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "LightningAuraAugment",
+                    "aug_6",
                     ""
                   ]
                 },
@@ -34691,7 +37171,7 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "LightningAuraAugment",
+                    "aug_6",
                     "lightningbolt",
                     "+",
                     "1"
@@ -34707,7 +37187,7 @@
                     "value": "ButtonStates::ButtonFSM::IsPressed"
                   },
                   "parameters": [
-                    "RegenerationAugment",
+                    "aug_7",
                     "ButtonFSM",
                     ""
                   ]
@@ -34719,7 +37199,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "RegenerationAugment",
+                    "aug_7",
                     ""
                   ]
                 },
@@ -34738,7 +37218,7 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "RegenerationAugment",
+                    "aug_7",
                     "healthregen",
                     "+",
                     "1"
@@ -34754,7 +37234,7 @@
                     "value": "ButtonStates::ButtonFSM::IsPressed"
                   },
                   "parameters": [
-                    "KnockbackAugment",
+                    "aug_8",
                     "ButtonFSM",
                     ""
                   ]
@@ -34766,7 +37246,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "KnockbackAugment",
+                    "aug_8",
                     ""
                   ]
                 },
@@ -34785,7 +37265,7 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "KnockbackAugment",
+                    "aug_8",
                     "knockbacklvl",
                     "+",
                     "1"
@@ -34801,7 +37281,7 @@
                     "value": "ButtonStates::ButtonFSM::IsPressed"
                   },
                   "parameters": [
-                    "DragonBreathAugment",
+                    "aug_9",
                     "ButtonFSM",
                     ""
                   ]
@@ -34813,7 +37293,7 @@
                     "value": "Delete"
                   },
                   "parameters": [
-                    "DragonBreathAugment",
+                    "aug_9",
                     ""
                   ]
                 },
@@ -34832,7 +37312,7 @@
                     "value": "SetNumberObjectVariable"
                   },
                   "parameters": [
-                    "DragonBreathAugment",
+                    "aug_9",
                     "dragonbreath",
                     "+",
                     "1"
@@ -34884,6 +37364,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Cutscene",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -35389,7 +37870,7 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "isLocked": false,
-          "name": "Upgrade",
+          "name": "Starter",
           "renderingType": "",
           "visibility": false,
           "cameras": [],
@@ -35422,9 +37903,9 @@
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
           "isLocked": false,
-          "name": "Starter",
+          "name": "Upgrade",
           "renderingType": "",
-          "visibility": false,
+          "visibility": true,
           "cameras": [],
           "effects": [
             {
