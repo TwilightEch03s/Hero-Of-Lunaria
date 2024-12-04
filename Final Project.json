@@ -1,7 +1,7 @@
 {
   "firstLayout": "Lunaris",
   "gdVersion": {
-    "build": 218,
+    "build": 219,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -98,7 +98,6 @@
   "resources": {
     "resources": [
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharDown1.png",
         "kind": "image",
         "metadata": "",
@@ -107,7 +106,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharDown2.png",
         "kind": "image",
         "metadata": "",
@@ -116,7 +114,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharDown3.png",
         "kind": "image",
         "metadata": "",
@@ -125,7 +122,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharDown4.png",
         "kind": "image",
         "metadata": "",
@@ -134,7 +130,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACgarRight1.png",
         "kind": "image",
         "metadata": "",
@@ -143,7 +138,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACgarRight2.png",
         "kind": "image",
         "metadata": "",
@@ -152,7 +146,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACgarRight3.png",
         "kind": "image",
         "metadata": "",
@@ -161,7 +154,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACgarRight4.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/ACgarRight4.png\",\"extension\":\".png\"}",
@@ -170,7 +162,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharLeft1.png",
         "kind": "image",
         "metadata": "",
@@ -179,7 +170,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharLeft2.png",
         "kind": "image",
         "metadata": "",
@@ -188,7 +178,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharLeft3.png",
         "kind": "image",
         "metadata": "",
@@ -197,7 +186,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharLeft4.png",
         "kind": "image",
         "metadata": "",
@@ -206,7 +194,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharUp1.png",
         "kind": "image",
         "metadata": "",
@@ -215,7 +202,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharUp2.png",
         "kind": "image",
         "metadata": "",
@@ -224,7 +210,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharUp3.png",
         "kind": "image",
         "metadata": "",
@@ -233,7 +218,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/ACharUp4.png",
         "kind": "image",
         "metadata": "",
@@ -242,7 +226,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tree1.png",
         "kind": "image",
         "metadata": "",
@@ -251,7 +234,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tree2.png",
         "kind": "image",
         "metadata": "",
@@ -260,7 +242,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bush1.png",
         "kind": "image",
         "metadata": "",
@@ -269,7 +250,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/House1.png",
         "kind": "image",
         "metadata": "",
@@ -278,7 +258,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/House2.png",
         "kind": "image",
         "metadata": "",
@@ -287,7 +266,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Grass1.png",
         "kind": "image",
         "metadata": "",
@@ -303,7 +281,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/8BitOperatorPlus8Regular_Edited.png",
         "kind": "image",
         "metadata": "",
@@ -312,7 +289,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Border.png",
         "kind": "image",
         "metadata": "",
@@ -321,7 +297,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Border2.png",
         "kind": "image",
         "metadata": "",
@@ -360,7 +335,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Creature_Player.png",
         "kind": "image",
         "metadata": "",
@@ -369,7 +343,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Creature_Enemy.png",
         "kind": "image",
         "metadata": "",
@@ -378,7 +351,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/thumbnail.png",
         "kind": "image",
         "metadata": "",
@@ -387,7 +359,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Shaded dark joystick border.png",
         "kind": "image",
         "metadata": "",
@@ -400,7 +371,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Shaded dark joystick thumb.png",
         "kind": "image",
         "metadata": "",
@@ -413,7 +383,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Target round button.png",
         "kind": "image",
         "metadata": "",
@@ -426,7 +395,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Bar Red Fill Bar.png",
         "kind": "image",
         "metadata": "",
@@ -439,7 +407,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Bar White Border.png",
         "kind": "image",
         "metadata": "",
@@ -452,7 +419,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/TilesetFloor.png",
         "kind": "image",
         "metadata": "",
@@ -461,7 +427,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/TilesetWater.png",
         "kind": "image",
         "metadata": "",
@@ -470,7 +435,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Copper Bar Border.png",
         "kind": "image",
         "metadata": "",
@@ -483,7 +447,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Framed Pixel Red Fill Bar.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Framed Pixel Red Fill Bar.png\",\"extension\":\".png\",\"pskl\":{}}",
@@ -496,7 +459,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Framed Pixel Red Fill Bar.png2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/Framed Pixel Red Fill Bar.png2.png\"}",
@@ -505,7 +467,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel-border (11).png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Default-panel-border (11).png\",\"extension\":\".png\",\"pskl\":{}}",
@@ -518,7 +479,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel-border (11).png2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/Default-panel-border (11).png2.png\"}",
@@ -527,7 +487,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Red Potion.png",
         "kind": "image",
         "metadata": "",
@@ -540,7 +499,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Iron Sword 15.png",
         "kind": "image",
         "metadata": "",
@@ -553,7 +511,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Numeral 4_Drop-shadowed.png",
         "kind": "image",
         "metadata": "",
@@ -566,7 +523,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Numeral 4_Outlined.png",
         "kind": "image",
         "metadata": "",
@@ -579,7 +535,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Empty2.png",
         "kind": "image",
         "metadata": "",
@@ -592,7 +547,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -605,7 +559,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Down_2.png",
         "kind": "image",
         "metadata": "",
@@ -618,7 +571,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Down_3.png",
         "kind": "image",
         "metadata": "",
@@ -631,7 +583,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Down_4.png",
         "kind": "image",
         "metadata": "",
@@ -644,7 +595,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Left_1.png",
         "kind": "image",
         "metadata": "",
@@ -657,7 +607,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Left_2.png",
         "kind": "image",
         "metadata": "",
@@ -670,7 +619,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Left_3.png",
         "kind": "image",
         "metadata": "",
@@ -683,7 +631,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Left_4.png",
         "kind": "image",
         "metadata": "",
@@ -696,7 +643,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Right_1.png",
         "kind": "image",
         "metadata": "",
@@ -709,7 +655,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Right_2.png",
         "kind": "image",
         "metadata": "",
@@ -722,7 +667,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Right_3.png",
         "kind": "image",
         "metadata": "",
@@ -735,7 +679,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Right_4.png",
         "kind": "image",
         "metadata": "",
@@ -748,7 +691,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Up_1.png",
         "kind": "image",
         "metadata": "",
@@ -761,7 +703,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Up_2.png",
         "kind": "image",
         "metadata": "",
@@ -774,7 +715,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Up_3.png",
         "kind": "image",
         "metadata": "",
@@ -787,7 +727,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Idle Up_4.png",
         "kind": "image",
         "metadata": "",
@@ -800,7 +739,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Down_1.png",
         "kind": "image",
         "metadata": "",
@@ -813,7 +751,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Down_2.png",
         "kind": "image",
         "metadata": "",
@@ -826,7 +763,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Down_3.png",
         "kind": "image",
         "metadata": "",
@@ -839,7 +775,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Down_4.png",
         "kind": "image",
         "metadata": "",
@@ -852,7 +787,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Left_1.png",
         "kind": "image",
         "metadata": "",
@@ -865,7 +799,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Left_2.png",
         "kind": "image",
         "metadata": "",
@@ -878,7 +811,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Left_3.png",
         "kind": "image",
         "metadata": "",
@@ -891,7 +823,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Left_4.png",
         "kind": "image",
         "metadata": "",
@@ -904,7 +835,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Right_1.png",
         "kind": "image",
         "metadata": "",
@@ -917,7 +847,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Right_2.png",
         "kind": "image",
         "metadata": "",
@@ -930,7 +859,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Right_3.png",
         "kind": "image",
         "metadata": "",
@@ -943,7 +871,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Right_4.png",
         "kind": "image",
         "metadata": "",
@@ -956,7 +883,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Up_1.png",
         "kind": "image",
         "metadata": "",
@@ -969,7 +895,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Up_2.png",
         "kind": "image",
         "metadata": "",
@@ -982,7 +907,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Up_3.png",
         "kind": "image",
         "metadata": "",
@@ -995,7 +919,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Farmer_Walk Up_4.png",
         "kind": "image",
         "metadata": "",
@@ -1008,7 +931,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory_Example_03.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Inventory_Example_03.png\",\"extension\":\".png\",\"pskl\":{}}",
@@ -1021,7 +943,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Sword3.png",
         "kind": "image",
         "metadata": "",
@@ -1034,7 +955,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Sword4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1043,7 +963,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Weapon.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1052,7 +971,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Weapon2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1061,7 +979,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Weapon3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1070,7 +987,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory_9Slices.png",
         "kind": "image",
         "metadata": "",
@@ -1083,7 +999,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory_9Slices.png2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1092,7 +1007,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory_9Slices.png3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1101,7 +1015,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewTiledSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/NewTiledSprite.png\"}",
@@ -1110,7 +1023,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory_Background.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1119,7 +1031,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Helmet5.png",
         "kind": "image",
         "metadata": "",
@@ -1132,7 +1043,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Boot9.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Inventory Slot Boot9.png\",\"extension\":\".png\"}",
@@ -1145,7 +1055,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Chest6.png",
         "kind": "image",
         "metadata": "",
@@ -1158,7 +1067,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Helmet6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1167,7 +1075,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Chest7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1176,7 +1083,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Boot10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1185,7 +1091,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Ring7.png",
         "kind": "image",
         "metadata": "",
@@ -1198,7 +1103,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Ring8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1207,7 +1111,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory_9Slices.png4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1216,7 +1119,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel-border (11).png3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1225,7 +1127,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel-border (11).png4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/Default-panel-border (11).png4.png\"}",
@@ -1234,7 +1135,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel-border (11).png5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1243,7 +1143,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel-border (11).png6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1252,7 +1151,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel-border (11).png7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1261,7 +1159,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel-border (11).png8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1270,7 +1167,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Sheild4.png",
         "kind": "image",
         "metadata": "",
@@ -1283,7 +1179,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Sheild5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1292,7 +1187,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Inventory Slot Empty3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1312,7 +1206,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sword.png",
         "kind": "image",
         "metadata": "",
@@ -1325,7 +1218,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sword2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1334,7 +1226,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sword3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1343,7 +1234,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sword4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1352,7 +1242,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sword5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1361,7 +1250,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sword6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1370,7 +1258,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sword7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1379,7 +1266,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Iron Helmet.png",
         "kind": "image",
         "metadata": "",
@@ -1392,7 +1278,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Iron Helmet2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1401,7 +1286,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Iron Helmet3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1410,7 +1294,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Iron Helmet4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1419,7 +1302,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Red Potion2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1428,7 +1310,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Red Potion3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1437,7 +1318,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Iron Helmet5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1446,7 +1326,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Silver Key.png",
         "kind": "image",
         "metadata": "",
@@ -1459,7 +1338,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Coin Sack.png",
         "kind": "image",
         "metadata": "",
@@ -1472,7 +1350,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sapphire Ring.png",
         "kind": "image",
         "metadata": "",
@@ -1485,7 +1362,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Coin Sack2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1494,7 +1370,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sword8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1503,7 +1378,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Iron Helmet6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1512,7 +1386,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sword9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1521,7 +1394,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Sword10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1530,7 +1402,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Treasure Chest_No Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -1543,7 +1414,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Treasure Chest_Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -1556,7 +1426,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Shadow.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1565,7 +1434,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knapsack_No Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -1578,7 +1446,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Knapsack_Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -1591,7 +1458,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Shadow2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1600,7 +1466,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Longsword_No Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -1613,7 +1478,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Longsword_Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -1626,7 +1490,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Buckler Shield_No Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -1639,7 +1502,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Buckler Shield_Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -1652,7 +1514,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Normal Potion Red_No Shadow2.png",
         "kind": "image",
         "metadata": "",
@@ -1665,7 +1526,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Normal Potion Red_Shadow2.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Normal Potion Red_Shadow2.png\",\"extension\":\".png\"}",
@@ -1678,7 +1538,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ring_No Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -1691,7 +1550,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ring_Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -1704,7 +1562,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Shadow3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1713,7 +1570,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Shadow4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1722,7 +1578,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/No Shadow.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1731,7 +1586,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Shadow5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1740,7 +1594,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Shadow6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Shadow6.png\"}",
@@ -1749,7 +1602,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1758,7 +1610,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "char_a_p1_0bas_humn_v01.png",
         "kind": "image",
         "metadata": "",
@@ -1767,7 +1618,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/char_a_p1_0bas_humn_v01.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/char_a_p1_0bas_humn_v01.png\"}",
@@ -1776,7 +1626,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "char_a_p1_0bas_humn_v02.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"char_a_p1_0bas_humn_v02.png\",\"extension\":\".png\"}",
@@ -1785,7 +1634,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "char_a_p1_0bas_humn_v03.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"char_a_p1_0bas_humn_v03.png\",\"extension\":\".png\"}",
@@ -1794,7 +1642,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "char_a_p1_0bas_humn_v04.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"char_a_p1_0bas_humn_v04.png\",\"extension\":\".png\"}",
@@ -1803,7 +1650,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/char_a_p1_0bas_humn_v02.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1812,7 +1658,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "char_a_p1_0bas_humn_v05.png",
         "kind": "image",
         "metadata": "",
@@ -1821,7 +1666,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Pixel Lands Village Demo/premade_buildings_demo.png",
         "kind": "image",
         "metadata": "",
@@ -1830,7 +1674,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite73.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1839,7 +1682,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite74.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1848,7 +1690,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite75.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1857,7 +1698,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite76.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1866,7 +1706,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite77.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1875,7 +1714,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite78.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1884,7 +1722,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite79.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1893,7 +1730,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite80.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1902,7 +1738,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite81.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1911,7 +1746,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite82.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1920,7 +1754,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite83.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1929,7 +1762,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite84.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1938,7 +1770,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite85.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1947,7 +1778,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite86.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1956,7 +1786,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite87.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1965,7 +1794,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite88.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1974,7 +1802,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite89.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1983,7 +1810,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite90.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1992,7 +1818,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite91.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2001,7 +1826,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite92.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2010,7 +1834,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite93.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2019,7 +1842,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite94.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2028,7 +1850,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite95.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2037,7 +1858,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite96.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2046,7 +1866,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite97.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2055,7 +1874,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite98.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2064,7 +1882,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite99.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2073,7 +1890,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite100.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2082,7 +1898,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite101.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2091,7 +1906,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite102.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2100,7 +1914,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite103.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2109,7 +1922,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite104.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2118,7 +1930,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite105.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2127,7 +1938,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite106.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2136,7 +1946,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite107.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2145,7 +1954,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite108.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2154,7 +1962,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite109.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2163,7 +1970,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite110.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2172,7 +1978,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite111.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2181,7 +1986,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite112.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2190,7 +1994,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite113.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2199,7 +2002,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite114.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2208,7 +2010,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite115.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2217,7 +2018,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite116.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2226,7 +2026,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite117.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2235,7 +2034,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite118.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2244,7 +2042,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite119.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2253,7 +2050,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite120.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2262,7 +2058,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite121.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2271,7 +2066,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite122.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2280,7 +2074,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite123.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2289,7 +2082,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite124.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2298,7 +2090,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite125.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2307,7 +2098,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite126.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2316,7 +2106,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite127.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2325,7 +2114,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite128.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2334,7 +2122,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Pixel Lands Forest Demo/forest_demo_objects.png",
         "kind": "image",
         "metadata": "",
@@ -2343,7 +2130,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Pixel Lands Village Demo/objects_demo.png",
         "kind": "image",
         "metadata": "",
@@ -2352,7 +2138,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite129.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite129.png\"}",
@@ -2361,7 +2146,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite130.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2370,7 +2154,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/char_a_p1_0bas_humn_v07.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2379,7 +2162,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/char_a_p1_0bas_humn_v08.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2388,7 +2170,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/char_a_p1_0bas_humn_v09.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2397,7 +2178,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/char_a_p1_0bas_humn_v010.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2406,7 +2186,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/char_a_p1_0bas_humn_v011.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2415,7 +2194,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Trees+.png",
         "kind": "image",
         "metadata": "",
@@ -2424,7 +2202,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite131.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2433,7 +2210,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite132.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2442,7 +2218,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite133.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2451,7 +2226,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel-border (17).png",
         "kind": "image",
         "metadata": "",
@@ -2464,7 +2238,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "Pixel Art Top Down - Basic v1.1.2/Texture/TX Tileset Wall.png",
         "kind": "image",
         "metadata": "",
@@ -2473,7 +2246,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2482,7 +2254,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2491,7 +2262,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk0.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2500,7 +2270,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk02.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2509,7 +2278,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk03.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2518,7 +2286,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk04.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2527,7 +2294,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk05.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2536,7 +2302,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk06.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2545,7 +2310,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2554,7 +2318,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2563,7 +2326,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2572,7 +2334,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2581,7 +2342,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk11.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2590,7 +2350,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk12.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2599,7 +2358,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk13.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2608,7 +2366,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk14.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2617,7 +2374,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk15.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2626,7 +2382,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk16.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2635,7 +2390,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk17.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2644,7 +2398,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Pixel Art Top Down - Basic v1.1.2/Texture/TX Props.png",
         "kind": "image",
         "metadata": "",
@@ -2653,7 +2406,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Pixel Lands Forest Demo/forest_demo_terrain.png",
         "kind": "image",
         "metadata": "",
@@ -2662,7 +2414,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/House.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2671,7 +2422,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Player.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2680,7 +2430,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2689,7 +2438,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2698,7 +2446,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2707,7 +2454,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2716,7 +2462,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2725,7 +2470,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2734,7 +2478,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2743,7 +2486,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2752,7 +2494,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2761,7 +2502,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite11.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2770,7 +2510,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite12.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2779,7 +2518,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite13.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2788,7 +2526,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_charge.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2797,7 +2534,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_charge2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2806,7 +2542,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_charge3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2815,7 +2550,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_charge4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2824,7 +2558,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_charge5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2833,7 +2566,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_attack.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2842,7 +2574,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_attack2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2851,7 +2582,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_attack3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2860,7 +2590,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_attack4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2869,7 +2598,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_attack5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2878,7 +2606,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_attack6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2887,7 +2614,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_attack7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2896,7 +2622,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_attack8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2905,7 +2630,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_death.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2914,7 +2638,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_death2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2923,7 +2646,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_death3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2932,7 +2654,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_death4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2941,7 +2662,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite14.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2950,7 +2670,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite15.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2959,7 +2678,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite16.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2968,7 +2686,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite17.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2977,7 +2694,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite18.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2986,7 +2702,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite19.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2995,7 +2710,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite20.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3004,7 +2718,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite21.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3013,7 +2726,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite22.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3022,7 +2734,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite23.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3031,7 +2742,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite24.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3040,7 +2750,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk1.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3049,7 +2758,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3058,7 +2766,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3067,7 +2774,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3076,7 +2782,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk18.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3085,7 +2790,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk19.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3094,7 +2798,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk20.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3103,7 +2806,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk21.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3112,7 +2814,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk22.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3121,7 +2822,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk23.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3130,7 +2830,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk24.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3139,7 +2838,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk25.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3148,7 +2846,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk26.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3157,7 +2854,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk27.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3166,7 +2862,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk28.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3175,7 +2870,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk29.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3184,7 +2878,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk07.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3193,7 +2886,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk08.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3202,7 +2894,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk09.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3211,7 +2902,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk010.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3220,7 +2910,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk011.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3229,7 +2918,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk012.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3238,7 +2926,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk013.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3247,7 +2934,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk014.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3256,7 +2942,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword0.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3265,7 +2950,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword02.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3274,7 +2958,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword03.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3283,7 +2966,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword04.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3292,7 +2974,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword05.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3301,7 +2982,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword06.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3310,7 +2990,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword07.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3319,7 +2998,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword08.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3328,7 +3006,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword1.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3337,7 +3014,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3346,7 +3022,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3355,7 +3030,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3364,7 +3038,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3373,7 +3046,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3382,7 +3054,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3391,7 +3062,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3400,7 +3070,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3409,7 +3078,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3418,7 +3086,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword11.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3427,7 +3094,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword12.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3436,7 +3102,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword13.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3445,7 +3110,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword14.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3454,7 +3118,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword15.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3463,7 +3126,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword16.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3472,7 +3134,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword17.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3481,7 +3142,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword18.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3490,7 +3150,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword19.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3499,7 +3158,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword20.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3508,7 +3166,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword21.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3517,7 +3174,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword22.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3526,7 +3182,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword23.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3535,7 +3190,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/walksword24.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3544,7 +3198,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite25.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3553,7 +3206,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite26.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3562,7 +3214,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite27.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3571,7 +3222,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite28.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3580,7 +3230,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite29.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3589,7 +3238,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite30.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3598,7 +3246,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite31.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3607,7 +3254,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite32.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3616,7 +3262,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite33.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3625,7 +3270,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite34.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3634,7 +3278,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite35.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3643,7 +3286,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite36.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3652,7 +3294,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite37.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3661,7 +3302,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite38.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3670,7 +3310,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite39.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3679,7 +3318,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite40.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3688,7 +3326,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite41.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3697,7 +3334,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite42.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3706,7 +3342,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite43.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3715,7 +3350,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite44.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3724,7 +3358,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite45.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3733,7 +3366,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite46.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3742,7 +3374,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite47.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3751,7 +3382,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite48.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3760,7 +3390,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite49.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3769,7 +3398,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite50.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3778,7 +3406,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite51.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3787,7 +3414,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite52.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3796,7 +3422,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite53.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3805,7 +3430,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite54.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3814,7 +3438,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite55.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3823,7 +3446,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite56.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3832,7 +3454,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite57.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3841,7 +3462,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite58.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3850,7 +3470,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite59.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3859,7 +3478,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite60.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3868,7 +3486,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_hurt.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3877,7 +3494,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_hurt2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3886,7 +3502,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_hurt3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3895,7 +3510,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_hurt4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3904,7 +3518,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_walk.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3913,7 +3526,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_walk2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3922,7 +3534,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_walk3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3931,7 +3542,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_walk4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3940,7 +3550,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_walk5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3949,7 +3558,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_walk6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3958,7 +3566,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_walk7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3967,7 +3574,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_walk8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3976,7 +3582,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_attack.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3985,7 +3590,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_attack2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -3994,7 +3598,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_attack3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4003,7 +3606,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_attack4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4012,7 +3614,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_attack5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4021,7 +3622,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_attack6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4030,7 +3630,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_attack7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4039,7 +3638,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_attack8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4048,7 +3646,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_death.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4057,7 +3654,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_death2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4066,7 +3662,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_death3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4075,7 +3670,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_death4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4084,7 +3678,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite61.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4093,7 +3686,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite62.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4102,7 +3694,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite63.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4111,7 +3702,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite64.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4120,7 +3710,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite65.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4129,7 +3718,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite66.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4138,7 +3726,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite67.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4147,7 +3734,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite68.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4156,7 +3742,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite69.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4165,7 +3750,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite70.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4174,7 +3758,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite71.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4183,7 +3766,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite72.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4192,7 +3774,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite134.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4201,7 +3782,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite135.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4210,7 +3790,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite136.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4219,7 +3798,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite137.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4228,7 +3806,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_hurt.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4237,7 +3814,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_hurt2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4246,7 +3822,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_hurt3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4255,7 +3830,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Mushroom_hurt4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4264,7 +3838,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4273,7 +3846,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4282,7 +3854,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4291,7 +3862,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4300,7 +3870,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4309,7 +3878,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4318,7 +3886,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4327,7 +3894,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4336,7 +3902,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4345,7 +3910,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4354,7 +3918,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt11.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4363,7 +3926,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt12.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4372,7 +3934,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/player_hurt13.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4511,7 +4072,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Dot Bar Blue Border.png",
         "kind": "image",
         "metadata": "",
@@ -4524,7 +4084,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Dot Bar Blue Fill Bar.png",
         "kind": "image",
         "metadata": "",
@@ -4537,7 +4096,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb_1.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4546,7 +4104,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb_2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4555,7 +4112,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb_3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4564,7 +4120,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb_4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4573,7 +4128,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb_5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4582,7 +4136,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb_6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4591,7 +4144,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb_7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4600,7 +4152,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb_8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4609,7 +4160,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite194.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4618,7 +4168,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite194.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4627,7 +4176,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite194.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4636,7 +4184,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite194.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4645,7 +4192,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite195.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4654,7 +4200,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite196.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4663,7 +4208,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite197.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4672,7 +4216,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite198.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4681,7 +4224,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite199.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4690,7 +4232,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite200.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4699,7 +4240,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite201.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4708,7 +4248,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite202.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4717,7 +4256,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite203.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4726,7 +4264,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4735,7 +4272,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4744,7 +4280,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4753,7 +4288,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4762,7 +4296,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4771,7 +4304,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4780,7 +4312,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4789,7 +4320,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4798,7 +4328,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4807,7 +4336,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4816,7 +4344,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb11.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4825,7 +4352,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/experience_orb12.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4834,7 +4360,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Minotaur - Sprite Sheet.png",
         "kind": "image",
         "metadata": "",
@@ -4843,7 +4368,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite204.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4852,7 +4376,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite204.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4861,7 +4384,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite204.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4870,7 +4392,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite204.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4879,7 +4400,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite204.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4888,7 +4408,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite204.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4897,7 +4416,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite205.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4906,7 +4424,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite205.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4915,7 +4432,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite205.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4924,7 +4440,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite205.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4933,7 +4448,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite205.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4942,7 +4456,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite205.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4951,7 +4464,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4960,7 +4472,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4969,7 +4480,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4978,7 +4488,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4987,7 +4496,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -4996,7 +4504,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5005,7 +4512,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite207.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5014,7 +4520,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite207.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5023,7 +4528,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite207.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5032,7 +4536,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite207.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5041,7 +4544,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite207.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5050,7 +4552,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite207.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5059,7 +4560,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite207.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5068,7 +4568,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite207.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5077,7 +4576,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite207.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5086,7 +4584,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite208.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5095,7 +4592,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite208.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5104,7 +4600,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite208.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5113,7 +4608,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite208.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5122,7 +4616,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite208.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5131,7 +4624,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite208.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5140,7 +4632,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Pixelarium - Enemy Pack1 - Free Version/Slime/Blue Slime/spr_Blue_slime_walk.png",
         "kind": "image",
         "metadata": "",
@@ -5149,7 +4640,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Blue_Slime.png\"}",
@@ -5158,7 +4648,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Blue_Slime2.png\"}",
@@ -5167,7 +4656,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Blue_Slime3.png\"}",
@@ -5176,7 +4664,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Blue_Slime4.png\"}",
@@ -5185,7 +4672,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Blue_Slime5.png\"}",
@@ -5194,7 +4680,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Blue_Slime6.png\"}",
@@ -5203,7 +4688,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5212,7 +4696,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5221,7 +4704,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5230,7 +4712,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5239,7 +4720,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime11.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5248,7 +4728,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime12.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5257,7 +4736,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime13.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5266,7 +4744,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime14.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5275,7 +4752,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime15.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5284,7 +4760,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime16.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5293,7 +4768,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime17.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5302,7 +4776,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime18.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5311,7 +4784,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime19.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5320,7 +4792,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime20.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5329,7 +4800,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime21.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5338,7 +4808,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime22.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5347,7 +4816,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime23.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5356,7 +4824,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime24.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5365,7 +4832,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime25.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5374,7 +4840,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime26.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5383,7 +4848,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime27.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5392,7 +4856,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime28.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5401,7 +4864,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime29.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5410,7 +4872,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime30.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5419,7 +4880,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime31.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5428,7 +4888,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime32.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5437,7 +4896,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime33.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5446,7 +4904,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime34.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5455,7 +4912,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime35.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5464,7 +4920,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Blue_Slime36.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5473,7 +4928,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite209.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5482,7 +4936,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite210.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite210.png\"}",
@@ -5491,7 +4944,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_death5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5500,7 +4952,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_death6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5509,7 +4960,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_death7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5518,7 +4968,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/goblin_death8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5527,7 +4976,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite211.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5536,7 +4984,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "HOUSES/home2.png",
         "kind": "image",
         "metadata": "",
@@ -5545,7 +4992,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/HOUSES_home2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5554,7 +5000,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite212.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5563,7 +5008,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite213.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5572,7 +5016,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "tf_darkdimension_updated2020/tf_darkdimension_sheet.png",
         "kind": "image",
         "metadata": "",
@@ -5581,7 +5024,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite214.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5590,7 +5032,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "roboden-tileset/forest/tiles.png",
         "kind": "image",
         "metadata": "",
@@ -5599,7 +5040,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "roboden-tileset/tundra/tiles.png",
         "kind": "image",
         "metadata": "",
@@ -5608,7 +5048,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Free-Undead-Tileset-Top-Down-Pixel-Art/Tiled_files/water_detilazation_v2.png",
         "kind": "image",
         "metadata": "",
@@ -5617,7 +5056,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Free-Undead-Tileset-Top-Down-Pixel-Art/Tiled_files/Ground_rocks.png",
         "kind": "image",
         "metadata": "",
@@ -5626,7 +5064,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite215.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5635,7 +5072,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Normal Potion Green_No Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -5648,7 +5084,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Normal Potion Green_Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -5661,7 +5096,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Normal Potion Blue_No Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -5674,7 +5108,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Normal Potion Blue_Shadow.png",
         "kind": "image",
         "metadata": "",
@@ -5687,7 +5120,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/StaminaPotion.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/StaminaPotion.png\"}",
@@ -5696,7 +5128,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Framed Pixel Red Fill Bar3.png",
         "kind": "image",
         "metadata": "",
@@ -5705,7 +5136,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/assets_Framed Pixel Red Fill Bar3.png2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -5714,7 +5144,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/assets_Framed Pixel Red Fill Bar3.png3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -5723,7 +5152,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite204.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5732,7 +5160,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite205.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5741,7 +5168,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite205.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5750,7 +5176,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite205.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5759,7 +5184,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5768,7 +5192,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5777,7 +5200,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5786,7 +5208,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5795,7 +5216,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5804,7 +5224,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5813,7 +5232,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5822,7 +5240,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5831,7 +5248,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5840,7 +5256,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5849,7 +5264,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5858,7 +5272,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite206.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5867,7 +5280,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite207.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5876,7 +5288,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite211.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5885,7 +5296,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Slime_King.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5894,7 +5304,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Slime_King2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5903,7 +5312,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Slime_King3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5912,7 +5320,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Slime_King4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5921,7 +5328,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/king_death.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5930,7 +5336,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/king_death2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5939,7 +5344,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/king_death3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5948,7 +5352,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/king_death4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5957,7 +5360,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite212.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5966,7 +5368,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite212.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5975,7 +5376,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite212.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5984,7 +5384,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite212.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -5993,7 +5392,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite213.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6002,7 +5400,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite214.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6011,7 +5408,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite215.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6020,7 +5416,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite216.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6029,7 +5424,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite217.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6038,7 +5432,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite218.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6047,7 +5440,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite219.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6056,7 +5448,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite220.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6065,7 +5456,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite221.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6074,7 +5464,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite222.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6083,7 +5472,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite223.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6092,7 +5480,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite224.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6101,7 +5488,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite225.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6110,7 +5496,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite226.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6119,7 +5504,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite227.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6128,7 +5512,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite228.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6137,7 +5520,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite229.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6146,7 +5528,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite230.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6155,7 +5536,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite231.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6164,7 +5544,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite232.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6173,7 +5552,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite233.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6182,7 +5560,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite234.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6191,7 +5568,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite235.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6200,7 +5576,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite236.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6209,7 +5584,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite237.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6218,7 +5592,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite238.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6227,7 +5600,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite239.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6236,7 +5608,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite240.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6245,7 +5616,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite241.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6254,7 +5624,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite242.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6263,7 +5632,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite243.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6272,7 +5640,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite244.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6281,7 +5648,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite245.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6290,7 +5656,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite246.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6299,7 +5664,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite247.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6308,7 +5672,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite248.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6317,7 +5680,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite249.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6326,7 +5688,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite250.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6575,7 +5936,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite251.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6584,7 +5944,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/aug_1.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6593,7 +5952,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/aug_2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6602,7 +5960,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/aug_3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6611,7 +5968,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/aug_4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6620,7 +5976,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/aug_5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6629,7 +5984,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/aug_6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6638,7 +5992,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/aug_7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6647,7 +6000,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/aug_8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6656,7 +6008,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/aug_9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6685,7 +6036,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/DamageRadius.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/DamageRadius.png\"}",
@@ -6694,7 +6044,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/DamageRadius2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6703,7 +6052,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/DamageRadius3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6732,7 +6080,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite252.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6741,7 +6088,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite253.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6750,7 +6096,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite254.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6759,7 +6104,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite255.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6768,7 +6112,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite256.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6777,7 +6120,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite257.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6786,7 +6128,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite258.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6795,7 +6136,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite259.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6804,7 +6144,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite260.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6813,7 +6152,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite261.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6822,7 +6160,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite262.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6831,7 +6168,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite263.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6840,7 +6176,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite264.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6849,7 +6184,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite265.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6858,7 +6192,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite266.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6867,7 +6200,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite267.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6876,7 +6208,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite268.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6885,7 +6216,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite269.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6894,7 +6224,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite270.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6903,7 +6232,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6912,7 +6240,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk30.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6921,7 +6248,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk31.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6930,7 +6256,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Walk32.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6939,7 +6264,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Attack.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6948,7 +6272,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Attack2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6957,7 +6280,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Attack3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6966,7 +6288,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Attack4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6975,7 +6296,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Attack5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6984,7 +6304,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Attack6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -6993,7 +6312,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Attack7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7002,7 +6320,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Attack8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7011,7 +6328,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Hurt.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7020,7 +6336,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Hurt2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7029,7 +6344,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Hurt3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7038,7 +6352,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Hurt4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7047,7 +6360,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Block.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7056,7 +6368,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Block2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7065,7 +6376,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Block3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7074,7 +6384,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Block4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7083,7 +6392,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Death.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7092,7 +6400,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Death2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7101,7 +6408,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Death3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -7110,7 +6416,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Death4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
