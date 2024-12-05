@@ -53994,9 +53994,9 @@
           "textAlignment": "left",
           "characterSize": 35,
           "color": {
-            "b": 218,
-            "g": 235,
-            "r": 74
+            "b": 134,
+            "g": 233,
+            "r": 184
           },
           "content": {
             "bold": false,
@@ -54004,11 +54004,11 @@
             "isShadowEnabled": true,
             "italic": false,
             "outlineColor": "255;255;255",
-            "outlineThickness": 2,
+            "outlineThickness": 1,
             "shadowAngle": 90,
             "shadowBlurRadius": 2,
             "shadowColor": "0;0;0",
-            "shadowDistance": 4,
+            "shadowDistance": 3,
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
@@ -54017,7 +54017,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 35,
-            "color": "74;235;218"
+            "color": "184;233;134"
           }
         }
       ],
